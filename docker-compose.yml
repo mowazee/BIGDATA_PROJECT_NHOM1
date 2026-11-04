@@ -1,0 +1,115 @@
+version: "3.8"
+
+services:
+  # 1. MySQL Database (Lưu dữ liệu cào về từ Selenium/Scrapy)
+  mysql-db:
+    image: mysql:8.0
+    container_name: mysql-db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: ecommerce_db
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./shared_data:/var/lib/mysql-files
+
+  # 2. Hadoop NameNode (Quản lý HDFS)
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - ./shared_data:/shared_data
+      - ./mapreduce_code:/mapreduce_code
+    environment:
+      - CLUSTER_NAME=bigdata_ecommerce
+    env_file:
+      - ./hadoop.env
+
+  # 3. Hadoop DataNode (Lưu trữ dữ liệu thực tế)
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    depends_on:
+      - namenode
+    env_file:
+      - ./hadoop.env
+
+  # 4. YARN ResourceManager (Quản lý tài nguyên chạy MapReduce)
+  resourcemanager:
+    image: bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
+    container_name: resourcemanager
+    ports:
+      - "8088:8088"
+    depends_on:
+      - namenode
+      - datanode
+    env_file:
+      - ./hadoop.env
+
+  # 5. YARN NodeManager
+  nodemanager:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
+    container_name: nodemanager
+    depends_on:
+      - resourcemanager
+    env_file:
+      - ./hadoop.env
+
+  # 6. Postgres (Lưu trữ Metadata riêng cho Hive)
+  hive-metastore-postgresql:
+    image: bde2020/hive-metastore-postgresql:2.3.0
+    container_name: hive-metastore-postgresql
+
+  # 7. Hive Metastore
+  hive-metastore:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-metastore
+    env_file:
+      - ./hadoop.env
+    command: /opt/hive/bin/hive --service metastore
+    depends_on:
+      - namenode
+      - datanode
+      - hive-metastore-postgresql
+    ports:
+      - "9083:9083"
+
+  # 8. Apache Hive Server (Truy vấn HQL)
+  hive-server:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-server
+    env_file:
+      - ./hadoop.env
+    environment:
+      HIVE_CORE_CONF_javax_jdo_option_ConnectionURL: "jdbc:postgresql://hive-metastore/metastore"
+      SERVICE_PRECONDITION: "hive-metastore:9083"
+    depends_on:
+      - hive-metastore
+    ports:
+      - "10000:10000"
+      - "10002:10002"
+
+  # 9. Apache Spark Master (Công cụ mở rộng lấy điểm ngoài chương trình)
+  spark-master:
+    image: bde2020/spark-master:3.0.0-hadoop3.2
+    container_name: spark-master
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+    environment:
+      - INIT_DAEMON_STEP=setup_spark
+    env_file:
+      - ./hadoop.env
+
+  # 10. Apache Hue (Giao diện Web UI quản lý HDFS & Hive trực quan)
+  hue:
+    image: gethue/hue:latest
+    container_name: hue
+    ports:
+      - "8888:8888"
+    depends_on:
+      - namenode
+      - hive-server

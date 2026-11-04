@@ -1,0 +1,265 @@
+﻿id,source,category,brand,raw_name,clean_name,ram_gb,storage_gb,original_price,sale_price,discount_pct,rating,review_count
+1,TGDD,Phone,Apple,iPhone 18 Pro Max 256GB | 256 GB | Băng Thanh,iPhone 18 Pro Max 256GB (Băng Thanh),8,256,41990000,41990000,0.0,4.9,1
+2,TGDD,Phone,Apple,iPhone 18 Pro Max 256GB | 256 GB | Đen,iPhone 18 Pro Max 256GB (Đen),8,256,41990000,41990000,0.0,4.9,1
+3,TGDD,Phone,Apple,iPhone 18 Pro Max 256GB | 256 GB | Bạc,iPhone 18 Pro Max 256GB (Bạc),8,256,41990000,41990000,0.0,4.9,1
+4,TGDD,Phone,Apple,iPhone 18 Pro Max 256GB | 256 GB | Đỏ Burgundy,iPhone 18 Pro Max 256GB (Đỏ Burgundy),8,256,41990000,41990000,0.0,4.9,1
+5,TGDD,Phone,Apple,iPhone 18 Pro Max 512GB | 512 GB | Băng Thanh,iPhone 18 Pro Max 512GB (Băng Thanh),8,512,48490000,48490000,0.0,4.9,1
+6,TGDD,Phone,Apple,iPhone 18 Pro Max 512GB | 512 GB | Đen,iPhone 18 Pro Max 512GB (Đen),8,512,48490000,48490000,0.0,4.9,1
+7,TGDD,Phone,Apple,iPhone 18 Pro Max 512GB | 512 GB | Bạc,iPhone 18 Pro Max 512GB (Bạc),8,512,48490000,48490000,0.0,4.9,1
+8,TGDD,Phone,Apple,iPhone 18 Pro Max 512GB | 512 GB | Đỏ Burgundy,iPhone 18 Pro Max 512GB (Đỏ Burgundy),8,512,48490000,48490000,0.0,4.9,1
+9,TGDD,Phone,Apple,iPhone 18 Pro Max 1TB | 1 TB | Băng Thanh,iPhone 18 Pro Max 1TB (Băng Thanh),8,1024,61490000,61490000,0.0,4.9,1
+10,TGDD,Phone,Apple,iPhone 18 Pro Max 1TB | 1 TB | Đen,iPhone 18 Pro Max 1TB (Đen),8,1024,61490000,61490000,0.0,4.9,1
+11,TGDD,Phone,Apple,iPhone 18 Pro Max 1TB | 1 TB | Bạc,iPhone 18 Pro Max 1TB (Bạc),8,1024,61490000,61490000,0.0,4.9,1
+12,TGDD,Phone,Apple,iPhone 18 Pro Max 1TB | 1 TB | Đỏ Burgundy,iPhone 18 Pro Max 1TB (Đỏ Burgundy),8,1024,61490000,61490000,0.0,4.9,1
+13,TGDD,Phone,Apple,iPhone 18 Pro Max 2TB | 2 TB | Băng Thanh,iPhone 18 Pro Max 2TB (Băng Thanh),8,2048,80990000,80990000,0.0,4.9,1
+14,TGDD,Phone,Apple,iPhone 18 Pro Max 2TB | 2 TB | Đen,iPhone 18 Pro Max 2TB (Đen),8,2048,80990000,80990000,0.0,4.9,1
+15,TGDD,Phone,Apple,iPhone 18 Pro Max 2TB | 2 TB | Bạc,iPhone 18 Pro Max 2TB (Bạc),8,2048,80990000,80990000,0.0,4.9,1
+16,TGDD,Phone,Apple,iPhone 18 Pro Max 2TB | 2 TB | Đỏ Burgundy,iPhone 18 Pro Max 2TB (Đỏ Burgundy),8,2048,80990000,80990000,0.0,4.9,1
+17,TGDD,Phone,Apple,iPhone 18 Pro 256GB | 256 GB | Băng Thanh,iPhone 18 Pro 256GB (Băng Thanh),8,256,38990000,38990000,0.0,4.9,3
+18,TGDD,Phone,Apple,iPhone 18 Pro 256GB | 256 GB | Đen,iPhone 18 Pro 256GB (Đen),8,256,38990000,38990000,0.0,4.9,3
+19,TGDD,Phone,Apple,iPhone 18 Pro 256GB | 256 GB | Bạc,iPhone 18 Pro 256GB (Bạc),8,256,38990000,38990000,0.0,4.9,3
+20,TGDD,Phone,Apple,iPhone 18 Pro 256GB | 256 GB | Đỏ Burgundy,iPhone 18 Pro 256GB (Đỏ Burgundy),8,256,38990000,38990000,0.0,4.9,3
+21,TGDD,Phone,Apple,iPhone 18 Pro 512GB | 512 GB | Băng Thanh,iPhone 18 Pro 512GB (Băng Thanh),8,512,45490000,45490000,0.0,4.9,3
+22,TGDD,Phone,Apple,iPhone 18 Pro 512GB | 512 GB | Đen,iPhone 18 Pro 512GB (Đen),8,512,45490000,45490000,0.0,4.9,3
+23,TGDD,Phone,Apple,iPhone 18 Pro 512GB | 512 GB | Bạc,iPhone 18 Pro 512GB (Bạc),8,512,45490000,45490000,0.0,4.9,3
+24,TGDD,Phone,Apple,iPhone 18 Pro 512GB | 512 GB | Đỏ Burgundy,iPhone 18 Pro 512GB (Đỏ Burgundy),8,512,45490000,45490000,0.0,4.9,3
+25,TGDD,Phone,Apple,iPhone 18 Pro 1TB | 1 TB | Băng Thanh,iPhone 18 Pro 1TB (Băng Thanh),8,1024,58490000,58490000,0.0,4.9,3
+26,TGDD,Phone,Apple,iPhone 18 Pro 1TB | 1 TB | Đen,iPhone 18 Pro 1TB (Đen),8,1024,58490000,58490000,0.0,4.9,3
+27,TGDD,Phone,Apple,iPhone 18 Pro 1TB | 1 TB | Bạc,iPhone 18 Pro 1TB (Bạc),8,1024,58490000,58490000,0.0,4.9,3
+28,TGDD,Phone,Apple,iPhone 18 Pro 1TB | 1 TB | Đỏ Burgundy,iPhone 18 Pro 1TB (Đỏ Burgundy),8,1024,58490000,58490000,0.0,4.9,3
+29,TGDD,Phone,Apple,iPhone 18 Pro 2TB | 2 TB | Băng Thanh,iPhone 18 Pro 2TB (Băng Thanh),8,2048,77990000,77990000,0.0,4.9,3
+30,TGDD,Phone,Apple,iPhone 18 Pro 2TB | 2 TB | Đen,iPhone 18 Pro 2TB (Đen),8,2048,77990000,77990000,0.0,4.9,3
+31,TGDD,Phone,Apple,iPhone 18 Pro 2TB | 2 TB | Bạc,iPhone 18 Pro 2TB (Bạc),8,2048,77990000,77990000,0.0,4.9,3
+32,TGDD,Phone,Apple,iPhone 18 Pro 2TB | 2 TB | Đỏ Burgundy,iPhone 18 Pro 2TB (Đỏ Burgundy),8,2048,77990000,77990000,0.0,4.9,3
+33,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 256GB | 256 GB | Xanh Đậm,iPhone 17 Pro Max 256GB (Xanh Đậm),8,256,37990000,31780000,16.35,4.9,80
+34,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 256GB | 256 GB | Cam Vũ Trụ,iPhone 17 Pro Max 256GB (Cam Vũ Trụ),8,256,37990000,31130000,18.06,4.9,80
+35,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 512GB | 512 GB | Xanh Đậm,iPhone 17 Pro Max 512GB (Xanh Đậm),8,512,44490000,41490000,6.74,4.9,80
+36,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 512GB | 512 GB | Bạc,iPhone 17 Pro Max 512GB (Bạc),8,512,44490000,41490000,6.74,4.9,80
+37,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 512GB | 512 GB | Cam Vũ Trụ,iPhone 17 Pro Max 512GB (Cam Vũ Trụ),8,512,44490000,41490000,6.74,4.9,80
+38,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 1TB | 1 TB | Xanh Đậm,iPhone 17 Pro Max 1TB (Xanh Đậm),8,1024,50990000,47990000,5.88,4.9,80
+39,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 1TB | 1 TB | Bạc,iPhone 17 Pro Max 1TB (Bạc),8,1024,50990000,47990000,5.88,4.9,80
+40,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 1TB | 1 TB | Cam Vũ Trụ,iPhone 17 Pro Max 1TB (Cam Vũ Trụ),8,1024,50990000,47990000,5.88,4.9,80
+41,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 2TB | 2 TB | Xanh Đậm,iPhone 17 Pro Max 2TB (Xanh Đậm),8,2048,63990000,60990000,4.69,4.9,80
+42,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 2TB | 2 TB | Bạc,iPhone 17 Pro Max 2TB (Bạc),8,2048,63990000,60990000,4.69,4.9,80
+43,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro Max 2TB | 2 TB | Cam Vũ Trụ,iPhone 17 Pro Max 2TB (Cam Vũ Trụ),8,2048,63990000,60990000,4.69,4.9,80
+44,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/128GB | 8 GB 8GB/128GB | Xanh dương nhạt,Samsung Galaxy A57 5G 8GB/128GB (Xanh dương nhạt),8,128,13490000,9640000,28.54,4.9,17
+45,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/128GB | 8 GB 8GB/128GB | Tím,Samsung Galaxy A57 5G 8GB/128GB (Tím),8,128,13490000,10990000,18.53,4.9,17
+46,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/128GB | 8 GB 8GB/128GB | Xanh đen,Samsung Galaxy A57 5G 8GB/128GB (Xanh đen),8,128,13490000,9740000,27.8,4.9,17
+47,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/128GB | 8 GB 8GB/128GB | Xám,Samsung Galaxy A57 5G 8GB/128GB (Xám),8,128,13490000,7910000,41.36,4.9,17
+48,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/256GB | 8 GB 8GB/256GB | Xanh dương nhạt,Samsung Galaxy A57 5G 8GB/256GB (Xanh dương nhạt),8,256,15490000,9040000,41.64,4.9,17
+49,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/256GB | 8 GB 8GB/256GB | Tím,Samsung Galaxy A57 5G 8GB/256GB (Tím),8,256,15490000,9040000,41.64,4.9,17
+50,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/256GB | 8 GB 8GB/256GB | Xanh đen,Samsung Galaxy A57 5G 8GB/256GB (Xanh đen),8,256,15490000,9040000,41.64,4.9,17
+51,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 8GB/256GB | 8 GB 8GB/256GB | Xám,Samsung Galaxy A57 5G 8GB/256GB (Xám),8,256,15490000,9040000,41.64,4.9,17
+52,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 12GB/256GB | 12 GB 12GB/256GB | Xanh dương nhạt,Samsung Galaxy A57 5G 12GB/256GB (Xanh dương nhạt),12,256,16490000,10260000,37.78,4.9,17
+53,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 12GB/256GB | 12 GB 12GB/256GB | Tím,Samsung Galaxy A57 5G 12GB/256GB (Tím),12,256,16490000,10720000,34.99,4.9,17
+54,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 12GB/256GB | 12 GB 12GB/256GB | Xanh đen,Samsung Galaxy A57 5G 12GB/256GB (Xanh đen),12,256,16490000,10720000,34.99,4.9,17
+55,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A57 5G 12GB/256GB | 12 GB 12GB/256GB | Xám,Samsung Galaxy A57 5G 12GB/256GB (Xám),12,256,16490000,10720000,34.99,4.9,17
+56,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | 12 GB 12GB/256GB | Xanh Dương,Samsung Galaxy S26 Ultra 5G 12GB/256GB (Xanh Dương),12,256,40990000,25500000,37.79,4.9,13
+57,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | 12 GB 12GB/256GB | Trắng,Samsung Galaxy S26 Ultra 5G 12GB/256GB (Trắng),12,256,40990000,25100000,38.77,4.9,13
+58,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | 12 GB 12GB/256GB | Đen,Samsung Galaxy S26 Ultra 5G 12GB/256GB (Đen),12,256,40990000,25230000,38.45,4.9,13
+59,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | 12 GB 12GB/256GB | Tím,Samsung Galaxy S26 Ultra 5G 12GB/256GB (Tím),12,256,40990000,25100000,38.77,4.9,13
+60,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | 12 GB 12GB/512GB | Xanh Dương,Samsung Galaxy S26 Ultra 5G 12GB/512GB (Xanh Dương),12,512,46990000,35090000,25.32,4.9,13
+61,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | 12 GB 12GB/512GB | Trắng,Samsung Galaxy S26 Ultra 5G 12GB/512GB (Trắng),12,512,46990000,35090000,25.32,4.9,13
+62,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | 12 GB 12GB/512GB | Đen,Samsung Galaxy S26 Ultra 5G 12GB/512GB (Đen),12,512,46990000,35090000,25.32,4.9,13
+63,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | 12 GB 12GB/512GB | Tím,Samsung Galaxy S26 Ultra 5G 12GB/512GB (Tím),12,512,46990000,35090000,25.32,4.9,13
+64,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | 16 GB 16GB/1TB | Xanh Dương,Samsung Galaxy S26 Ultra 5G 16GB/1TB (Xanh Dương),16,1024,58990000,43290000,26.61,4.9,13
+65,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | 16 GB 16GB/1TB | Trắng,Samsung Galaxy S26 Ultra 5G 16GB/1TB (Trắng),16,1024,58990000,51990000,11.87,4.9,13
+66,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | 16 GB 16GB/1TB | Đen,Samsung Galaxy S26 Ultra 5G 16GB/1TB (Đen),16,1024,58990000,43290000,26.61,4.9,13
+67,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | 16 GB 16GB/1TB | Tím,Samsung Galaxy S26 Ultra 5G 16GB/1TB (Tím),16,1024,58990000,51990000,11.87,4.9,13
+68,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/256GB | 12 GB 256 GB | Tím,Xiaomi 17T 5G 12GB/256GB (Tím),12,256,20090000,12300000,38.78,4.9,4
+69,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/256GB | 12 GB 256 GB | Đen,Xiaomi 17T 5G 12GB/256GB (Đen),12,256,20090000,11530000,42.61,4.9,4
+70,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/256GB | 12 GB 256 GB | Trắng,Xiaomi 17T 5G 12GB/256GB (Trắng),12,256,20090000,12300000,38.78,4.9,4
+71,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/512GB | 512 GB | Tím,Xiaomi 17T 5G 12GB/512GB (Tím),12,512,20990000,12850000,38.78,4.9,4
+72,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/512GB | 512 GB | Đen,Xiaomi 17T 5G 12GB/512GB (Đen),12,512,20990000,12300000,41.4,4.9,4
+73,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/512GB | 512 GB | Trắng,Xiaomi 17T 5G 12GB/512GB (Trắng),12,512,20990000,12850000,38.78,4.9,4
+74,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17T 5G 12GB/512GB | 512 GB | Xanh Dương,Xiaomi 17T 5G 12GB/512GB (Xanh Dương),12,512,20990000,14520000,30.82,4.9,4
+75,TGDD,Phone,OPPO,Điện thoại OPPO Reno16 Pro 5G 12GB/256GB | 12 GB 256 GB | Trắng,OPPO Reno16 Pro 5G 12GB/256GB (Trắng),12,256,25990000,16170000,37.78,4.9,4
+76,TGDD,Phone,OPPO,Điện thoại OPPO Reno16 Pro 5G 12GB/256GB | 12 GB 256 GB | Đen,OPPO Reno16 Pro 5G 12GB/256GB (Đen),12,256,25990000,16170000,37.78,4.9,4
+77,TGDD,Phone,Vivo,Điện thoại Vivo X300 Ultra 16GB/512GB | 16 GB 512 GB | Xanh lá,Vivo X300 Ultra 16GB/512GB (Xanh lá),16,512,49990000,32070000,35.85,4.9,0
+78,TGDD,Phone,Vivo,Điện thoại Vivo X300 Ultra 16GB/512GB | 16 GB 512 GB | Đen,Vivo X300 Ultra 16GB/512GB (Đen),16,512,49990000,32070000,35.85,4.9,0
+79,TGDD,Phone,Realme,Điện thoại realme C100x 4GB/128GB | 4 GB 4GB/128GB | Vàng,realme C100x 4GB/128GB (Vàng),4,128,7290000,3620000,50.34,4.9,1
+80,TGDD,Phone,Realme,Điện thoại realme C100x 4GB/128GB | 4 GB 4GB/128GB | Xanh,realme C100x 4GB/128GB (Xanh),4,128,7290000,4340000,40.47,4.9,1
+81,TGDD,Phone,Realme,Điện thoại realme C100x 6GB/128GB | 6 GB 6GB/128GB | Vàng,realme C100x 6GB/128GB (Vàng),6,128,8290000,4080000,50.78,4.9,1
+82,TGDD,Phone,Realme,Điện thoại realme C100x 6GB/128GB | 6 GB 6GB/128GB | Xanh,realme C100x 6GB/128GB (Xanh),6,128,8290000,4080000,50.78,4.9,1
+83,TGDD,Phone,Realme,realme 16T 5G 8GB/128GB | 8GB/128GB | Đen,realme 16T 5G 8GB/128GB (Đen),8,128,11990000,5510000,54.05,5.0,1
+84,TGDD,Phone,Realme,realme 16T 5G 8GB/128GB | 8GB/128GB | Xanh,realme 16T 5G 8GB/128GB (Xanh),8,128,11990000,5540000,53.79,5.0,1
+85,TGDD,Phone,Realme,realme 16T 5G 8GB/256GB | 8GB/256GB | Đen,realme 16T 5G 8GB/256GB (Đen),8,256,12990000,7000000,46.11,5.0,1
+86,TGDD,Phone,Realme,realme 16T 5G 8GB/256GB | 8GB/256GB | Xanh,realme 16T 5G 8GB/256GB (Xanh),8,256,12990000,7070000,45.57,5.0,1
+87,TGDD,Phone,HONOR,Điện thoại Honor 600 Lite 8GB/256GB | 8 GB 256 GB | Đen,Honor 600 Lite 8GB/256GB (Đen),8,256,10990000,6580000,40.13,4.9,4
+88,TGDD,Phone,HONOR,Điện thoại Honor 600 Lite 8GB/256GB | 8 GB 256 GB | Xanh lá,Honor 600 Lite 8GB/256GB (Xanh lá),8,256,10990000,6510000,40.76,4.9,4
+89,TGDD,Phone,HONOR,Điện thoại Honor 600 Lite 8GB/256GB | 8 GB 256 GB | Vàng,Honor 600 Lite 8GB/256GB (Vàng),8,256,10990000,6580000,40.13,4.9,4
+90,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 256GB | 256 GB | Xanh Đậm,iPhone 17 Pro 256GB (Xanh Đậm),8,256,34990000,31990000,8.57,4.9,18
+91,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 256GB | 256 GB | Cam Vũ Trụ,iPhone 17 Pro 256GB (Cam Vũ Trụ),8,256,34990000,31990000,8.57,4.9,18
+92,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 256GB | 256 GB | Bạc,iPhone 17 Pro 256GB (Bạc),8,256,34990000,31990000,8.57,4.9,18
+93,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 512GB | 512 GB | Xanh Đậm,iPhone 17 Pro 512GB (Xanh Đậm),8,512,41490000,29940000,27.84,4.9,18
+94,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 512GB | 512 GB | Cam Vũ Trụ,iPhone 17 Pro 512GB (Cam Vũ Trụ),8,512,41490000,34310000,17.31,4.9,18
+95,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 512GB | 512 GB | Bạc,iPhone 17 Pro 512GB (Bạc),8,512,41490000,38490000,7.23,4.9,18
+96,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 1TB | 1 TB | Xanh Đậm,iPhone 17 Pro 1TB (Xanh Đậm),8,1024,47990000,44990000,6.25,4.9,18
+97,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 1TB | 1 TB | Cam Vũ Trụ,iPhone 17 Pro 1TB (Cam Vũ Trụ),8,1024,47990000,44990000,6.25,4.9,18
+98,TGDD,Phone,Apple,Điện thoại iPhone 17 Pro 1TB | 1 TB | Bạc,iPhone 17 Pro 1TB (Bạc),8,1024,47990000,44990000,6.25,4.9,18
+99,TGDD,Phone,Apple,Điện thoại iPhone 17 256GB | 256 GB | Tím Oải Hương,iPhone 17 256GB (Tím Oải Hương),8,256,28990000,28990000,0.0,4.9,33
+100,TGDD,Phone,Apple,Điện thoại iPhone 17 256GB | 256 GB | Đen,iPhone 17 256GB (Đen),8,256,23380000,23380000,0.0,4.9,33
+101,TGDD,Phone,Apple,Điện thoại iPhone 17 256GB | 256 GB | Trắng,iPhone 17 256GB (Trắng),8,256,23980000,23980000,0.0,4.9,33
+102,TGDD,Phone,Apple,Điện thoại iPhone 17 256GB | 256 GB | Xanh Lá Xô Thơm,iPhone 17 256GB (Xanh Lá Xô Thơm),8,256,23740000,23740000,0.0,4.9,33
+103,TGDD,Phone,Apple,Điện thoại iPhone 17 256GB | 256 GB | Xanh Lam Khói,iPhone 17 256GB (Xanh Lam Khói),8,256,23140000,23140000,0.0,4.9,33
+104,TGDD,Phone,Apple,Điện thoại iPhone 17 512GB | 512 GB | Tím Oải Hương,iPhone 17 512GB (Tím Oải Hương),8,512,35490000,33990000,4.23,4.9,33
+105,TGDD,Phone,Apple,Điện thoại iPhone 17 512GB | 512 GB | Đen,iPhone 17 512GB (Đen),8,512,35490000,33990000,4.23,4.9,33
+106,TGDD,Phone,Apple,Điện thoại iPhone 17 512GB | 512 GB | Trắng,iPhone 17 512GB (Trắng),8,512,35490000,33990000,4.23,4.9,33
+107,TGDD,Phone,Apple,Điện thoại iPhone 17 512GB | 512 GB | Xanh Lá Xô Thơm,iPhone 17 512GB (Xanh Lá Xô Thơm),8,512,35490000,33990000,4.23,4.9,33
+108,TGDD,Phone,Apple,Điện thoại iPhone 17 512GB | 512 GB | Xanh Lam Khói,iPhone 17 512GB (Xanh Lam Khói),8,512,35490000,33990000,4.23,4.9,33
+109,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 8GB/128GB | 8 GB 8GB/128GB | Đen,Samsung Galaxy A37 5G 8GB/128GB (Đen),8,128,11790000,8000000,32.15,4.9,5
+110,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 8GB/128GB | 8 GB 8GB/128GB | Xanh lá đậm,Samsung Galaxy A37 5G 8GB/128GB (Xanh lá đậm),8,128,11790000,7110000,39.69,4.9,5
+111,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 8GB/128GB | 8 GB 8GB/128GB | Trắng,Samsung Galaxy A37 5G 8GB/128GB (Trắng),8,128,11790000,7180000,39.1,4.9,5
+112,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 8GB/128GB | 8 GB 8GB/128GB | Tím,Samsung Galaxy A37 5G 8GB/128GB (Tím),8,128,11790000,7300000,38.08,4.9,5
+113,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 6GB/128GB | 6 GB 6GB/128GB | Đen,Samsung Galaxy A37 5G 6GB/128GB (Đen),6,128,11190000,7590000,32.17,4.9,5
+114,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 6GB/128GB | 6 GB 6GB/128GB | Xanh lá đậm,Samsung Galaxy A37 5G 6GB/128GB (Xanh lá đậm),6,128,11190000,7510000,32.89,4.9,5
+115,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 6GB/128GB | 6 GB 6GB/128GB | Trắng,Samsung Galaxy A37 5G 6GB/128GB (Trắng),6,128,11190000,7890000,29.49,4.9,5
+116,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 5G 6GB/128GB | 6 GB 6GB/128GB | Tím,Samsung Galaxy A37 5G 6GB/128GB (Tím),6,128,11190000,6780000,39.41,4.9,5
+117,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 8GB/256GB | 8 GB 8GB/256GB | Đen,Samsung Galaxy A37 8GB/256GB (Đen),8,256,13990000,8120000,41.96,4.9,5
+118,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 8GB/256GB | 8 GB 8GB/256GB | Xanh lá đậm,Samsung Galaxy A37 8GB/256GB (Xanh lá đậm),8,256,13990000,8070000,42.32,4.9,5
+119,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 8GB/256GB | 8 GB 8GB/256GB | Trắng,Samsung Galaxy A37 8GB/256GB (Trắng),8,256,13990000,8200000,41.39,4.9,5
+120,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy A37 8GB/256GB | 8 GB 8GB/256GB | Tím,Samsung Galaxy A37 8GB/256GB (Tím),8,256,13990000,7950000,43.17,4.9,5
+121,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/256GB | 12 GB 256 GB | Đen,Xiaomi 17 5G 12GB/256GB (Đen),12,256,26990000,16440000,39.09,4.9,14
+122,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/256GB | 12 GB 256 GB | Xanh Dương,Xiaomi 17 5G 12GB/256GB (Xanh Dương),12,256,26990000,17170000,36.38,4.9,14
+123,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/256GB | 12 GB 256 GB | Xanh lá,Xiaomi 17 5G 12GB/256GB (Xanh lá),12,256,26990000,16990000,37.05,4.9,14
+124,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/512GB | 512 GB | Đen,Xiaomi 17 5G 12GB/512GB (Đen),12,512,28490000,16890000,40.72,4.9,14
+125,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/512GB | 512 GB | Xanh Dương,Xiaomi 17 5G 12GB/512GB (Xanh Dương),12,512,28490000,18240000,35.98,4.9,14
+126,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/512GB | 512 GB | Hồng,Xiaomi 17 5G 12GB/512GB (Hồng),12,512,28490000,18930000,33.56,4.9,14
+127,TGDD,Phone,Xiaomi,Điện thoại Xiaomi 17 5G 12GB/512GB | 512 GB | Xanh lá,Xiaomi 17 5G 12GB/512GB (Xanh lá),12,512,28490000,18240000,35.98,4.9,14
+128,TGDD,Phone,OPPO,Điện thoại OPPO Reno16 5G 8GB/256GB | 8 GB 256 GB | Tím nhạt,OPPO Reno16 5G 8GB/256GB (Tím nhạt),8,256,18990000,12550000,33.91,4.9,0
+129,TGDD,Phone,OPPO,Điện thoại OPPO Reno16 5G 8GB/256GB | 8 GB 256 GB | Tím,OPPO Reno16 5G 8GB/256GB (Tím),8,256,18990000,12550000,33.91,4.9,0
+130,TGDD,Phone,OPPO,Điện thoại OPPO Reno16 5G 8GB/256GB | 8 GB 256 GB | Trắng,OPPO Reno16 5G 8GB/256GB (Trắng),8,256,18990000,12550000,33.91,4.9,0
+131,TGDD,Phone,OPPO,Điện thoại OPPO Find X9 Ultra 12GB/512GB | 512 GB | Nâu nhạt,OPPO Find X9 Ultra 12GB/512GB (Nâu nhạt),12,512,49990000,49990000,0.0,4.9,1
+132,TGDD,Phone,OPPO,Điện thoại OPPO Find X9 Ultra 12GB/512GB | 512 GB | Cam,OPPO Find X9 Ultra 12GB/512GB (Cam),12,512,49990000,49990000,0.0,4.9,1
+133,TGDD,Phone,Vivo,Điện thoại Vivo V70 FE 5G 8GB/256GB | 8 GB | Tím,Vivo V70 FE 5G 8GB/256GB (Tím),8,256,13990000,7380000,47.25,4.9,4
+134,TGDD,Phone,Vivo,Điện thoại Vivo V70 FE 5G 8GB/256GB | 8 GB | Bạc,Vivo V70 FE 5G 8GB/256GB (Bạc),8,256,13990000,7340000,47.53,4.9,4
+135,TGDD,Phone,Vivo,Điện thoại Vivo V70 FE 5G 8GB/256GB | 8 GB | Xanh đen,Vivo V70 FE 5G 8GB/256GB (Xanh đen),8,256,13990000,7490000,46.46,4.9,4
+136,TGDD,Phone,Vivo,Điện thoại Vivo V70 FE 5G 12GB/256GB | 12 GB | Tím,Vivo V70 FE 5G 12GB/256GB (Tím),12,256,15990000,8610000,46.15,4.9,4
+137,TGDD,Phone,Vivo,Điện thoại Vivo V70 FE 5G 12GB/256GB | 12 GB | Bạc,Vivo V70 FE 5G 12GB/256GB (Bạc),12,256,15990000,8430000,47.28,4.9,4
+138,TGDD,Phone,Realme,Điện thoại realme C100i 4GB/64GB | 64 GB | Xám,realme C100i 4GB/64GB (Xám),4,64,5290000,3530000,33.27,5.0,0
+139,TGDD,Phone,Realme,Điện thoại realme C100i 4GB/64GB | 64 GB | Tím,realme C100i 4GB/64GB (Tím),4,64,5290000,2830000,46.5,5.0,0
+140,TGDD,Phone,Realme,Điện thoại realme C100i 4GB/128GB | 4 GB 128 GB | Xám,realme C100i 4GB/128GB (Xám),4,128,6290000,3400000,45.95,5.0,0
+141,TGDD,Phone,Realme,Điện thoại realme C100i 4GB/128GB | 4 GB 128 GB | Tím,realme C100i 4GB/128GB (Tím),4,128,6290000,3370000,46.42,5.0,0
+142,TGDD,Phone,HONOR,Điện thoại HONOR X9d 5G 8GB/256GB | 8 GB 8GB/256GB | Đen,HONOR X9d 5G 8GB/256GB (Đen),8,256,12490000,11490000,8.01,4.9,19
+143,TGDD,Phone,HONOR,Điện thoại HONOR X9d 5G 8GB/256GB | 8 GB 8GB/256GB | Vàng,HONOR X9d 5G 8GB/256GB (Vàng),8,256,12490000,11490000,8.01,4.9,19
+144,TGDD,Phone,HONOR,Điện thoại HONOR X9d 5G 12GB/256GB | 12 GB 12GB/256GB | Đen,HONOR X9d 5G 12GB/256GB (Đen),12,256,13490000,12490000,7.41,4.9,19
+145,TGDD,Phone,HONOR,Điện thoại HONOR X9d 5G 12GB/256GB | 12 GB 12GB/256GB | Vàng,HONOR X9d 5G 12GB/256GB (Vàng),12,256,13490000,8390000,37.81,4.9,19
+146,TGDD,Phone,HONOR,Điện thoại HONOR X9d 5G 12GB/256GB | 12 GB 12GB/256GB | Đỏ,HONOR X9d 5G 12GB/256GB (Đỏ),12,256,13490000,8440000,37.44,4.9,19
+147,TGDD,Phone,Tecno,Điện thoại Tecno Spark 50 4GB/128GB | 4 GB 128 GB | Xám,Tecno Spark 50 4GB/128GB (Xám),4,128,4990000,3150000,36.87,5.0,0
+148,TGDD,Phone,Tecno,Điện thoại Tecno Spark 50 4GB/128GB | 4 GB 128 GB | Đen,Tecno Spark 50 4GB/128GB (Đen),4,128,4990000,3140000,37.07,5.0,0
+149,TGDD,Phone,Nubia,Điện thoại Nubia Air 5G 8GB/256GB | 8 GB 256 GB | Vàng,Nubia Air 5G 8GB/256GB (Vàng),8,256,5490000,5490000,0.0,5.0,0
+150,TGDD,Phone,Nubia,Điện thoại Nubia Air 5G 8GB/256GB | 8 GB 256 GB | Đen,Nubia Air 5G 8GB/256GB (Đen),8,256,5490000,5490000,0.0,5.0,0
+151,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/128GB | 128 GB | Xanh Bạc Hà,Motorola Edge 70 Fusion 8GB/128GB (Xanh Bạc Hà),8,128,11990000,10990000,8.34,4.9,2
+152,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/128GB | 128 GB | Đen,Motorola Edge 70 Fusion 8GB/128GB (Đen),8,128,11990000,8480000,29.27,4.9,2
+153,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/128GB | 128 GB | Xanh lam,Motorola Edge 70 Fusion 8GB/128GB (Xanh lam),8,128,11990000,8350000,30.36,4.9,2
+154,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/256GB | 8 GB 256 GB | Xanh Bạc Hà,Motorola Edge 70 Fusion 8GB/256GB (Xanh Bạc Hà),8,256,12990000,9090000,30.02,4.9,2
+155,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/256GB | 8 GB 256 GB | Đen,Motorola Edge 70 Fusion 8GB/256GB (Đen),8,256,12990000,11990000,7.7,4.9,2
+156,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 Fusion 8GB/256GB | 8 GB 256 GB | Xanh lam,Motorola Edge 70 Fusion 8GB/256GB (Xanh lam),8,256,12990000,9840000,24.25,4.9,2
+157,TGDD,Phone,Apple,Điện thoại iPhone 15 128GB | 6 GB 128 GB | Xanh dương nhạt,iPhone 15 128GB (Xanh dương nhạt),6,128,16030000,16030000,0.0,4.9,153
+158,TGDD,Phone,Apple,Điện thoại iPhone 15 128GB | 6 GB 128 GB | Đen,iPhone 15 128GB (Đen),6,128,17350000,17350000,0.0,4.9,153
+159,TGDD,Phone,Apple,Điện thoại iPhone 15 128GB | 6 GB 128 GB | Hồng nhạt,iPhone 15 128GB (Hồng nhạt),6,128,17170000,17170000,0.0,4.9,153
+160,TGDD,Phone,Apple,Điện thoại iPhone 15 256GB | 256 GB | Xanh dương nhạt,iPhone 15 256GB (Xanh dương nhạt),8,256,24990000,24990000,0.0,4.9,153
+161,TGDD,Phone,Apple,Điện thoại iPhone 15 256GB | 256 GB | Đen,iPhone 15 256GB (Đen),8,256,24990000,24990000,0.0,4.9,153
+162,TGDD,Phone,Apple,Điện thoại iPhone 15 256GB | 256 GB | Hồng nhạt,iPhone 15 256GB (Hồng nhạt),8,256,24990000,24990000,0.0,4.9,153
+163,TGDD,Phone,Apple,Điện thoại iPhone Air 256GB | 256 GB | Vàng nhạt,iPhone Air 256GB (Vàng nhạt),8,256,34990000,21910000,37.38,4.9,10
+164,TGDD,Phone,Apple,Điện thoại iPhone Air 256GB | 256 GB | Đen Không Gian,iPhone Air 256GB (Đen Không Gian),8,256,34990000,22030000,37.04,4.9,10
+165,TGDD,Phone,Apple,Điện thoại iPhone Air 256GB | 256 GB | Xanh da trời,iPhone Air 256GB (Xanh da trời),8,256,34990000,21470000,38.64,4.9,10
+166,TGDD,Phone,Apple,Điện thoại iPhone Air 256GB | 256 GB | Trắng Mây,iPhone Air 256GB (Trắng Mây),8,256,34990000,21580000,38.33,4.9,10
+167,TGDD,Phone,Apple,Điện thoại iPhone Air 512GB | 512 GB | Vàng nhạt,iPhone Air 512GB (Vàng nhạt),8,512,41490000,28990000,30.13,4.9,10
+168,TGDD,Phone,Apple,Điện thoại iPhone Air 512GB | 512 GB | Đen Không Gian,iPhone Air 512GB (Đen Không Gian),8,512,41490000,29060000,29.96,4.9,10
+169,TGDD,Phone,Apple,Điện thoại iPhone Air 512GB | 512 GB | Xanh da trời,iPhone Air 512GB (Xanh da trời),8,512,41490000,28990000,30.13,4.9,10
+170,TGDD,Phone,Apple,Điện thoại iPhone Air 512GB | 512 GB | Trắng Mây,iPhone Air 512GB (Trắng Mây),8,512,41490000,28990000,30.13,4.9,10
+171,TGDD,Phone,Apple,Điện thoại iPhone Air 1TB | 1 TB | Vàng nhạt,iPhone Air 1TB (Vàng nhạt),8,1024,54490000,40990000,24.78,4.9,10
+172,TGDD,Phone,Apple,Điện thoại iPhone Air 1TB | 1 TB | Đen Không Gian,iPhone Air 1TB (Đen Không Gian),8,1024,54490000,40990000,24.78,4.9,10
+173,TGDD,Phone,Apple,Điện thoại iPhone Air 1TB | 1 TB | Xanh da trời,iPhone Air 1TB (Xanh da trời),8,1024,54490000,40990000,24.78,4.9,10
+174,TGDD,Phone,Apple,Điện thoại iPhone Air 1TB | 1 TB | Trắng Mây,iPhone Air 1TB (Trắng Mây),8,1024,54490000,40990000,24.78,4.9,10
+175,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/256GB | 12 GB 256 GB | Xanh Dương,Samsung Galaxy S26 5G 12GB/256GB (Xanh Dương),12,256,29990000,16850000,43.81,4.9,1
+176,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/256GB | 12 GB 256 GB | Đen,Samsung Galaxy S26 5G 12GB/256GB (Đen),12,256,29990000,16940000,43.51,4.9,1
+177,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/256GB | 12 GB 256 GB | Tím,Samsung Galaxy S26 5G 12GB/256GB (Tím),12,256,29990000,16760000,44.11,4.9,1
+178,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/256GB | 12 GB 256 GB | Trắng,Samsung Galaxy S26 5G 12GB/256GB (Trắng),12,256,29990000,21750000,27.48,4.9,1
+179,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/512GB | 512 GB | Xanh Dương,Samsung Galaxy S26 5G 12GB/512GB (Xanh Dương),12,512,35990000,21340000,40.71,4.9,1
+180,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/512GB | 512 GB | Đen,Samsung Galaxy S26 5G 12GB/512GB (Đen),12,512,35990000,22150000,38.46,4.9,1
+181,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/512GB | 512 GB | Tím,Samsung Galaxy S26 5G 12GB/512GB (Tím),12,512,35990000,21690000,39.73,4.9,1
+182,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S26 5G 12GB/512GB | 512 GB | Trắng,Samsung Galaxy S26 5G 12GB/512GB (Trắng),12,512,35990000,21690000,39.73,4.9,1
+183,TGDD,Phone,OPPO,Điện thoại OPPO Find X9s 12GB/256GB | 12 GB 256 GB | Tím nhạt,OPPO Find X9s 12GB/256GB (Tím nhạt),12,256,14270000,14270000,0.0,4.9,0
+184,TGDD,Phone,OPPO,Điện thoại OPPO Find X9s 12GB/256GB | 12 GB 256 GB | Cam nhạt,OPPO Find X9s 12GB/256GB (Cam nhạt),12,256,14350000,14350000,0.0,4.9,0
+185,TGDD,Phone,OPPO,Điện thoại OPPO Find X9s 12GB/256GB | 12 GB 256 GB | Xám,OPPO Find X9s 12GB/256GB (Xám),12,256,14270000,14270000,0.0,4.9,0
+186,TGDD,Phone,OPPO,Điện thoại OPPO Find X9s 12GB/512GB | 512 GB | Cam nhạt,OPPO Find X9s 12GB/512GB (Cam nhạt),12,512,16790000,16790000,0.0,4.9,0
+187,TGDD,Phone,OPPO,Điện thoại OPPO Find X9s 12GB/512GB | 512 GB | Xám,OPPO Find X9s 12GB/512GB (Xám),12,512,16440000,16440000,0.0,4.9,0
+188,TGDD,Phone,OPPO,Điện thoại OPPO Reno15 F 5G 12GB/256GB | 12 GB | Hồng,OPPO Reno15 F 5G 12GB/256GB (Hồng),12,256,12990000,12990000,0.0,4.9,35
+189,TGDD,Phone,OPPO,Điện thoại OPPO Reno15 F 5G 12GB/256GB | 12 GB | Xanh Dương,OPPO Reno15 F 5G 12GB/256GB (Xanh Dương),12,256,12990000,12990000,0.0,4.9,35
+190,TGDD,Phone,OPPO,Điện thoại OPPO Reno15 F 5G 12GB/256GB | 12 GB | Xanh dương nhạt,OPPO Reno15 F 5G 12GB/256GB (Xanh dương nhạt),12,256,12990000,12990000,0.0,4.9,35
+191,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 8GB/256GB | 8 GB 8GB/256GB | Hồng,vivo V60 Lite 5G 8GB/256GB (Hồng),8,256,10490000,5670000,45.95,4.9,9
+192,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 8GB/256GB | 8 GB 8GB/256GB | Xanh Dương,vivo V60 Lite 5G 8GB/256GB (Xanh Dương),8,256,10490000,8790000,16.21,4.9,9
+193,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 8GB/256GB | 8 GB 8GB/256GB | Đen,vivo V60 Lite 5G 8GB/256GB (Đen),8,256,10490000,8790000,16.21,4.9,9
+194,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 12GB/512GB | 12 GB 12GB/512GB | Hồng,vivo V60 Lite 5G 12GB/512GB (Hồng),12,512,12990000,7220000,44.42,4.9,9
+195,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 12GB/512GB | 12 GB 12GB/512GB | Xanh Dương,vivo V60 Lite 5G 12GB/512GB (Xanh Dương),12,512,12990000,11790000,9.24,4.9,9
+196,TGDD,Phone,Vivo,Điện thoại vivo V60 Lite 5G 12GB/512GB | 12 GB 12GB/512GB | Đen,vivo V60 Lite 5G 12GB/512GB (Đen),12,512,12990000,7460000,42.57,4.9,9
+197,TGDD,Phone,Realme,Điện thoại realme C100 4G 6GB/128GB | 6 GB 6GB/128GB | Tím,realme C100 4G 6GB/128GB (Tím),6,128,8790000,4230000,51.88,4.9,2
+198,TGDD,Phone,Realme,Điện thoại realme C100 4G 6GB/128GB | 6 GB 6GB/128GB | Nâu,realme C100 4G 6GB/128GB (Nâu),6,128,8790000,4200000,52.22,4.9,2
+199,TGDD,Phone,Realme,Điện thoại realme C100 4G 6GB/128GB | 6 GB 6GB/128GB | Trắng,realme C100 4G 6GB/128GB (Trắng),6,128,8790000,4180000,52.45,4.9,2
+200,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/128GB | 8 GB 8GB/128GB | Tím,realme C100 4G 8GB/128GB (Tím),8,128,9290000,5140000,44.67,4.9,2
+201,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/128GB | 8 GB 8GB/128GB | Nâu,realme C100 4G 8GB/128GB (Nâu),8,128,9290000,4270000,54.04,4.9,2
+202,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/128GB | 8 GB 8GB/128GB | Trắng,realme C100 4G 8GB/128GB (Trắng),8,128,9290000,4460000,51.99,4.9,2
+203,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/256GB | 8 GB 8GB/256GB | Tím,realme C100 4G 8GB/256GB (Tím),8,256,9990000,4840000,51.55,4.9,2
+204,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/256GB | 8 GB 8GB/256GB | Nâu,realme C100 4G 8GB/256GB (Nâu),8,256,9990000,5920000,40.74,4.9,2
+205,TGDD,Phone,Realme,Điện thoại realme C100 4G 8GB/256GB | 8 GB 8GB/256GB | Trắng,realme C100 4G 8GB/256GB (Trắng),8,256,9990000,5890000,41.04,4.9,2
+206,TGDD,Phone,HONOR,Điện thoại Honor X7d 5G 8GB/256GB | 8 GB 256 GB | Bạc,Honor X7d 5G 8GB/256GB (Bạc),8,256,7990000,5050000,36.8,4.9,4
+207,TGDD,Phone,HONOR,Điện thoại Honor X7d 5G 8GB/256GB | 8 GB 256 GB | Đen,Honor X7d 5G 8GB/256GB (Đen),8,256,7990000,5440000,31.91,4.9,4
+208,TGDD,Phone,HONOR,Điện thoại Honor X7d 5G 8GB/256GB | 8 GB 256 GB | Vàng,Honor X7d 5G 8GB/256GB (Vàng),8,256,7990000,4920000,38.42,4.9,4
+209,TGDD,Phone,Nubia,Nubia V80 Max 4GB/128GB | 4GB/128GB | Vàng nhạt,Nubia V80 Max 4GB/128GB (Vàng nhạt),4,128,3590000,3590000,0.0,4.9,1
+210,TGDD,Phone,Nubia,Nubia V80 Max 4GB/128GB | 4GB/128GB | Đen,Nubia V80 Max 4GB/128GB (Đen),4,128,3590000,3590000,0.0,4.9,1
+211,TGDD,Phone,Nubia,Nubia V80 Max 4GB/128GB | 4GB/128GB | Xanh Thiên Thanh,Nubia V80 Max 4GB/128GB (Xanh Thiên Thanh),4,128,3590000,3590000,0.0,4.9,1
+212,TGDD,Phone,Nubia,Nubia V80 Max 4GB/128GB | 4GB/128GB | Bạc,Nubia V80 Max 4GB/128GB (Bạc),4,128,3590000,3590000,0.0,4.9,1
+213,TGDD,Phone,Nubia,Nubia V80 Max 4GB/128GB | 4GB/128GB | Tím,Nubia V80 Max 4GB/128GB (Tím),4,128,3590000,3590000,0.0,4.9,1
+214,TGDD,Phone,Nubia,Nubia V80 Max 6GB/128GB | 6GB/128GB | Đen,Nubia V80 Max 6GB/128GB (Đen),6,128,2650000,2650000,0.0,4.9,1
+215,TGDD,Phone,Nubia,Nubia V80 Max 6GB/128GB | 6GB/128GB | Bạc,Nubia V80 Max 6GB/128GB (Bạc),6,128,2620000,2620000,0.0,4.9,1
+216,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/128GB | 4 GB 128 GB | Xám,Tecno Spark Go 3 4GB/128GB (Xám),4,128,3990000,3590000,10.03,5.0,0
+217,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/128GB | 4 GB 128 GB | Đen,Tecno Spark Go 3 4GB/128GB (Đen),4,128,3990000,2700000,32.33,5.0,0
+218,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/128GB | 4 GB 128 GB | Xanh Dương,Tecno Spark Go 3 4GB/128GB (Xanh Dương),4,128,3990000,3590000,10.03,5.0,0
+219,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/64GB | 64 GB | Xám,Tecno Spark Go 3 4GB/64GB (Xám),4,64,3690000,3490000,5.42,5.0,0
+220,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/64GB | 64 GB | Đen,Tecno Spark Go 3 4GB/64GB (Đen),4,64,3690000,3490000,5.42,5.0,0
+221,TGDD,Phone,Tecno,Điện thoại Tecno Spark Go 3 4GB/64GB | 64 GB | Xanh Dương,Tecno Spark Go 3 4GB/64GB (Xanh Dương),4,64,3690000,3490000,5.42,5.0,0
+222,TGDD,Phone,Motorola,Điện thoại Motorola G57 Power 5G 8GB/128GB | 128 GB | Xanh rêu,Motorola G57 Power 5G 8GB/128GB (Xanh rêu),8,128,6990000,6790000,2.86,4.9,7
+223,TGDD,Phone,Motorola,Điện thoại Motorola G57 Power 5G 8GB/128GB | 128 GB | Xanh dương đậm,Motorola G57 Power 5G 8GB/128GB (Xanh dương đậm),8,128,6990000,6790000,2.86,4.9,7
+224,TGDD,Phone,Motorola,Điện thoại Motorola G57 Power 5G 8GB/128GB | 128 GB | Xanh Bạc Hà,Motorola G57 Power 5G 8GB/128GB (Xanh Bạc Hà),8,128,6990000,4690000,32.9,4.9,7
+225,TGDD,Phone,Apple,Điện thoại iPhone 16 128GB | 128 GB | Trắng,iPhone 16 128GB (Trắng),8,128,20220000,20220000,0.0,4.9,31
+226,TGDD,Phone,Apple,Điện thoại iPhone 16 128GB | 128 GB | Đen,iPhone 16 128GB (Đen),8,128,24990000,24990000,0.0,4.9,31
+227,TGDD,Phone,Apple,Điện thoại iPhone 16 128GB | 128 GB | Xanh mòng két,iPhone 16 128GB (Xanh mòng két),8,128,24990000,24990000,0.0,4.9,31
+228,TGDD,Phone,Apple,Điện thoại iPhone 16 128GB | 128 GB | Hồng,iPhone 16 128GB (Hồng),8,128,24990000,24990000,0.0,4.9,31
+229,TGDD,Phone,Apple,Điện thoại iPhone 16 128GB | 128 GB | Xanh Lưu Ly,iPhone 16 128GB (Xanh Lưu Ly),8,128,24990000,24990000,0.0,4.9,31
+230,TGDD,Phone,Apple,Điện thoại iPhone 17e 256GB | 256 GB | Hồng nhạt,iPhone 17e 256GB (Hồng nhạt),8,256,21990000,21990000,0.0,4.9,3
+231,TGDD,Phone,Apple,Điện thoại iPhone 17e 256GB | 256 GB | Đen,iPhone 17e 256GB (Đen),8,256,21990000,21990000,0.0,4.9,3
+232,TGDD,Phone,Apple,Điện thoại iPhone 17e 256GB | 256 GB | Trắng,iPhone 17e 256GB (Trắng),8,256,21990000,21990000,0.0,4.9,3
+233,TGDD,Phone,Apple,Điện thoại iPhone 17e 512GB | 512 GB | Hồng nhạt,iPhone 17e 512GB (Hồng nhạt),8,512,28490000,22380000,21.45,4.9,3
+234,TGDD,Phone,Apple,Điện thoại iPhone 17e 512GB | 512 GB | Đen,iPhone 17e 512GB (Đen),8,512,28490000,26990000,5.27,4.9,3
+235,TGDD,Phone,Apple,Điện thoại iPhone 17e 512GB | 512 GB | Trắng,iPhone 17e 512GB (Trắng),8,512,28490000,26990000,5.27,4.9,3
+236,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/64GB | 4 GB 4GB/64GB | Xanh,OPPO A6x 4GB/64GB (Xanh),4,64,4990000,3300000,33.87,4.9,17
+237,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/64GB | 4 GB 4GB/64GB | Tím,OPPO A6x 4GB/64GB (Tím),4,64,4990000,4740000,5.01,4.9,17
+238,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/64GB | 4 GB 4GB/64GB | Titan Tím,OPPO A6x 4GB/64GB (Titan Tím),4,64,4990000,4740000,5.01,4.9,17
+239,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/128GB | 4 GB 4GB/128GB | Xanh,OPPO A6x 4GB/128GB (Xanh),4,128,7090000,7090000,0.0,4.9,17
+240,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/128GB | 4 GB 4GB/128GB | Tím,OPPO A6x 4GB/128GB (Tím),4,128,4220000,4220000,0.0,4.9,17
+241,TGDD,Phone,OPPO,Điện thoại OPPO A6x 4GB/128GB | 4 GB 4GB/128GB | Titan Tím,OPPO A6x 4GB/128GB (Titan Tím),4,128,4180000,4180000,0.0,4.9,17
+242,TGDD,Phone,OPPO,Điện thoại OPPO A6x 6GB/256GB | 6 GB 6GB/256GB | Xanh,OPPO A6x 6GB/256GB (Xanh),6,256,8990000,5210000,42.05,4.9,17
+243,TGDD,Phone,OPPO,Điện thoại OPPO A6x 6GB/256GB | 6 GB 6GB/256GB | Titan Tím,OPPO A6x 6GB/256GB (Titan Tím),6,256,8990000,5270000,41.38,4.9,17
+244,TGDD,Phone,Vivo,Điện thoại vivo X300 Pro 5G 16GB/512GB | 16 GB 512 GB | Đen,vivo X300 Pro 5G 16GB/512GB (Đen),16,512,34990000,29990000,14.29,4.9,3
+245,TGDD,Phone,Vivo,Điện thoại vivo X300 Pro 5G 16GB/512GB | 16 GB 512 GB | Nâu nhạt,vivo X300 Pro 5G 16GB/512GB (Nâu nhạt),16,512,34990000,29990000,14.29,4.9,3
+246,TGDD,Phone,Realme,Điện thoại realme P4 Power 5G 12GB/256GB | 12 GB 256 GB | Cam,realme P4 Power 5G 12GB/256GB (Cam),12,256,15990000,8650000,45.9,4.9,2
+247,TGDD,Phone,Realme,Điện thoại realme P4 Power 5G 12GB/256GB | 12 GB 256 GB | Bạc,realme P4 Power 5G 12GB/256GB (Bạc),12,256,15990000,8750000,45.28,4.9,2
+248,TGDD,Phone,Realme,Điện thoại realme 16 5G 8GB/256GB | 8 GB | Đen,realme 16 5G 8GB/256GB (Đen),8,256,13990000,7060000,49.54,4.9,4
+249,TGDD,Phone,Realme,Điện thoại realme 16 5G 8GB/256GB | 8 GB | Trắng,realme 16 5G 8GB/256GB (Trắng),8,256,13990000,7020000,49.82,4.9,4
+250,TGDD,Phone,Realme,Điện thoại realme 16 5G 12GB/256GB | 12 GB | Đen,realme 16 5G 12GB/256GB (Đen),12,256,14490000,7400000,48.93,4.9,4
+251,TGDD,Phone,Realme,Điện thoại realme 16 5G 12GB/256GB | 12 GB | Trắng,realme 16 5G 12GB/256GB (Trắng),12,256,14490000,13290000,8.28,4.9,4
+252,TGDD,Phone,Nubia,Điện thoại Nubia V80 Design 4GB/128GB | 4 GB 128 GB | Cam nhạt,Nubia V80 Design 4GB/128GB (Cam nhạt),4,128,2180000,2180000,0.0,5.0,0
+253,TGDD,Phone,Nubia,Điện thoại Nubia V80 Design 4GB/128GB | 4 GB 128 GB | Đen,Nubia V80 Design 4GB/128GB (Đen),4,128,2520000,2520000,0.0,5.0,0
+254,TGDD,Phone,Nubia,Điện thoại Nubia V80 Design 4GB/128GB | 4 GB 128 GB | Vàng nhạt,Nubia V80 Design 4GB/128GB (Vàng nhạt),4,128,3690000,3690000,0.0,5.0,0
+255,TGDD,Phone,Nubia,Điện thoại Nubia V80 Design 4GB/128GB | 4 GB 128 GB | Xanh,Nubia V80 Design 4GB/128GB (Xanh),4,128,3690000,3690000,0.0,5.0,0
+256,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 8GB/256GB | 8 GB 256 GB | Xám,Motorola Edge 70 8GB/256GB (Xám),8,256,13990000,7330000,47.61,4.9,10
+257,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 8GB/256GB | 8 GB 256 GB | Xanh ngọc,Motorola Edge 70 8GB/256GB (Xanh ngọc),8,256,13990000,7020000,49.82,4.9,10
+258,TGDD,Phone,Motorola,Điện thoại Motorola Edge 70 8GB/256GB | 8 GB 256 GB | Xanh bộ đội,Motorola Edge 70 8GB/256GB (Xanh bộ đội),8,256,13990000,8060000,42.39,4.9,10
+259,TGDD,Phone,Apple,Điện thoại iPhone 16e 128GB | 128 GB | Đen,iPhone 16e 128GB (Đen),8,128,16990000,11800000,30.55,4.9,16
+260,TGDD,Phone,Apple,Điện thoại iPhone 16e 128GB | 128 GB | Trắng,iPhone 16e 128GB (Trắng),8,128,16990000,11800000,30.55,4.9,16
+261,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S25 5G 12GB/256GB | 12 GB 256 GB | Xám,Samsung Galaxy S25 5G 12GB/256GB (Xám),12,256,22580000,14550000,35.56,4.9,22
+262,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S25 5G 12GB/256GB | 12 GB 256 GB | Xanh dương nhạt,Samsung Galaxy S25 5G 12GB/256GB (Xanh dương nhạt),12,256,22580000,12960000,42.6,4.9,22
+263,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S25 5G 12GB/256GB | 12 GB 256 GB | Xanh lá,Samsung Galaxy S25 5G 12GB/256GB (Xanh lá),12,256,22580000,18690000,17.23,4.9,22
+264,TGDD,Phone,Samsung,Điện thoại Samsung Galaxy S25 5G 12GB/256GB | 12 GB 256 GB | Xanh Navy,Samsung Galaxy S25 5G 12GB/256GB (Xanh Navy),12,256,22580000,13100000,41.98,4.9,22
