@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
 from parsel import Selector
 from db_cleaner import (
@@ -19,8 +20,9 @@ from db_cleaner import (
 # - Để test nhanh cả 3 sàn trong 3-4 phút: Đặt MAX_PRODUCTS_PER_SITE = 10, MAX_LOAD_MORE_CLICKS = 2
 # - Để lấy > 1.000 bản ghi thực tế nộp bài: Đặt MAX_PRODUCTS_PER_SITE = 65, MAX_LOAD_MORE_CLICKS = 10
 # ==============================================================================
-MAX_PRODUCTS_PER_SITE = 50
-MAX_LOAD_MORE_CLICKS = 5
+MAX_PRODUCTS_PER_SITE = 80
+MAX_LOAD_MORE_CLICKS = 10
+PAGE_LOAD_TIMEOUT = 40      # giây; quá thời gian này thì dừng tải trang thay vì treo 120s rồi văng lỗi
 
 def get_driver():
     options = Options()
@@ -33,7 +35,31 @@ def get_driver():
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
     )
-    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    # "eager": driver.get() trả về ngay khi DOM sẵn sàng, không chờ quảng cáo/tracking/ảnh tải xong
+    # (nguyên nhân chính gây treo trang CellphoneS -> "Read timed out (read timeout=120)")
+    options.page_load_strategy = "eager"
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    driver.set_page_load_timeout(PAGE_LOAD_TIMEOUT)
+    driver.set_script_timeout(30)
+    return driver
+
+
+def safe_get(driver, url, retries=2):
+    """Mở URL; nếu quá PAGE_LOAD_TIMEOUT thì dừng tải trang và dùng phần DOM đã có, thử lại nếu lỗi."""
+    for attempt in range(1, retries + 1):
+        try:
+            driver.get(url)
+            return True
+        except TimeoutException:
+            try:
+                driver.execute_script("window.stop();")   # dừng tải, giữ nội dung đã render
+                return True
+            except Exception:
+                pass
+        except WebDriverException as e:
+            print(f"   [safe_get] Lỗi mở {url} (lần {attempt}/{retries}): {str(e).splitlines()[0]}")
+            time.sleep(3)
+    return False
 
 def click_load_more(driver, xpath_btn, max_clicks=4):
     for i in range(max_clicks):
@@ -60,7 +86,7 @@ def crawl_tgdd(driver):
     base_url = "https://www.thegioididong.com"
     list_url = "https://www.thegioididong.com/dtdd"
     print(f"\n[TGDD] 1. Đang lấy danh sách link sản phẩm gốc từ: {list_url}")
-    driver.get(list_url)
+    safe_get(driver, list_url)
     time.sleep(3.5)
 
     driver.execute_script("window.scrollTo(0, 700);")
@@ -218,7 +244,7 @@ def crawl_tgdd(driver):
 
     for idx, base_item_url in enumerate(product_base_links, 1):
         try:
-            driver.get(base_item_url)
+            safe_get(driver, base_item_url)
             time.sleep(2.2)
             sel_p = Selector(text=driver.page_source)
 
@@ -239,7 +265,7 @@ def crawl_tgdd(driver):
             # BƯỚC 2: Duyệt qua từng phiên bản Dung lượng
             for s_url, s_label in storage_options:
                 if driver.current_url.split("?")[0] != s_url.split("?")[0]:
-                    driver.get(s_url)
+                    safe_get(driver, s_url)
                     time.sleep(1.8)
 
                 sel_s = Selector(text=driver.page_source)
@@ -265,7 +291,7 @@ def crawl_tgdd(driver):
                     visited_variant_urls.add(c_url)
 
                     if driver.current_url != c_url:
-                        driver.get(c_url)
+                        safe_get(driver, c_url)
                         time.sleep(1.4)
 
                     item_data = extract_tgdd_page(c_url, fallback_spec=s_label, fallback_color=c_label)
@@ -287,7 +313,7 @@ def crawl_cellphones(driver):
     base_url = "https://cellphones.com.vn"
     list_url = "https://cellphones.com.vn/mobile.html"
     print(f"\n[CellphoneS] 1. Đang lấy danh sách link sản phẩm từ: {list_url}")
-    driver.get(list_url)
+    safe_get(driver, list_url)
     time.sleep(3)
     click_load_more(
         driver,
@@ -313,7 +339,7 @@ def crawl_cellphones(driver):
 
     for idx, p_url in enumerate(product_links, 1):
         try:
-            driver.get(p_url)
+            safe_get(driver, p_url)
             time.sleep(2.0)
             sel_p = Selector(text=driver.page_source)
 
@@ -335,7 +361,7 @@ def crawl_cellphones(driver):
                 visited_storage_urls.add(s_url)
 
                 if s_url != driver.current_url:
-                    driver.get(s_url)
+                    safe_get(driver, s_url)
                     time.sleep(1.8)
 
                 sel_s = Selector(text=driver.page_source)
@@ -375,26 +401,29 @@ def crawl_cellphones(driver):
     return results
 
 # ==============================================================================
-# 3. FPT SHOP (Chuẩn DOM: a[href^='/dien-thoai/'], button Dung lượng & Màu sắc)
+# 3. FPT SHOP (Chuẩn DOM từ Trang chính.txt & Trang chi tiết.txt)
 # ==============================================================================
 def crawl_fptshop(driver):
     base_url = "https://fptshop.com.vn"
     list_url = "https://fptshop.com.vn/dien-thoai"
-    print(f"\n[FPTShop] 1. Đang lấy danh sách link sản phẩm từ: {list_url}")
-    driver.get(list_url)
+    print(f"\n[FPTShop] 1. Đang lấy danh sách link sản phẩm gốc từ: {list_url}")
+    safe_get(driver, list_url)
     time.sleep(3.5)
-    click_load_more(
-        driver,
-        "//button[contains(., 'Xem thêm') or contains(., 'kết quả')]",
-        max_clicks=MAX_LOAD_MORE_CLICKS
-    )
 
-    # Chỉ lấy các thẻ a dẫn tới sản phẩm nằm trong lưới sản phẩm (có chứa img bên trong)
+    driver.execute_script("window.scrollTo(0, 700);")
+    time.sleep(1.5)
+
+    fpt_load_more_xpath = "//button[contains(., 'Xem thêm') or contains(., 'kết quả')]"
+    click_load_more(driver, fpt_load_more_xpath, max_clicks=MAX_LOAD_MORE_CLICKS)
+
+    # CHỈ LẤY link sản phẩm nằm trong lưới danh sách chính và KHÔNG nằm trong thanh trượt .swiper
     raw_links = driver.execute_script("""
         let hrefs = [];
-        document.querySelectorAll('div.grid a[href^="/dien-thoai/"]:has(img), a[title][href^="/dien-thoai/"]').forEach(a => {
-            let h = a.getAttribute('href');
-            if (h) hrefs.push(h);
+        document.querySelectorAll('div.grid.grid-cols-2.gap-2 div.cardInfo a[href^="/dien-thoai/"]').forEach(a => {
+            if (!a.closest('.swiper') && !a.closest('.swiper-wrapper')) {
+                let h = a.getAttribute('href');
+                if (h) hrefs.push(h);
+            }
         });
         return hrefs;
     """)
@@ -406,72 +435,199 @@ def crawl_fptshop(driver):
         "/dien-thoai/realme", "/dien-thoai/nokia", "/dien-thoai/masstel",
         "/dien-thoai/nubia", "/dien-thoai/tecno", "/dien-thoai/tcl",
         "/dien-thoai/motorola", "/dien-thoai/infinix", "/dien-thoai/itel",
-        "/dien-thoai/benco", "/dien-thoai/zte", "/dien-thoai/ai"
+        "/dien-thoai/benco", "/dien-thoai/zte", "/dien-thoai/ai", "/dien-thoai/nothing-phone"
     }
+    ignore_keywords = ["series", "tra-gop", "khuyen-mai", "tin-tuc", "so-sanh", "may-doi-tra"]
+
     for href in raw_links:
-        clean_href = href.split("?")[0].rstrip("/")
-        if clean_href not in ignore_slugs and clean_href.count("/") == 2:
-            full_link = urljoin(base_url, clean_href)
-            if full_link not in product_links:
-                product_links.append(full_link)
+        path = re.sub(r"^https?://[^/]+", "", href.strip()).split("?")[0].split("#")[0].rstrip("/")
+        if path.startswith("/dien-thoai/") and path.count("/") == 2 and path not in ignore_slugs:
+            slug = path.split("/dien-thoai/")[1].lower()
+            if not any(kw in slug for kw in ignore_keywords):
+                full_link = urljoin(base_url, path)
+                if full_link not in product_links:
+                    product_links.append(full_link)
 
     if MAX_PRODUCTS_PER_SITE:
         product_links = product_links[:MAX_PRODUCTS_PER_SITE]
 
-    print(f"[FPTShop] Tìm thấy {len(product_links)} mẫu điện thoại gốc. Bắt đầu quét chiều sâu (Dung lượng x Màu sắc)...")
+    print(f"[FPTShop] Tìm thấy {len(product_links)} mẫu điện thoại gốc:")
+    for idx_dbg, link_dbg in enumerate(product_links, 1):
+        print(f"   ({idx_dbg}) {link_dbg}")
 
     results = []
+
+    # Hàm trích xuất dữ liệu trực tiếp từ khối #ThongTinSanPham bằng JS (theo đúng Trang chi tiết.txt)
+    def extract_fpt_page(storage_fallback="", color_fallback=""):
+        data = driver.execute_script("""
+            let root = document.querySelector('#ThongTinSanPham') || document;
+
+            // 1. Tiêu đề sản phẩm <h1>
+            let h1 = root.querySelector('h1');
+            let title = h1 ? h1.innerText.trim() : '';
+
+            // 2. Giá khuyến mãi và Giá gốc trong #price-product
+            let priceBox = root.querySelector('#price-product');
+            let saleStr = '';
+            let origStr = '';
+            if (priceBox) {
+                let saleEl = priceBox.querySelector('span.text-2xl, span[class*="h4-bold"], span[class*="font-semibold"]');
+                let origEl = priceBox.querySelector('span.line-through, del');
+                saleStr = saleEl ? saleEl.innerText.trim() : '';
+                origStr = origEl ? origEl.innerText.trim() : saleStr;
+            }
+            // Dự phòng nếu sản phẩm hiển thị giá ở #tradePrice
+            if (!saleStr) {
+                let tradeEl = root.querySelector('#tradePrice span[class*="text-textOnWhiteBrand"]');
+                if (tradeEl) saleStr = tradeEl.innerText.trim();
+                origStr = saleStr;
+            }
+
+            // 3. Điểm đánh giá (Rating) và Số lượt đánh giá (nằm cạnh mã No.xxxxx)
+            let ratingStr = '';
+            let reviewStr = '';
+            let allDivs = root.querySelectorAll('div, span');
+            allDivs.forEach(el => {
+                let txt = (el.innerText || '').trim();
+                // Tìm thẻ chứa "(205 đánh giá)" hoặc "112 lượt đánh giá"
+                if (/^\\(?\\d+\\s*(lượt\\s*)?đánh giá\\)?$/i.test(txt)) {
+                    reviewStr = txt;
+                    let prev = el.previousElementSibling;
+                    if (prev && prev.innerText) {
+                        ratingStr = prev.innerText.trim();
+                    }
+                }
+            });
+
+            // 4. Lấy thêm thông số Bộ nhớ trong / RAM từ khối #thong-so (nếu có)
+            let extraSpecs = [];
+            root.querySelectorAll('#thong-so div.flex.flex-col').forEach(col => {
+                let ps = col.querySelectorAll('p');
+                if (ps.length >= 2) {
+                    let label = ps[0].innerText.trim();
+                    let val = ps[1].innerText.trim();
+                    if (label.includes('Bộ nhớ') || label.includes('RAM') || label.includes('Dung lượng')) {
+                        extraSpecs.push(val);
+                    }
+                }
+            });
+
+            return {
+                title: title,
+                saleStr: saleStr,
+                origStr: origStr,
+                ratingStr: ratingStr,
+                reviewStr: reviewStr,
+                extraSpecs: extraSpecs.join(' ')
+            };
+        """)
+
+        title = data.get("title", "")
+        sale_str = data.get("saleStr", "")
+        orig_str = data.get("origStr", "") or sale_str
+        rating_str = data.get("ratingStr", "")
+        review_str = data.get("reviewStr", "")
+        extra_specs = data.get("extraSpecs", "")
+
+        if not title or clean_price(sale_str) == 0:
+            return None
+
+        # raw_specs chỉ giữ 1 giá trị: dung lượng của nút ĐANG CHỌN (khớp với giá & màu của dòng này).
+        # Bảng #thong-so không cập nhật khi đổi biến thể (luôn là bản mặc định) -> chỉ dùng làm dự phòng.
+        cap_re = r"\d+(?:[.,]\d+)?\s*(?:GB|TB)"
+        m_sel = re.search(cap_re, storage_fallback or "", re.IGNORECASE)
+        if m_sel:
+            spec_combined = m_sel.group(0)
+        else:
+            caps = re.findall(cap_re, extra_specs or "", re.IGNORECASE)
+            # Lấy số lớn nhất trong bảng (ROM), bỏ qua RAM
+            def _gb(s):
+                n = float(re.sub(r"[^\d.,]", "", s).replace(",", "."))
+                return n * 1024 if "TB" in s.upper() else n
+            spec_combined = max(caps, key=_gb) if caps else "Mặc định"
+        color_final = color_fallback.strip() or "Mặc định"
+        variant_url = f"{driver.current_url.split('#')[0]}#s={storage_fallback}&c={color_final}"
+
+        return (
+            "FPTShop", "Phone", title, color_final, spec_combined,
+            orig_str, sale_str, rating_str, review_str, variant_url
+        )
+
+    # XPath định vị chính xác các nút Dung lượng và Màu sắc bên trong #ThongTinSanPham
+    storage_btns_xpath = (
+        "//div[@id='ThongTinSanPham']//span[normalize-space()='Dung lượng']"
+        "/following-sibling::div[1]//button[not(@disabled)]"
+    )
+    color_btns_xpath = (
+        "//div[@id='ThongTinSanPham']//span[normalize-space()='Màu sắc']"
+        "/following-sibling::div[1]//button[not(@disabled)]"
+    )
+
+    def is_selected(btn):
+        # LƯU Ý: chuỗi class của MỌI nút đều chứa "[&.buttonSelect]:border-..." (biến thể Tailwind),
+        # nên phải so khớp theo TỪNG TỪ (token) chứ không dùng `"buttonSelect" in class_str`.
+        return "buttonSelect" in (btn.get_attribute("class") or "").split()
+
+    def select_button(xpath, i, wait_s=6.0):
+        """Chọn nút thứ i trong nhóm `xpath`; trả về nhãn nút nếu chọn thành công, None nếu thất bại."""
+        btns = driver.find_elements(By.XPATH, xpath)
+        if i >= len(btns):
+            return None
+        btn = btns[i]
+        label = btn.text.strip()
+        if is_selected(btn):
+            return label
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", btn)
+        time.sleep(0.3)
+        try:
+            btn.click()                       # click thật của Selenium (kích hoạt được React)
+        except Exception:
+            driver.execute_script("arguments[0].click();", btn)
+        # Chờ đến khi chính nút đó có class buttonSelect (React render lại xong)
+        deadline = time.time() + wait_s
+        while time.time() < deadline:
+            time.sleep(0.3)
+            btns = driver.find_elements(By.XPATH, xpath)
+            if i < len(btns) and is_selected(btns[i]):
+                time.sleep(0.8)               # chờ thêm cho giá/tiêu đề cập nhật
+                return btns[i].text.strip() or label
+        return None
+
     for idx, p_url in enumerate(product_links, 1):
         try:
-            driver.get(p_url)
-            time.sleep(2.2)
-
-            storage_btns_xpath = "//span[contains(text(), 'Dung lượng')]/following-sibling::div[1]//button[not(@disabled)]"
+            safe_get(driver, p_url)
+            time.sleep(2.5)
             storage_btns = driver.find_elements(By.XPATH, storage_btns_xpath)
             num_storages = len(storage_btns) if storage_btns else 1
 
             for s_idx in range(num_storages):
                 storage_label = "Mặc định"
-                if len(storage_btns) > 0:
-                    current_s_btns = driver.find_elements(By.XPATH, storage_btns_xpath)
-                    if s_idx < len(current_s_btns):
-                        storage_label = current_s_btns[s_idx].text.strip() or "Mặc định"
-                        if num_storages > 1:
-                            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", current_s_btns[s_idx])
-                            driver.execute_script("arguments[0].click();", current_s_btns[s_idx])
-                            time.sleep(1.5)
+                if storage_btns:
+                    storage_label = select_button(storage_btns_xpath, s_idx)
+                    if storage_label is None:
+                        print(f"   [FPTShop #{idx}] Không chọn được dung lượng thứ {s_idx + 1}, bỏ qua")
+                        continue
 
-                color_btns_xpath = "//span[contains(text(), 'Màu sắc')]/following-sibling::div[1]//button[not(@disabled)]"
+                # Sau khi chọn Dung lượng, tìm lại danh sách các button Màu sắc của dung lượng đó
                 color_btns = driver.find_elements(By.XPATH, color_btns_xpath)
                 num_colors = len(color_btns) if color_btns else 1
 
                 for c_idx in range(num_colors):
                     color_label = "Mặc định"
-                    if len(color_btns) > 0:
-                        current_c_btns = driver.find_elements(By.XPATH, color_btns_xpath)
-                        if c_idx < len(current_c_btns):
-                            color_label = current_c_btns[c_idx].text.strip() or "Mặc định"
-                            if num_colors > 1:
-                                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", current_c_btns[c_idx])
-                                driver.execute_script("arguments[0].click();", current_c_btns[c_idx])
-                                time.sleep(1.0)
+                    if color_btns:
+                        color_label = select_button(color_btns_xpath, c_idx, wait_s=4.0)
+                        if color_label is None:
+                            print(f"   [FPTShop #{idx}] Không chọn được màu thứ {c_idx + 1}, bỏ qua")
+                            continue
 
-                    sel_v = Selector(text=driver.page_source)
-                    title = sel_v.css("h1::text").get() or ""
-                    sale_str = sel_v.css("#price-product span.text-2xl::text, #price-product span[class*='bold']::text").get() or ""
-                    orig_str = sel_v.css("#price-product span.line-through::text").get() or sale_str
-
-                    rating_str = sel_v.xpath("//div[contains(text(), 'đánh giá')]/preceding-sibling::div[1]//div/text()").get() or ""
-                    review_str = sel_v.xpath("//div[contains(text(), 'đánh giá')]/text()").get() or ""
-
-                    if title and clean_price(sale_str) > 0:
-                        variant_url = f"{driver.current_url}#s={storage_label}&c={color_label}"
-                        results.append((
-                            "FPTShop", "Phone", title.strip(), color_label, storage_label,
-                            orig_str.strip(), sale_str.strip(), rating_str.strip(),
-                            review_str.strip(), variant_url
-                        ))
-                        print(f"   [FPTShop #{idx}] + {title.strip()} | Dung lượng: {storage_label} | Màu: {color_label} | Giá: {sale_str.strip()}")
+                    item_data = extract_fpt_page(storage_fallback=storage_label, color_fallback=color_label)
+                    if item_data:
+                        results.append(item_data)
+                        print(
+                            f"   [FPTShop #{idx}] + {item_data[2]} | Dung lượng: {storage_label} | "
+                            f"Màu: {color_label} | Giá: {item_data[6]} | "
+                            f"Sao: {item_data[7]} ({item_data[8]})"
+                        )
         except Exception as e:
             print(f"   [FPTShop] Bỏ qua link lỗi {p_url}: {e}")
 
@@ -510,7 +666,7 @@ def process_and_save(raw_items):
 
         brand = detect_brand(raw_name)
         ram, rom = extract_specs(raw_name, raw_specs)
-        c_name = clean_product_name(raw_name, rom, raw_color)
+        c_name = clean_product_name(raw_name, rom, raw_color, ram_gb=ram)
         rating, reviews = clean_rating_reviews(raw_rating, raw_reviews)
 
         # Khử trùng lặp chính xác theo Sàn + Tên chuẩn hóa (đã gồm Dung lượng & Màu) + Giá
@@ -557,15 +713,23 @@ def process_and_save(raw_items):
 
 if __name__ == "__main__":
     all_raw = []
-    driver = get_driver()
-    try:
-        all_raw.extend(crawl_tgdd(driver))
-        #all_raw.extend(crawl_cellphones(driver))
-        #all_raw.extend(crawl_fptshop(driver))
-    except Exception as e:
-        print(f"Lưu ý trong quá trình điều khiển trình duyệt: {e}")
-    finally:
-        driver.quit()
+    # Mỗi sàn chạy độc lập: sàn này lỗi không làm mất dữ liệu / không chặn các sàn còn lại.
+    # Mỗi sàn dùng 1 phiên Chrome mới để tránh trình duyệt bị treo/rò bộ nhớ sau khi quét lâu.
+    for site_name, crawl_fn in [("TGDD", crawl_tgdd), ("CellphoneS", crawl_cellphones), ("FPTShop", crawl_fptshop)]:
+        driver = None
+        try:
+            driver = get_driver()
+            site_rows = crawl_fn(driver)
+            all_raw.extend(site_rows)
+            print(f"\n[{site_name}] Hoàn tất: {len(site_rows)} bản ghi")
+        except Exception as e:
+            print(f"\n[{site_name}] Lỗi, bỏ qua sàn này: {str(e).splitlines()[0]}")
+        finally:
+            if driver:
+                try:
+                    driver.quit()
+                except Exception:
+                    pass
 
     print(f"\nTổng số phiên bản sản phẩm thu thập trực tiếp: {len(all_raw)}")
     process_and_save(all_raw)
