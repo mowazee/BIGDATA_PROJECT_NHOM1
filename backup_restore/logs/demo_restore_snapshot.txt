@@ -1,0 +1,7 @@
+HDFS sau khi xoa: 0 dong
+Khoi phuc tu ban sao luu: 20261106_131329
+=== [1/2] Phục hồi MySQL ===
+    -> ecommerce_db.products: 980 dong
+=== [2/2] Phục hồi HDFS ===
+    -> HDFS /user/hadoop/hive/warehouse/products: 980 dong
+HOAN TAT.

@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Script chạy trong container Linux phải giữ xuống dòng LF (tránh lỗi "bad interpreter" khi clone trên Windows)
+*.sh text eol=lf
+tools/sqoop/bin/* text eol=lf
+tools/sqoop/bin/*.cmd text eol=crlf
