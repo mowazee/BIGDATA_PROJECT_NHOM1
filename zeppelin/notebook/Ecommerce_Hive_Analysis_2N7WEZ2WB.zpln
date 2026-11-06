@@ -1,0 +1,280 @@
+{
+  "paragraphs": [
+    {
+      "title": "Gioi thieu",
+      "text": "%md\n## Phan tich gia dien thoai 3 san (TGDD, CellphoneS, FPTShop)\nDu lieu: bang Hive **ecommerce_warehouse.products_hive** (Sqoop tu MySQL len HDFS). Moi doan ben duoi la 1 truy van HiveQL chay tren YARN.",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 09:17:17.221",
+      "progress": 0,
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch2\u003ePhan tich gia dien thoai 3 san (TGDD, CellphoneS, FPTShop)\u003c/h2\u003e\n\u003cp\u003eDu lieu: bang Hive \u003cstrong\u003eecommerce_warehouse.products_hive\u003c/strong\u003e (Sqoop tu MySQL len HDFS). Moi doan ben duoi la 1 truy van HiveQL chay tren YARN.\u003c/p\u003e\n\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637189_620252834",
+      "id": "paragraph_1793956637189_620252834",
+      "dateCreated": "2026-11-06 09:17:17.190",
+      "dateStarted": "2026-11-06 10:43:21.735",
+      "dateFinished": "2026-11-06 10:43:31.320",
+      "status": "FINISHED"
+    },
+    {
+      "title": "So san pham theo san",
+      "text": "%hive\nSELECT source, COUNT(*) AS so_san_pham FROM products_hive GROUP BY source",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 09:17:17.267",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "multiBarChart"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "source\tso_san_pham\nCellphoneS\t399\nFPTShop\t305\nTGDD\t535\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637231_2016987991",
+      "id": "paragraph_1793956637231_2016987991",
+      "dateCreated": "2026-11-06 09:17:17.231",
+      "dateStarted": "2026-11-06 10:43:31.575",
+      "dateFinished": "2026-11-06 10:48:38.868",
+      "status": "FINISHED"
+    },
+    {
+      "title": "Ti le san pham theo phan khuc gia",
+      "text": "%hive\nSELECT CASE WHEN sale_price \u003c 7000000 THEN \u00271. Gia re (\u003c7tr)\u0027 WHEN sale_price \u003c\u003d 15000000 THEN \u00272. Tam trung (7-15tr)\u0027 WHEN sale_price \u003c\u003d 25000000 THEN \u00273. Can cao cap (15-25tr)\u0027 ELSE \u00274. Cao cap (\u003e25tr)\u0027 END AS phan_khuc, COUNT(*) AS so_luong FROM products_hive GROUP BY CASE WHEN sale_price \u003c 7000000 THEN \u00271. Gia re (\u003c7tr)\u0027 WHEN sale_price \u003c\u003d 15000000 THEN \u00272. Tam trung (7-15tr)\u0027 WHEN sale_price \u003c\u003d 25000000 THEN \u00273. Can cao cap (15-25tr)\u0027 ELSE \u00274. Cao cap (\u003e25tr)\u0027 END",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 09:17:17.282",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "pieChart"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "phan_khuc\tso_luong\n1. Gia re (\u003c7tr)\t367\n2. Tam trung (7-15tr)\t289\n3. Can cao cap (15-25tr)\t208\n4. Cao cap (\u003e25tr)\t375\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637268_1506687564",
+      "id": "paragraph_1793956637268_1506687564",
+      "dateCreated": "2026-11-06 09:17:17.268",
+      "dateStarted": "2026-11-06 10:48:39.127",
+      "dateFinished": "2026-11-06 10:51:24.412",
+      "status": "FINISHED"
+    },
+    {
+      "title": "Gia ban trung binh theo hang (trieu dong)",
+      "text": "%hive\nSELECT brand, ROUND(AVG(sale_price)/1000000, 2) AS gia_tb_trieu FROM products_hive GROUP BY brand ORDER BY gia_tb_trieu DESC",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 11:02:55.907",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "multiBarChart"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "brand\tgia_tb_trieu\nApple\t39.13\nSony\t31.42\nSamsung\t17.7\nOPPO\t15.88\nXiaomi\t9.8\nHONOR\t9.48\nVivo\t9.11\nOther\t7.35\nMotorola\t6.54\nRealme\t5.43\nTecno\t5.43\nNubia\t4.98\nItel\t3.49\nBenco\t3.19\nNokia\t0.78\nMasstel\t0.68\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637283_355597975",
+      "id": "paragraph_1793956637283_355597975",
+      "dateCreated": "2026-11-06 09:17:17.283",
+      "dateStarted": "2026-11-06 11:02:56.089",
+      "dateFinished": "2026-11-06 11:07:15.652",
+      "status": "FINISHED"
+    },
+    {
+      "title": "Gia trung binh theo dung luong ROM va san",
+      "text": "%hive\nSELECT storage_gb, source, ROUND(AVG(sale_price)/1000000, 2) AS gia_tb_trieu FROM products_hive WHERE storage_gb \u003e 0 GROUP BY storage_gb, source ORDER BY storage_gb",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 11:07:16.098",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "lineChart"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "storage_gb\tsource\tgia_tb_trieu\n64\tCellphoneS\t3.71\n64\tFPTShop\t3.86\n64\tTGDD\t3.31\n128\tCellphoneS\t10.88\n128\tFPTShop\t9.33\n128\tTGDD\t7.08\n256\tTGDD\t13.08\n256\tFPTShop\t19.97\n256\tCellphoneS\t21.82\n512\tTGDD\t28.28\n512\tFPTShop\t33.62\n512\tCellphoneS\t30.98\n1024\tCellphoneS\t46.1\n1024\tFPTShop\t49.59\n1024\tTGDD\t52.07\n2048\tFPTShop\t78.68\n2048\tTGDD\t74.44\n2048\tCellphoneS\t84.19\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637284_133251656",
+      "id": "paragraph_1793956637284_133251656",
+      "dateCreated": "2026-11-06 09:17:17.285",
+      "dateStarted": "2026-11-06 11:07:16.175",
+      "dateFinished": "2026-11-06 11:10:24.730",
+      "status": "FINISHED"
+    },
+    {
+      "title": "Top 10 san pham giam gia sau nhat",
+      "text": "%hive\nSELECT source, clean_name, CAST(original_price AS BIGINT) AS gia_goc, CAST(sale_price AS BIGINT) AS gia_ban, discount_pct FROM products_hive ORDER BY discount_pct DESC LIMIT 10",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 10:59:05.426",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "source\tclean_name\tgia_goc\tgia_ban\tdiscount_pct\nTGDD\tNokia 220 4G (Cam)\t3990000\t590000\t85.21\nTGDD\tNokia 220 4G (Đen)\t3990000\t600000\t84.96\nTGDD\tMobell F309 4G (Xanh Dương)\t3990000\t746182\t81.3\nTGDD\tMobell F309 4G (Đỏ)\t3990000\t750000\t81.2\nTGDD\tMotorola Razr 60 5G 8GB/256GB (Trắng - Kem)\t19990000\t8210000\t58.93\nTGDD\tMotorola Razr 60 5G 8GB/256GB (Xanh Dương)\t19990000\t8630000\t56.83\nTGDD\trealme 15 Pro 5G 12GB/256GB\t14990000\t6480000\t56.77\nTGDD\trealme C100 4G 8GB/128GB (Nâu)\t9290000\t4270000\t54.04\nTGDD\trealme 16T 5G 8GB/128GB (Đen)\t11990000\t5540000\t53.79\nTGDD\trealme 16T 5G 8GB/128GB (Xanh)\t11990000\t5540000\t53.79\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637291_1467232694",
+      "id": "paragraph_1793956637291_1467232694",
+      "dateCreated": "2026-11-06 09:17:17.291",
+      "dateStarted": "2026-11-06 11:01:07.527",
+      "dateFinished": "2026-11-06 11:02:32.799",
+      "status": "FINISHED"
+    },
+    {
+      "title": "Du lieu di qua Kafka (bang kafka_products_raw)",
+      "text": "%hive\nSELECT get_json_object(json, \u0027$.source\u0027) AS source, COUNT(*) AS so_tin_nhan FROM kafka_products_raw GROUP BY get_json_object(json, \u0027$.source\u0027)",
+      "user": "anonymous",
+      "dateUpdated": "2026-11-06 09:17:17.300",
+      "progress": 0,
+      "config": {
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "multiBarChart"
+            }
+          }
+        }
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "WARNING: Hive-on-MR is deprecated in Hive 2 and may not be available in the future versions. Consider using a different execution engine (i.e. spark, tez) or using Hive 1.X releases.\n"
+          },
+          {
+            "type": "TABLE",
+            "data": "source\tso_tin_nhan\nCellphoneS\t399\nFPTShop\t305\nTGDD\t535\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1793956637299_1878891658",
+      "id": "paragraph_1793956637299_1878891658",
+      "dateCreated": "2026-11-06 09:17:17.299",
+      "dateStarted": "2026-11-06 09:30:49.561",
+      "dateFinished": "2026-11-06 09:34:08.881",
+      "status": "FINISHED"
+    }
+  ],
+  "name": "Ecommerce_Hive_Analysis",
+  "id": "2N7WEZ2WB",
+  "defaultInterpreterGroup": "spark",
+  "version": "0.11.1",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {
+    "inIsolatedMode": false,
+    "isRunning": false
+  }
+}

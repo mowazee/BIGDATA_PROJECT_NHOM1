@@ -133,3 +133,45 @@ services:
       - namenode
       - hive-server
       - mysql-db
+
+  # 11. Apache Kafka (công cụ ngoài chương trình): truyền dữ liệu sản phẩm dạng luồng (streaming)
+  #     Chế độ KRaft 1 node, không cần ZooKeeper. Trong mạng docker: kafka:9092 ; từ Windows: localhost:9094
+  kafka:
+    image: apache/kafka:3.7.0
+    container_name: kafka
+    ports:
+      - "9094:9094"
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_LISTENERS: PLAINTEXT://:9092,CONTROLLER://:9093,EXTERNAL://:9094
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,EXTERNAL://localhost:9094
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,EXTERNAL:PLAINTEXT
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_HEAP_OPTS: "-Xmx512m -Xms256m"
+    volumes:
+      - ./kafka:/kafka_demo
+
+  # 12. Apache Zeppelin (công cụ ngoài chương trình): notebook web truy vấn Hive & vẽ biểu đồ
+  #     Giao diện: http://localhost:8081 (cổng 8080 đã dùng cho Spark)
+  zeppelin:
+    image: apache/zeppelin:0.11.1
+    container_name: zeppelin
+    ports:
+      - "8081:8080"
+    environment:
+      ZEPPELIN_NOTEBOOK_DIR: /notebook
+      # Lưu notebook dạng file thường (mặc định Zeppelin tự tạo repo git bên trong thư mục notebook,
+      # làm git của project không thêm được file notebook vào)
+      ZEPPELIN_NOTEBOOK_STORAGE: org.apache.zeppelin.notebook.repo.VFSNotebookRepo
+      ZEPPELIN_MEM: "-Xmx1024m"
+    volumes:
+      - ./zeppelin/notebook:/notebook
+      - ./shared_data:/shared_data
+    depends_on:
+      - hive-server
