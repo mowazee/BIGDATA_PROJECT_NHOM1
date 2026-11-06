@@ -20,8 +20,8 @@ from db_cleaner import (
 # - Để test nhanh cả 3 sàn trong 3-4 phút: Đặt MAX_PRODUCTS_PER_SITE = 10, MAX_LOAD_MORE_CLICKS = 2
 # - Để lấy > 1.000 bản ghi thực tế nộp bài: Đặt MAX_PRODUCTS_PER_SITE = 65, MAX_LOAD_MORE_CLICKS = 10
 # ==============================================================================
-MAX_PRODUCTS_PER_SITE = 80
-MAX_LOAD_MORE_CLICKS = 10
+MAX_PRODUCTS_PER_SITE = 120     # 80 chỉ còn 980 bản ghi sau làm sạch -> tăng để vượt 1.000
+MAX_LOAD_MORE_CLICKS = 15
 PAGE_LOAD_TIMEOUT = 40      # giây; quá thời gian này thì dừng tải trang thay vì treo 120s rồi văng lỗi
 
 def get_driver():
@@ -637,7 +637,11 @@ def crawl_fptshop(driver):
 # 4. XUẤT CSV (RAW + CLEANED) VÀ LƯU VÀO MYSQL
 # ==============================================================================
 def process_and_save(raw_items):
-    dataset_dir = r"D:\BIGDATA_PRJ\dataset"
+    # Thư mục dataset/ của project (cùng cấp thư mục crawl/), không phụ thuộc ổ đĩa của từng máy.
+    # Có thể đổi bằng biến môi trường DATASET_DIR.
+    dataset_dir = os.environ.get(
+        "DATASET_DIR",
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "dataset"))
     os.makedirs(dataset_dir, exist_ok=True)
     raw_csv_path = os.path.join(dataset_dir, "products_raw.csv")
     clean_csv_path = os.path.join(dataset_dir, "products_cleaned.csv")

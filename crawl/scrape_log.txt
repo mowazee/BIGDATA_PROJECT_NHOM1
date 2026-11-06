@@ -1,0 +1,1646 @@
+
+[TGDD] 1. Đang lấy danh sách link sản phẩm gốc từ: https://www.thegioididong.com/dtdd
+   -> Đã bấm 'Xem thêm' danh sách lần 1/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 2/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 3/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 4/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 5/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 6/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 7/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 8/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 9/15...
+[TGDD] Tìm thấy 120 mẫu điện thoại gốc:
+   (1) https://www.thegioididong.com/dtdd/oppo-find-x10-12gb-512gb
+   (2) https://www.thegioididong.com/dtdd/iphone-duo
+   (3) https://www.thegioididong.com/dtdd/realme-c01-4gb-64gb
+   (4) https://www.thegioididong.com/dtdd/iphone-18-pro-max
+   (5) https://www.thegioididong.com/dtdd/iphone-18-pro
+   (6) https://www.thegioididong.com/dtdd/oppo-find-x10-pro-max-16gb-512gb
+   (7) https://www.thegioididong.com/dtdd/vivo-x500-pro-max-12gb-512gb
+   (8) https://www.thegioididong.com/dtdd/xiaomi-18-pro-max-12gb-512gb
+   (9) https://www.thegioididong.com/dtdd/iphone-17-pro-max
+   (10) https://www.thegioididong.com/dtdd/samsung-galaxy-a57-12gb-256gb
+   (11) https://www.thegioididong.com/dtdd/samsung-galaxy-s26-ultra-12gb-256gb
+   (12) https://www.thegioididong.com/dtdd/xiaomi-17t-5g-12gb-256gb
+   (13) https://www.thegioididong.com/dtdd/oppo-reno16-pro
+   (14) https://www.thegioididong.com/dtdd/vivo-x300-ultra
+   (15) https://www.thegioididong.com/dtdd/realme-c100x-4gb-128gb
+   (16) https://www.thegioididong.com/dtdd/realme-16t-5g-8gb-128gb
+   (17) https://www.thegioididong.com/dtdd/honor-600-lite-8gb-256gb
+   (18) https://www.thegioididong.com/dtdd/iphone-17-pro
+   (19) https://www.thegioididong.com/dtdd/iphone-17
+   (20) https://www.thegioididong.com/dtdd/samsung-galaxy-a37-6gb-128gb
+   (21) https://www.thegioididong.com/dtdd/xiaomi-17
+   (22) https://www.thegioididong.com/dtdd/oppo-reno16-5g-8gb-256gb
+   (23) https://www.thegioididong.com/dtdd/oppo-find-x9-ultra
+   (24) https://www.thegioididong.com/dtdd/vivo-v70-fe-8gb-256gb
+   (25) https://www.thegioididong.com/dtdd/realme-c100i-4gb-64gb
+   (26) https://www.thegioididong.com/dtdd/honor-x9d-5g-12gb-256gb
+   (27) https://www.thegioididong.com/dtdd/tecno-spark-50-4gb-128gb
+   (28) https://www.thegioididong.com/dtdd/nubia-air-5g-8gb-256gb
+   (29) https://www.thegioididong.com/dtdd/motorola-edge-70-fusion-8gb-128gb
+   (30) https://www.thegioididong.com/dtdd/iphone-15
+   (31) https://www.thegioididong.com/dtdd/iphone-air
+   (32) https://www.thegioididong.com/dtdd/samsung-galaxy-s26-12gb-256gb
+   (33) https://www.thegioididong.com/dtdd/oppo-find-x9s-12gb-512gb
+   (34) https://www.thegioididong.com/dtdd/oppo-reno15f-5g-12gb-256gb
+   (35) https://www.thegioididong.com/dtdd/vivo-v60-lite-8gb-256gb
+   (36) https://www.thegioididong.com/dtdd/realme-c100-4g-8gb-128gb
+   (37) https://www.thegioididong.com/dtdd/honor-x7d-5g-8gb-256gb
+   (38) https://www.thegioididong.com/dtdd/nubia-v80-max-6gb-128gb
+   (39) https://www.thegioididong.com/dtdd/tecno-spark-go-3-4gb-64gb
+   (40) https://www.thegioididong.com/dtdd/motorola-g57-power-5g-8gb-128gb
+   (41) https://www.thegioididong.com/dtdd/iphone-16
+   (42) https://www.thegioididong.com/dtdd/iphone-17e-256gb
+   (43) https://www.thegioididong.com/dtdd/oppo-a6x-4gb-64gb
+   (44) https://www.thegioididong.com/dtdd/vivo-x300-pro
+   (45) https://www.thegioididong.com/dtdd/realme-p4-power-5g-12gb-256gb
+   (46) https://www.thegioididong.com/dtdd/realme-16-5g-8gb-256gb
+   (47) https://www.thegioididong.com/dtdd/nubia-v80-design-4gb-128gb
+   (48) https://www.thegioididong.com/dtdd/motorola-edge-70-8gb-256gb
+   (49) https://www.thegioididong.com/dtdd/iphone-16e
+   (50) https://www.thegioididong.com/dtdd/iphone-16-plus
+   (51) https://www.thegioididong.com/dtdd/samsung-galaxy-s25
+   (52) https://www.thegioididong.com/dtdd/vivo-y39-5g
+   (53) https://www.thegioididong.com/dtdd/realme-c85-8gb-128gb
+   (54) https://www.thegioididong.com/dtdd/honor-400-5g-12gb-256gb-den
+   (55) https://www.thegioididong.com/dtdd/motorola-signature-12gb-256gb
+   (56) https://www.thegioididong.com/dtdd/samsung-galaxy-a17-5g-8gb-256gb
+   (57) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-15-pro-5g-8gb-256gb
+   (58) https://www.thegioididong.com/dtdd/realme-c85-pro-8gb-128gb
+   (59) https://www.thegioididong.com/dtdd/nubia-a56-4gb-128gb
+   (60) https://www.thegioididong.com/dtdd/motorola-moto-g35-5g-4gb-128gb
+   (61) https://www.thegioididong.com/dtdd/samsung-galaxy-s25-fe-5g-8gb-256gb
+   (62) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-15-pro-8gb-256gb
+   (63) https://www.thegioididong.com/dtdd/realme-15-pro-5g-12gb-256gb
+   (64) https://www.thegioididong.com/dtdd/nubia-a36-4gb-64gb
+   (65) https://www.thegioididong.com/dtdd/motorola-moto-g86-5g-8gb-128gb
+   (66) https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold7
+   (67) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-15-pro-plus-5g-12gb-256gb
+   (68) https://www.thegioididong.com/dtdd/oppo-a6t-4gb-64gb
+   (69) https://www.thegioididong.com/dtdd/vivo-v60-12gb-256gb
+   (70) https://www.thegioididong.com/dtdd/motorola-edge-60-fusion-8gb-256gb
+   (71) https://www.thegioididong.com/dtdd/samsung-galaxy-a27-6gb-128gb
+   (72) https://www.thegioididong.com/dtdd/oppo-reno16f-5g-8gb-128gb
+   (73) https://www.thegioididong.com/dtdd/motorola-g37-4gb-64gb
+   (74) https://www.thegioididong.com/dtdd/oppo-a6-pro-5g-12gb-256gb
+   (75) https://www.thegioididong.com/dtdd/motorola-razr-60-8gb-256gb
+   (76) https://www.thegioididong.com/dtdd/nothing-phone-4b-8gb-128gb
+   (77) https://www.thegioididong.com/dtdd/nothing-phone-4-a-8gb-128gb
+   (78) https://www.thegioididong.com/dtdd/oppo-a6c-4gb-64gb
+   (79) https://www.thegioididong.com/dtdd/xiaomi-redmi-17-4g-4gb-128gb
+   (80) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-4g-4gb-128gb
+   (81) https://www.thegioididong.com/dtdd/vivo-y05-4gb-64gb
+   (82) https://www.thegioididong.com/dtdd/samsung-galaxy-a17-4gb-128gb
+   (83) https://www.thegioididong.com/dtdd/vivo-y31d-4gb-128gb
+   (84) https://www.thegioididong.com/dtdd/nokia-105-4g-pro
+   (85) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-pro-5g-6gb-256gb
+   (86) https://www.thegioididong.com/dtdd/samsung-galaxy-a18-4gb-128gb
+   (87) https://www.thegioididong.com/dtdd/samsung-galaxy-a07-5g-4gb-128gb
+   (88) https://www.thegioididong.com/dtdd/samsung-galaxy-a07s-4gb-64gb
+   (89) https://www.thegioididong.com/dtdd/xiaomi-poco-c71-4gb-64gb
+   (90) https://www.thegioididong.com/dtdd/oppo-a6-6gb-128gb
+   (91) https://www.thegioididong.com/dtdd/vivo-v80-lite-5g-6gb-128gb
+   (92) https://www.thegioididong.com/dtdd/samsung-galaxy-a08-4gb-64gb
+   (93) https://www.thegioididong.com/dtdd/masstel-izi-t6-t127
+   (94) https://www.thegioididong.com/dtdd/oppo-a7-pro-5g-8gb-128gb
+   (95) https://www.thegioididong.com/dtdd/xiaomi-redmi-a7-pro
+   (96) https://www.thegioididong.com/dtdd/honor-play-10-3gb-64gb
+   (97) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-5g-6gb-128gb
+   (98) https://www.thegioididong.com/dtdd/masstel-fami-50
+   (99) https://www.thegioididong.com/dtdd/masstel-izi-10s
+   (100) https://www.thegioididong.com/dtdd/xiaomi-redmi-a7-3gb-64gb
+   (101) https://www.thegioididong.com/dtdd/realme-note-80-4gb-64gb
+   (102) https://www.thegioididong.com/dtdd/xiaomi-redmi-note-17-pro-max-12gb-256gb
+   (103) https://www.thegioididong.com/dtdd/samsung-galaxy-a26
+   (104) https://www.thegioididong.com/dtdd/samsung-galaxy-s26-fe-8gb-128gb
+   (105) https://www.thegioididong.com/dtdd/samsung-galaxy-a07-4gb-64gb
+   (106) https://www.thegioididong.com/dtdd/nokia-hmd-105-4g
+   (107) https://www.thegioididong.com/dtdd/nokia-220-4g
+   (108) https://www.thegioididong.com/dtdd/nokia-110-4g-pro
+   (109) https://www.thegioididong.com/dtdd/oppo-a6-pro-8gb-256gb
+   (110) https://www.thegioididong.com/dtdd/xiaomi-redmi-17-5g-4gb-128gb
+   (111) https://www.thegioididong.com/dtdd/vivo-y05e-4gb-64gb
+   (112) https://www.thegioididong.com/dtdd/masstel-izi-10-type-c
+   (113) https://www.thegioididong.com/dtdd/motorola-g06-power-4gb-64gb
+   (114) https://www.thegioididong.com/dtdd/mobell-m239
+   (115) https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold8-12gb-256gb
+   (116) https://www.thegioididong.com/dtdd/vivo-y11d-4gb-128gb
+   (117) https://www.thegioididong.com/dtdd/honor-x5c-plus-4gb-64gb
+   (118) https://www.thegioididong.com/dtdd/mobell-f309
+   (119) https://www.thegioididong.com/dtdd/oppo-reno15-pro-5g-12gb-256gb
+   (120) https://www.thegioididong.com/dtdd/samsung-galaxy-s25-ultra
+   [TGDD #4] + iPhone 18 Pro Max 256GB | Specs: 256 GB | Màu: Băng Thanh | Giá: 41.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 256GB | Specs: 256 GB | Màu: Đen | Giá: 41.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 256GB | Specs: 256 GB | Màu: Bạc | Giá: 41.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 256GB | Specs: 256 GB | Màu: Đỏ Burgundy | Giá: 41.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 512GB | Specs: 512 GB | Màu: Băng Thanh | Giá: 48.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 512GB | Specs: 512 GB | Màu: Đen | Giá: 48.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 512GB | Specs: 512 GB | Màu: Bạc | Giá: 48.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 512GB | Specs: 512 GB | Màu: Đỏ Burgundy | Giá: 48.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 1TB | Specs: 1 TB | Màu: Băng Thanh | Giá: 61.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 1TB | Specs: 1 TB | Màu: Đen | Giá: 61.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 1TB | Specs: 1 TB | Màu: Bạc | Giá: 61.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 1TB | Specs: 1 TB | Màu: Đỏ Burgundy | Giá: 61.490.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 2TB | Specs: 2 TB | Màu: Băng Thanh | Giá: 80.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 2TB | Specs: 2 TB | Màu: Đen | Giá: 80.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 2TB | Specs: 2 TB | Màu: Bạc | Giá: 80.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #4] + iPhone 18 Pro Max 2TB | Specs: 2 TB | Màu: Đỏ Burgundy | Giá: 80.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 256GB | Specs: 256 GB | Màu: Băng Thanh | Giá: 38.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 256GB | Specs: 256 GB | Màu: Đen | Giá: 38.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 256GB | Specs: 256 GB | Màu: Bạc | Giá: 38.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 256GB | Specs: 256 GB | Màu: Đỏ Burgundy | Giá: 38.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 512GB | Specs: 512 GB | Màu: Băng Thanh | Giá: 45.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 512GB | Specs: 512 GB | Màu: Đen | Giá: 45.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 512GB | Specs: 512 GB | Màu: Bạc | Giá: 45.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 512GB | Specs: 512 GB | Màu: Đỏ Burgundy | Giá: 45.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 1TB | Specs: 1 TB | Màu: Băng Thanh | Giá: 58.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 1TB | Specs: 1 TB | Màu: Đen | Giá: 58.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 1TB | Specs: 1 TB | Màu: Bạc | Giá: 58.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 1TB | Specs: 1 TB | Màu: Đỏ Burgundy | Giá: 58.490.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 2TB | Specs: 2 TB | Màu: Băng Thanh | Giá: 77.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 2TB | Specs: 2 TB | Màu: Đen | Giá: 77.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 2TB | Specs: 2 TB | Màu: Bạc | Giá: 77.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #5] + iPhone 18 Pro 2TB | Specs: 2 TB | Màu: Đỏ Burgundy | Giá: 77.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 256GB | Specs: 256 GB | Màu: Xanh Đậm | Giá: 32.100.000 | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 256GB | Specs: 256 GB | Màu: Cam Vũ Trụ | Giá: 34.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 512GB | Specs: 512 GB | Màu: Xanh Đậm | Giá: 41.490.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 512GB | Specs: 512 GB | Màu: Bạc | Giá: 36.270.000 | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 512GB | Specs: 512 GB | Màu: Cam Vũ Trụ | Giá: 41.490.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 1TB | Specs: 1 TB | Màu: Xanh Đậm | Giá: 47.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 1TB | Specs: 1 TB | Màu: Bạc | Giá: 47.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 1TB | Specs: 1 TB | Màu: Cam Vũ Trụ | Giá: 47.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 2TB | Specs: 2 TB | Màu: Xanh Đậm | Giá: 60.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 2TB | Specs: 2 TB | Màu: Bạc | Giá: 60.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #9] + Điện thoại iPhone 17 Pro Max 2TB | Specs: 2 TB | Màu: Cam Vũ Trụ | Giá: 60.990.000đ | Sao: 4.9 (80 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh dương nhạt | Giá: 11.000.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Tím | Giá: 11.000.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh đen | Giá: 11.000.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xám | Giá: 7.910.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh dương nhạt | Giá: 8.990.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 9.040.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh đen | Giá: 9.040.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xám | Giá: 9.040.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xanh dương nhạt | Giá: 12.100.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Tím | Giá: 10.260.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xanh đen | Giá: 12.100.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #10] + Điện thoại Samsung Galaxy A57 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xám | Giá: 10.200.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xanh Dương | Giá: 25.500.000 | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Trắng | Giá: 25.100.000 | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 25.230.000 | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Tím | Giá: 24.970.000 | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Xanh Dương | Giá: 35.690.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Trắng | Giá: 35.690.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Đen | Giá: 35.690.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Tím | Giá: 35.690.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | Specs: 16 GB 16GB/1TB | Màu: Xanh Dương | Giá: 44.590.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | Specs: 16 GB 16GB/1TB | Màu: Trắng | Giá: 44.590.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | Specs: 16 GB 16GB/1TB | Màu: Đen | Giá: 44.590.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #11] + Điện thoại Samsung Galaxy S26 Ultra 5G 16GB/1TB | Specs: 16 GB 16GB/1TB | Màu: Tím | Giá: 44.590.000đ | Sao: 4.9 (13 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Tím | Giá: 14.780.000đ | Sao: 4.9 (4 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 11.530.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Trắng | Giá: 12.300.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/512GB | Specs: 512 GB | Màu: Tím | Giá: 12.850.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/512GB | Specs: 512 GB | Màu: Đen | Giá: 12.300.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #12] + Điện thoại Xiaomi 17T 5G 12GB/512GB | Specs: 512 GB | Màu: Xanh Dương | Giá: 14.520.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #13] + Điện thoại OPPO Reno16 Pro 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Trắng | Giá: 16.170.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #13] + Điện thoại OPPO Reno16 Pro 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 16.170.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #14] + Điện thoại Vivo X300 Ultra 16GB/512GB | Specs: 16 GB 512 GB | Màu: Xanh lá | Giá: 36.990.000đ | Sao: 4.9 ()
+   [TGDD #14] + Điện thoại Vivo X300 Ultra 16GB/512GB | Specs: 16 GB 512 GB | Màu: Đen | Giá: 32.070.000 | Sao: 4.9 ()
+   [TGDD #15] + Điện thoại realme C100x 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Vàng | Giá: 3.620.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #15] + Điện thoại realme C100x 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh | Giá: 4.340.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #15] + Điện thoại realme C100x 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Vàng | Giá: 4.080.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #15] + Điện thoại realme C100x 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh | Giá: 6.770.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #16] + realme 16T 5G 8GB/128GB | Specs: 8GB/128GB | Màu: Đen | Giá: 5.540.000 | Sao: 5 (1 đánh giá)
+   [TGDD #16] + realme 16T 5G 8GB/128GB | Specs: 8GB/128GB | Màu: Xanh | Giá: 5.540.000 | Sao: 5 (1 đánh giá)
+   [TGDD #16] + realme 16T 5G 8GB/256GB | Specs: 8GB/256GB | Màu: Đen | Giá: 7.000.000 | Sao: 5 (1 đánh giá)
+   [TGDD #16] + realme 16T 5G 8GB/256GB | Specs: 8GB/256GB | Màu: Xanh | Giá: 7.070.000 | Sao: 5 (1 đánh giá)
+   [TGDD #17] + Điện thoại Honor 600 Lite 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 6.580.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #17] + Điện thoại Honor 600 Lite 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh lá | Giá: 6.510.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #17] + Điện thoại Honor 600 Lite 8GB/256GB | Specs: 8 GB 256 GB | Màu: Vàng | Giá: 9.270.000đ | Sao: 4.9 (4 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 256GB | Specs: 256 GB | Màu: Xanh Đậm | Giá: 29.300.000 | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 256GB | Specs: 256 GB | Màu: Cam Vũ Trụ | Giá: 31.990.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 256GB | Specs: 256 GB | Màu: Bạc | Giá: 31.990.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 512GB | Specs: 512 GB | Màu: Xanh Đậm | Giá: 38.490.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 512GB | Specs: 512 GB | Màu: Cam Vũ Trụ | Giá: 34.310.000 | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 512GB | Specs: 512 GB | Màu: Bạc | Giá: 38.490.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 1TB | Specs: 1 TB | Màu: Xanh Đậm | Giá: 44.990.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 1TB | Specs: 1 TB | Màu: Cam Vũ Trụ | Giá: 44.990.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #18] + Điện thoại iPhone 17 Pro 1TB | Specs: 1 TB | Màu: Bạc | Giá: 44.990.000đ | Sao: 4.9 (18 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 256GB | Specs: 256 GB | Màu: Tím Oải Hương | Giá: 28.490.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 256GB | Specs: 256 GB | Màu: Đen | Giá: 23.380.000 | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 256GB | Specs: 256 GB | Màu: Trắng | Giá: 23.980.000 | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 256GB | Specs: 256 GB | Màu: Xanh Lá Xô Thơm | Giá: 23.740.000 | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 256GB | Specs: 256 GB | Màu: Xanh Lam Khói | Giá: 23.140.000 | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 512GB | Specs: 512 GB | Màu: Tím Oải Hương | Giá: 33.990.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 512GB | Specs: 512 GB | Màu: Đen | Giá: 33.990.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 512GB | Specs: 512 GB | Màu: Trắng | Giá: 33.990.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 512GB | Specs: 512 GB | Màu: Xanh Lá Xô Thơm | Giá: 33.990.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #19] + Điện thoại iPhone 17 512GB | Specs: 512 GB | Màu: Xanh Lam Khói | Giá: 33.990.000đ | Sao: 4.9 (33 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 7.590.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh lá đậm | Giá: 9.200.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Trắng | Giá: 7.850.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 6.780.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 8.000.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh lá đậm | Giá: 7.110.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Trắng | Giá: 9.700.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Tím | Giá: 7.300.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 11.300.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh lá đậm | Giá: 11.300.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Trắng | Giá: 8.200.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #20] + Điện thoại Samsung Galaxy A37 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 7.950.000 | Sao: 4.9 (5 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 16.260.000 | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Dương | Giá: 17.350.000 | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh lá | Giá: 18.950.000đ | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/512GB | Specs: 512 GB | Màu: Đen | Giá: 19.920.000đ | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/512GB | Specs: 512 GB | Màu: Xanh Dương | Giá: 18.240.000 | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/512GB | Specs: 512 GB | Màu: Xanh lá | Giá: 19.920.000đ | Sao: 4.9 (14 đánh giá)
+   [TGDD #21] + Điện thoại Xiaomi 17 5G 12GB/512GB | Specs: 512 GB | Màu: Hồng | Giá: 19.920.000đ | Sao: 4.9 (14 đánh giá)
+   [TGDD #22] + Điện thoại OPPO Reno16 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím nhạt | Giá: 12.550.000 | Sao: 4.9 ()
+   [TGDD #22] + Điện thoại OPPO Reno16 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím | Giá: 12.550.000 | Sao: 4.9 ()
+   [TGDD #22] + Điện thoại OPPO Reno16 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Trắng | Giá: 12.550.000 | Sao: 4.9 ()
+   [TGDD #23] + Điện thoại OPPO Find X9 Ultra 12GB/512GB | Specs: 512 GB | Màu: Nâu nhạt | Giá: 31.580.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #23] + Điện thoại OPPO Find X9 Ultra 12GB/512GB | Specs: 512 GB | Màu: Cam | Giá: 49.990.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #24] + Điện thoại Vivo V70 FE 5G 8GB/256GB | Specs: 8 GB | Màu: Tím | Giá: 7.380.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #24] + Điện thoại Vivo V70 FE 5G 8GB/256GB | Specs: 8 GB | Màu: Bạc | Giá: 7.340.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #24] + Điện thoại Vivo V70 FE 5G 8GB/256GB | Specs: 8 GB | Màu: Xanh đen | Giá: 7.490.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #25] + Điện thoại realme C100i 4GB/64GB | Specs: 64 GB | Màu: Xám | Giá: 3.530.000 | Sao: 5 ()
+   [TGDD #25] + Điện thoại realme C100i 4GB/64GB | Specs: 64 GB | Màu: Tím | Giá: 2.830.000 | Sao: 5 ()
+   [TGDD #25] + Điện thoại realme C100i 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xám | Giá: 3.400.000 | Sao: 5 ()
+   [TGDD #25] + Điện thoại realme C100i 4GB/128GB | Specs: 4 GB 128 GB | Màu: Tím | Giá: 3.370.000 | Sao: 5 ()
+   [TGDD #26] + Điện thoại HONOR X9d 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 11.240.000đ | Sao: 4.9 (19 đánh giá)
+   [TGDD #26] + Điện thoại HONOR X9d 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Vàng | Giá: 7.540.000 | Sao: 4.9 (19 đánh giá)
+   [TGDD #26] + Điện thoại HONOR X9d 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 8.480.000 | Sao: 4.9 (19 đánh giá)
+   [TGDD #26] + Điện thoại HONOR X9d 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Vàng | Giá: 8.390.000 | Sao: 4.9 (19 đánh giá)
+   [TGDD #26] + Điện thoại HONOR X9d 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đỏ | Giá: 8.440.000 | Sao: 4.9 (19 đánh giá)
+   [TGDD #27] + Điện thoại Tecno Spark 50 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xám | Giá: 3.140.000 | Sao: 5 ()
+   [TGDD #27] + Điện thoại Tecno Spark 50 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 3.140.000 | Sao: 5 ()
+   [TGDD #28] + Điện thoại Nubia Air 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Vàng | Giá: 5.380.000đ | Sao: 5 ()
+   [TGDD #28] + Điện thoại Nubia Air 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 5.380.000đ | Sao: 5 ()
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/128GB | Specs: 128 GB | Màu: Xanh Bạc Hà | Giá: 9.430.000đ | Sao: 4.9 (2 đánh giá)
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/128GB | Specs: 128 GB | Màu: Đen | Giá: 8.430.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/128GB | Specs: 128 GB | Màu: Xanh lam | Giá: 8.350.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Bạc Hà | Giá: 9.090.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 10.430.000đ | Sao: 4.9 (2 đánh giá)
+   [TGDD #29] + Điện thoại Motorola Edge 70 Fusion 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh lam | Giá: 9.040.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 128GB | Specs: 6 GB 128 GB | Màu: Xanh dương nhạt | Giá: 16.030.000 | Sao: 4.9 (153 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 128GB | Specs: 6 GB 128 GB | Màu: Đen | Giá: 17.350.000 | Sao: 4.9 (153 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 128GB | Specs: 6 GB 128 GB | Màu: Hồng nhạt | Giá: 21.490.000đ | Sao: 4.9 (153 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 256GB | Specs: 256 GB | Màu: Xanh dương nhạt | Giá: 24.490.000đ | Sao: 4.9 (153 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 256GB | Specs: 256 GB | Màu: Đen | Giá: 24.490.000đ | Sao: 4.9 (153 đánh giá)
+   [TGDD #30] + Điện thoại iPhone 15 256GB | Specs: 256 GB | Màu: Hồng nhạt | Giá: 24.490.000đ | Sao: 4.9 (153 đánh giá)
+   [TGDD #33] + Điện thoại OPPO Find X9s 12GB/256GB | Specs: 12 GB 256 GB | Màu: Tím nhạt | Giá: 14.270.000 | Sao: 4.9 ()
+   [TGDD #33] + Điện thoại OPPO Find X9s 12GB/256GB | Specs: 12 GB 256 GB | Màu: Cam nhạt | Giá: 14.350.000 | Sao: 4.9 ()
+   [TGDD #33] + Điện thoại OPPO Find X9s 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xám | Giá: 14.270.000 | Sao: 4.9 ()
+   [TGDD #33] + Điện thoại OPPO Find X9s 12GB/512GB | Specs: 512 GB | Màu: Cam nhạt | Giá: 16.610.000 | Sao: 4.9 ()
+   [TGDD #33] + Điện thoại OPPO Find X9s 12GB/512GB | Specs: 512 GB | Màu: Xám | Giá: 16.700.000 | Sao: 4.9 ()
+   [TGDD #34] + Điện thoại OPPO Reno15 F 5G 12GB/256GB | Specs: 12 GB | Màu: Hồng | Giá: 12.990.000đ | Sao: 4.9 (35 đánh giá)
+   [TGDD #34] + Điện thoại OPPO Reno15 F 5G 12GB/256GB | Specs: 12 GB | Màu: Xanh Dương | Giá: 12.990.000đ | Sao: 4.9 (35 đánh giá)
+   [TGDD #34] + Điện thoại OPPO Reno15 F 5G 12GB/256GB | Specs: 12 GB | Màu: Xanh dương nhạt | Giá: 12.990.000đ | Sao: 4.9 (35 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Hồng | Giá: 5.670.000 | Sao: 4.9 (9 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh Dương | Giá: 9.780.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 9.780.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Hồng | Giá: 7.220.000 | Sao: 4.9 (9 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Xanh Dương | Giá: 12.230.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #35] + Điện thoại vivo V60 Lite 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Đen | Giá: 7.460.000 | Sao: 4.9 (9 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 4.230.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Nâu | Giá: 4.200.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Trắng | Giá: 4.180.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Tím | Giá: 5.140.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Nâu | Giá: 4.270.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Trắng | Giá: 4.460.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 4.840.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Nâu | Giá: 4.770.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #36] + Điện thoại realme C100 4G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Trắng | Giá: 8.390.000đ | Sao: 4.9 (2 đánh giá)
+   [TGDD #37] + Điện thoại Honor X7d 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Bạc | Giá: 5.050.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #37] + Điện thoại Honor X7d 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 5.440.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #37] + Điện thoại Honor X7d 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Vàng | Giá: 4.920.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #38] + Nubia V80 Max 4GB/128GB | Specs: 4GB/128GB | Màu: Vàng nhạt | Giá: 3.480.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 4GB/128GB | Specs: 4GB/128GB | Màu: Đen | Giá: 3.480.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 4GB/128GB | Specs: 4GB/128GB | Màu: Xanh Thiên Thanh | Giá: 3.480.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 4GB/128GB | Specs: 4GB/128GB | Màu: Bạc | Giá: 3.480.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 4GB/128GB | Specs: 4GB/128GB | Màu: Tím | Giá: 3.480.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 6GB/128GB | Specs: 6GB/128GB | Màu: Đen | Giá: 2.650.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #38] + Nubia V80 Max 6GB/128GB | Specs: 6GB/128GB | Màu: Bạc | Giá: 2.620.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 3.260.000đ | Sao: 5 ()
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.260.000đ | Sao: 5 ()
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/64GB | Specs: 64 GB | Màu: Xám | Giá: 3.260.000đ | Sao: 5 ()
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 3.510.000đ | Sao: 5 ()
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh Dương | Giá: 3.510.000đ | Sao: 5 ()
+   [TGDD #39] + Điện thoại Tecno Spark Go 3 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xám | Giá: 3.510.000đ | Sao: 5 ()
+   [TGDD #40] + Điện thoại Motorola G57 Power 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh rêu | Giá: 4.690.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #40] + Điện thoại Motorola G57 Power 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh dương đậm | Giá: 6.440.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #40] + Điện thoại Motorola G57 Power 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh Bạc Hà | Giá: 4.690.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #41] + Điện thoại iPhone 16 128GB | Specs: 128 GB | Màu: Trắng | Giá: 20.220.000 | Sao: 4.9 (31 đánh giá)
+   [TGDD #41] + Điện thoại iPhone 16 128GB | Specs: 128 GB | Màu: Đen | Giá: 24.490.000đ | Sao: 4.9 (31 đánh giá)
+   [TGDD #41] + Điện thoại iPhone 16 128GB | Specs: 128 GB | Màu: Xanh mòng két | Giá: 24.490.000đ | Sao: 4.9 (31 đánh giá)
+   [TGDD #41] + Điện thoại iPhone 16 128GB | Specs: 128 GB | Màu: Hồng | Giá: 24.490.000đ | Sao: 4.9 (31 đánh giá)
+   [TGDD #41] + Điện thoại iPhone 16 128GB | Specs: 128 GB | Màu: Xanh Lưu Ly | Giá: 24.490.000đ | Sao: 4.9 (31 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 256GB | Specs: 256 GB | Màu: Hồng nhạt | Giá: 21.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 256GB | Specs: 256 GB | Màu: Đen | Giá: 21.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 256GB | Specs: 256 GB | Màu: Trắng | Giá: 21.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 512GB | Specs: 512 GB | Màu: Hồng nhạt | Giá: 22.380.000 | Sao: 4.9 (3 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 512GB | Specs: 512 GB | Màu: Đen | Giá: 26.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #42] + Điện thoại iPhone 17e 512GB | Specs: 512 GB | Màu: Trắng | Giá: 26.990.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh | Giá: 3.300.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Tím | Giá: 4.890.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Titan Tím | Giá: 4.890.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh | Giá: 6.940.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Tím | Giá: 6.940.000đ | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Titan Tím | Giá: 4.180.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh | Giá: 5.210.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #43] + Điện thoại OPPO A6x 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Titan Tím | Giá: 5.270.000 | Sao: 4.9 (17 đánh giá)
+   [TGDD #44] + Điện thoại vivo X300 Pro 5G 16GB/512GB | Specs: 16 GB 512 GB | Màu: Đen | Giá: 29.290.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #44] + Điện thoại vivo X300 Pro 5G 16GB/512GB | Specs: 16 GB 512 GB | Màu: Nâu nhạt | Giá: 29.290.000đ | Sao: 4.9 (3 đánh giá)
+   [TGDD #45] + Điện thoại realme P4 Power 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Cam | Giá: 8.650.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #45] + Điện thoại realme P4 Power 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Bạc | Giá: 8.750.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #46] + Điện thoại realme 16 5G 8GB/256GB | Specs: 8 GB | Màu: Đen | Giá: 7.060.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #46] + Điện thoại realme 16 5G 8GB/256GB | Specs: 8 GB | Màu: Trắng | Giá: 7.020.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #46] + Điện thoại realme 16 5G 12GB/256GB | Specs: 12 GB | Màu: Đen | Giá: 7.400.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #46] + Điện thoại realme 16 5G 12GB/256GB | Specs: 12 GB | Màu: Trắng | Giá: 13.350.000đ | Sao: 4.9 (4 đánh giá)
+   [TGDD #47] + Điện thoại Nubia V80 Design 4GB/128GB | Specs: 4 GB 128 GB | Màu: Cam nhạt | Giá: 3.570.000đ | Sao: 5 ()
+   [TGDD #47] + Điện thoại Nubia V80 Design 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 2.520.000 | Sao: 5 ()
+   [TGDD #47] + Điện thoại Nubia V80 Design 4GB/128GB | Specs: 4 GB 128 GB | Màu: Vàng nhạt | Giá: 3.570.000đ | Sao: 5 ()
+   [TGDD #47] + Điện thoại Nubia V80 Design 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh | Giá: 3.570.000đ | Sao: 5 ()
+   [TGDD #48] + Điện thoại Motorola Edge 70 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xám | Giá: 7.330.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #48] + Điện thoại Motorola Edge 70 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh ngọc | Giá: 7.020.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #48] + Điện thoại Motorola Edge 70 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh bộ đội | Giá: 8.020.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #49] + Điện thoại iPhone 16e 128GB | Specs: 128 GB | Màu: Đen | Giá: 11.800.000 | Sao: 4.9 (16 đánh giá)
+   [TGDD #49] + Điện thoại iPhone 16e 128GB | Specs: 128 GB | Màu: Trắng | Giá: 11.800.000 | Sao: 4.9 (16 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 128GB | Specs: 128 GB | Màu: Đen | Giá: 24.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 128GB | Specs: 128 GB | Màu: Trắng | Giá: 24.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 128GB | Specs: 128 GB | Màu: Xanh mòng két | Giá: 24.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 128GB | Specs: 128 GB | Màu: Hồng | Giá: 24.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 128GB | Specs: 128 GB | Màu: Xanh Lưu Ly | Giá: 24.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 27.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 256GB | Specs: 8 GB 256 GB | Màu: Trắng | Giá: 27.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 256GB | Specs: 8 GB 256 GB | Màu: Xanh mòng két | Giá: 27.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 256GB | Specs: 8 GB 256 GB | Màu: Hồng | Giá: 27.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #50] + Điện thoại iPhone 16 Plus 256GB | Specs: 8 GB 256 GB | Màu: Xanh Lưu Ly | Giá: 27.990.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #51] + Điện thoại Samsung Galaxy S25 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xám | Giá: 16.790.000đ | Sao: 4.9 (22 đánh giá)
+   [TGDD #51] + Điện thoại Samsung Galaxy S25 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh dương nhạt | Giá: 12.960.000 | Sao: 4.9 (22 đánh giá)
+   [TGDD #51] + Điện thoại Samsung Galaxy S25 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh lá | Giá: 16.790.000đ | Sao: 4.9 (22 đánh giá)
+   [TGDD #51] + Điện thoại Samsung Galaxy S25 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Navy | Giá: 16.790.000đ | Sao: 4.9 (22 đánh giá)
+   [TGDD #52] + Điện thoại vivo Y39 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh Dương | Giá: 6.120.000đ | Sao: 4.9 (20 đánh giá)
+   [TGDD #52] + Điện thoại vivo Y39 5G 8GB/128GB | Specs: 128 GB | Màu: Tím | Giá: 4.460.000 | Sao: 4.9 (20 đánh giá)
+   [TGDD #52] + Điện thoại vivo Y39 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Dương | Giá: 6.800.000đ | Sao: 4.9 (20 đánh giá)
+   [TGDD #52] + Điện thoại vivo Y39 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím | Giá: 4.810.000 | Sao: 4.9 (20 đánh giá)
+   [TGDD #53] + Điện thoại realme C85 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 5.300.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #53] + Điện thoại realme C85 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh dương nhạt | Giá: 5.300.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #53] + Điện thoại realme C85 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 5.870.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #53] + Điện thoại realme C85 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh dương nhạt | Giá: 5.870.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #54] + Điện thoại HONOR 400 5G 12GB/256GB Đen | Specs: 12 GB 256 GB | Màu: 256GB Đen | Giá: 12.480.000đ | Sao: 4.9 (5 đánh giá)
+   [TGDD #55] + Điện thoại Motorola Signature 12GB/256GB | Specs: 12 GB 256 GB | Màu: Ghi đen | Giá: 18.000.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #55] + Điện thoại Motorola Signature 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Oliu | Giá: 18.000.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Dương | Giá: 5.080.000 | Sao: 4.9 (36 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xám | Giá: 5.110.000 | Sao: 4.9 (36 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 6.700.000đ | Sao: 4.9 (36 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh Dương | Giá: 5.500.000 | Sao: 4.9 (36 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/128GB | Specs: 128 GB | Màu: Xám | Giá: 7.300.000đ | Sao: 4.9 (36 đánh giá)
+   [TGDD #56] + Điện thoại Samsung Galaxy A17 5G 8GB/128GB | Specs: 128 GB | Màu: Đen | Giá: 7.300.000đ | Sao: 4.9 (36 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Titan xám | Giá: 6.970.000 | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 7.040.000 | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 8.080.000đ | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Titan xám | Giá: 7.640.000 | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Tím | Giá: 9.160.000đ | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 9.160.000đ | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Titan xám | Giá: 7.870.000 | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Tím | Giá: 9.240.000đ | Sao: 4.9 (44 đánh giá)
+   [TGDD #57] + Điện thoại Xiaomi Redmi Note 15 Pro 5G 12GB/512GB | Specs: 12 GB 12GB/512GB | Màu: Đen | Giá: 7.480.000 | Sao: 4.9 (44 đánh giá)
+   [TGDD #58] + Điện thoại realme C85 Pro 8GB/128GB | Specs: 128 GB | Màu: Tím | Giá: 3.880.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #58] + Điện thoại realme C85 Pro 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím | Giá: 4.560.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #58] + Điện thoại realme C85 Pro 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh lá | Giá: 4.630.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #59] + Điện thoại Nubia A56 4GB/128GB | Specs: 4 GB 128 GB | Màu: Vàng | Giá: 3.320.000đ | Sao: 4.9 (1 đánh giá)
+   [TGDD #59] + Điện thoại Nubia A56 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 2.290.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #60] + Điện thoại Motorola G35 5G 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 2.710.000 | Sao: 4.9 (30 đánh giá)
+   [TGDD #60] + Điện thoại Motorola G35 5G 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh lá | Giá: 3.990.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/128GB | Specs: 128 GB | Màu: Đen | Giá: 10.200.000 | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/128GB | Specs: 128 GB | Màu: Trắng | Giá: 13.390.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh Navy | Giá: 13.390.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh dương nhạt | Giá: 13.390.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Đen | Giá: 15.790.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Trắng | Giá: 15.790.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Navy | Giá: 15.790.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #61] + Điện thoại Samsung Galaxy S25 FE 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh dương nhạt | Giá: 15.790.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 8GB/256GB | Specs: 8 GB | Màu: Xanh Dương | Giá: 5.910.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 8GB/256GB | Specs: 8 GB | Màu: Titan xám | Giá: 6.910.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 8GB/256GB | Specs: 8 GB | Màu: Đen | Giá: 6.910.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 12GB/256GB | Specs: 12 GB | Màu: Xanh Dương | Giá: 7.480.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 12GB/256GB | Specs: 12 GB | Màu: Titan xám | Giá: 7.480.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #62] + Điện thoại Xiaomi Redmi Note 15 Pro 12GB/256GB | Specs: 12 GB | Màu: Đen | Giá: 7.480.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #63] + Điện thoại realme 15 Pro 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Mặc định | Giá: 6.480.000 | Sao: 4.9 (3 đánh giá)
+   [TGDD #64] + Điện thoại Nubia A36 4GB/64GB | Specs: 64 GB | Màu: Xanh lá | Giá: 2.930.000đ | Sao: 5 ()
+   [TGDD #64] + Điện thoại Nubia A36 4GB/64GB | Specs: 64 GB | Màu: Vàng nhạt | Giá: 2.930.000đ | Sao: 5 ()
+   [TGDD #64] + Điện thoại Nubia A36 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 2.930.000đ | Sao: 5 ()
+   [TGDD #65] + Điện thoại Motorola G86 POWER 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh tím | Giá: 5.880.000đ | Sao: 4.9 (66 đánh giá)
+   [TGDD #65] + Điện thoại Motorola G86 POWER 5G 8GB/128GB | Specs: 128 GB | Màu: Xanh đen | Giá: 4.780.000 | Sao: 4.9 (66 đánh giá)
+   [TGDD #66] + Điện thoại Samsung Galaxy Z Fold7 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Navy | Giá: 24.390.000 | Sao: 5 (3 đánh giá)
+   [TGDD #66] + Điện thoại Samsung Galaxy Z Fold7 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 38.590.000đ | Sao: 5 (3 đánh giá)
+   [TGDD #66] + Điện thoại Samsung Galaxy Z Fold7 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xám | Giá: 38.590.000đ | Sao: 5 (3 đánh giá)
+   [TGDD #66] + Điện thoại Samsung Galaxy Z Fold7 5G 12GB/512GB | Specs: 512 GB | Màu: Xám | Giá: 52.990.000đ | Sao: 5 (3 đánh giá)
+   [TGDD #67] + Điện thoại Xiaomi Redmi Note 15 Pro+ 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Dương | Giá: 9.830.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #67] + Điện thoại Xiaomi Redmi Note 15 Pro+ 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Nâu | Giá: 9.830.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #67] + Điện thoại Xiaomi Redmi Note 15 Pro+ 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 7.530.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #68] + Điện thoại OPPO A6t 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Tím | Giá: 4.990.000đ | Sao: 4.9 ()
+   [TGDD #68] + Điện thoại OPPO A6t 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh | Giá: 4.990.000đ | Sao: 4.9 ()
+   [TGDD #68] + Điện thoại OPPO A6t 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh | Giá: 7.090.000đ | Sao: 4.9 ()
+   [TGDD #69] + Điện thoại vivo V60 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Tím | Giá: 9.130.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #69] + Điện thoại vivo V60 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xám | Giá: 13.490.000đ | Sao: 4.9 (6 đánh giá)
+   [TGDD #69] + Điện thoại vivo V60 5G 12GB/512GB | Specs: 512 GB | Màu: Tím | Giá: 14.390.000đ | Sao: 4.9 (6 đánh giá)
+   [TGDD #69] + Điện thoại vivo V60 5G 12GB/512GB | Specs: 512 GB | Màu: Xám | Giá: 9.440.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #70] + Điện thoại Motorola Edge 60 Fusion 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xám | Giá: 5.300.000 | Sao: 4.9 (16 đánh giá)
+   [TGDD #70] + Điện thoại Motorola Edge 60 Fusion 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Nước Biển | Giá: 4.870.000 | Sao: 4.9 (16 đánh giá)
+   [TGDD #71] + Điện thoại Samsung Galaxy A27 6GB/128GB | Specs: 6 GB | Màu: Hồng | Giá: 6.430.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #71] + Điện thoại Samsung Galaxy A27 6GB/128GB | Specs: 6 GB | Màu: Xanh đen | Giá: 7.600.000đ | Sao: 4.9 (2 đánh giá)
+   [TGDD #71] + Điện thoại Samsung Galaxy A27 6GB/128GB | Specs: 6 GB | Màu: Đen | Giá: 6.390.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #71] + Điện thoại Samsung Galaxy A27 8GB/128GB | Specs: 8 GB | Màu: Hồng | Giá: 6.840.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #71] + ĐIện thoại Samsung Galaxy A27 8GB/128GB | Specs: 8 GB | Màu: Xanh đen | Giá: 6.870.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/128GB | Specs: 128 GB | Màu: Trắng | Giá: 8.970.000 | Sao: 4.9 ()
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/128GB | Specs: 128 GB | Màu: Tím | Giá: 14.190.000đ | Sao: 4.9 ()
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/128GB | Specs: 128 GB | Màu: Tím nhạt | Giá: 14.190.000đ | Sao: 4.9 ()
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Trắng | Giá: 11.040.000 | Sao: 4.9 ()
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím | Giá: 9.570.000 | Sao: 4.9 ()
+   [TGDD #72] + Điện thoại OPPO Reno16F 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Tím nhạt | Giá: 9.570.000 | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Hồng | Giá: 4.180.000đ | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xám | Giá: 4.180.000đ | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh Dương | Giá: 4.180.000đ | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Hồng | Giá: 3.970.000đ | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xám | Giá: 3.970.000đ | Sao: 4.9 ()
+   [TGDD #73] + Motorola Moto G37 5G 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh Dương | Giá: 3.970.000đ | Sao: 4.9 ()
+   [TGDD #74] + Điện thoại OPPO A6 Pro 5G 8GB/256GB | Specs: 8 GB | Màu: Hồng | Giá: 7.410.000 | Sao: 4.9 (9 đánh giá)
+   [TGDD #74] + Điện thoại OPPO A6 Pro 5G 8GB/256GB | Specs: 8 GB | Màu: Xanh Dương | Giá: 10.770.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #74] + Điện thoại OPPO A6 Pro 5G 12GB/256GB | Specs: 12 GB | Màu: Hồng | Giá: 11.750.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #74] + Điện thoại OPPO A6 Pro 5G 12GB/256GB | Specs: 12 GB | Màu: Xanh Dương | Giá: 11.750.000đ | Sao: 4.9 (9 đánh giá)
+   [TGDD #75] + Điện thoại Motorola Razr 60 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Dương | Giá: 8.630.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #75] + Điện thoại Motorola Razr 60 5G 8GB/256GB | Specs: 8 GB 256 GB | Màu: Trắng - Kem | Giá: 8.210.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #76] + Điện thoại Nothing Phone (4b) 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh Dương | Giá: 9.370.000đ | Sao: 5 ()
+   [TGDD #76] + Điện thoại Nothing Phone (4b) 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Trắng | Giá: 9.370.000đ | Sao: 5 ()
+   [TGDD #76] + Điện thoại Nothing Phone (4b) 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 9.370.000đ | Sao: 5 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 10.650.000đ | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Trắng | Giá: 10.650.000đ | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 9.890.000 | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Trắng | Giá: 11.530.000đ | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 10.430.000 | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Trắng | Giá: 12.310.000đ | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Hồng | Giá: 12.310.000đ | Sao: 4.9 ()
+   [TGDD #77] + Điện thoại Nothing Phone (4a) 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xanh Dương | Giá: 12.310.000đ | Sao: 4.9 ()
+   [TGDD #78] + Điện thoại OPPO A6c 4GB/64GB | Specs: 64 GB | Màu: Nâu | Giá: 4.690.000đ | Sao: 4.9 (2 đánh giá)
+   [TGDD #78] + Điện thoại OPPO A6c 4GB/64GB | Specs: 64 GB | Màu: Tím | Giá: 2.920.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #78] + Điện thoại OPPO A6c 4GB/128GB | Specs: 4 GB 128 GB | Màu: Nâu | Giá: 3.950.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #78] + Điện thoại OPPO A6c 4GB/128GB | Specs: 4 GB 128 GB | Màu: Tím | Giá: 3.560.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh lá | Giá: 4.230.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 3.420.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh Dương | Giá: 3.760.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Tím | Giá: 3.620.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Xanh lá | Giá: 4.560.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Đen | Giá: 4.470.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Xanh Dương | Giá: 4.450.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Tím | Giá: 4.310.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh lá | Giá: 5.110.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Đen | Giá: 5.030.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh Dương | Giá: 5.000.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #79] + Điện thoại Xiaomi Redmi 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Tím | Giá: 5.060.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 4.690.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh ngọc | Giá: 4.690.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Tím | Giá: 4.690.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Đen | Giá: 5.560.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh ngọc | Giá: 5.760.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Tím | Giá: 5.760.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 4.860.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh ngọc | Giá: 5.040.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #80] + Điện thoại Xiaomi Redmi Note 17 4G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 5.040.000 | Sao: 4.9 (6 đánh giá)
+   [TGDD #81] + Điện thoại vivo Y05 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.150.000 | Sao: 4.9 ()
+   [TGDD #81] + Điện thoại vivo Y05 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 3.140.000 | Sao: 4.9 ()
+   [TGDD #81] + Điện thoại vivo Y05 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh Dương | Giá: 3.760.000 | Sao: 4.9 ()
+   [TGDD #81] + Điện thoại vivo Y05 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 3.260.000 | Sao: 4.9 ()
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh nhạt | Giá: 3.570.000 | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xám | Giá: 3.730.000 | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 3.750.000 | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh nhạt | Giá: 5.490.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xám | Giá: 5.490.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 5.490.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh nhạt | Giá: 6.400.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xám | Giá: 6.400.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #82] + Điện thoại Samsung Galaxy A17 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 6.400.000đ | Sao: 4.9 (30 đánh giá)
+   [TGDD #83] + vivo Y31d 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 4.970.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #83] + vivo Y31d 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Trắng | Giá: 4.330.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #83] + vivo Y31d 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 4.790.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #83] + vivo Y31d 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Trắng | Giá: 4.660.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #83] + vivo Y31d 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 5.510.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #83] + vivo Y31d 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Trắng | Giá: 5.610.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #84] + Điện thoại Nokia 105 4G Pro | Specs: Mặc định | Màu: Đen | Giá: 330.000 | Sao: 4.9 (72 đánh giá)
+   [TGDD #84] + Điện thoại Nokia 105 4G Pro | Specs: Mặc định | Màu: Xanh | Giá: 420.000 | Sao: 4.9 (72 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh Dương | Giá: 7.900.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Đen | Giá: 7.720.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Tím | Giá: 7.900.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh Dương | Giá: 10.070.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 10.070.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 10.070.000đ | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh Dương | Giá: 8.580.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 8.580.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 8.580.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Xanh Dương | Giá: 9.270.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 9.320.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #85] + Điện thoại Xiaomi Redmi Note 17 Pro 5G 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Tím | Giá: 9.320.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh Dương | Giá: 5.310.000 | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 5.280.000 | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Bạc | Giá: 6.090.000đ | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh Dương | Giá: 6.890.000đ | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 6.890.000đ | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Bạc | Giá: 5.690.000 | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh Dương | Giá: 8.090.000đ | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Đen | Giá: 8.090.000đ | Sao: 5 ()
+   [TGDD #86] + Điện thoại Samsung Galaxy A18 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Bạc | Giá: 8.090.000đ | Sao: 5 ()
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 3.600.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 3.660.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh lá | Giá: 4.160.000 | Sao: 4.9 (8 đánh giá)
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 4.700.000đ | Sao: 4.9 (8 đánh giá)
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Tím | Giá: 4.700.000đ | Sao: 4.9 (8 đánh giá)
+   [TGDD #87] + Điện thoại Samsung Galaxy A07 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh lá | Giá: 4.700.000đ | Sao: 4.9 (8 đánh giá)
+   [TGDD #88] + Điện thoại Samsung Galaxy A07s 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Đen | Giá: 3.010.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #88] + Điện thoại Samsung Galaxy A07s 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh lá | Giá: 3.040.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #88] + Điện thoại Samsung Galaxy A07s 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Tím | Giá: 3.020.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #89] + Điện thoại Xiaomi Poco C71 4GB/64GB | Specs: 64 GB | Màu: Vàng | Giá: 3.070.000 | Sao: 4.9 ()
+   [TGDD #89] + Điện thoại Xiaomi Poco C71 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.030.000 | Sao: 4.9 ()
+   [TGDD #89] + Điện thoại Xiaomi Poco C71 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 2.840.000 | Sao: 4.9 ()
+   [TGDD #90] + Điện thoại OPPO A6 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Hồng | Giá: 7.170.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh Đậm | Giá: 7.140.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Vàng | Giá: 7.170.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Hồng | Giá: 6.680.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh Đậm | Giá: 6.070.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Vàng | Giá: 6.200.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Hồng | Giá: 8.560.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh Đậm | Giá: 11.490.000đ | Sao: 4.9 (4 đánh giá)
+   [TGDD #90] + Điện thoại OPPO A6 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Vàng | Giá: 11.490.000đ | Sao: 4.9 (4 đánh giá)
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/64GB | Specs: 64 GB | Màu: Xanh lá | Giá: 4.490.000đ | Sao: 5 ()
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/64GB | Specs: 64 GB | Màu: Bạc | Giá: 4.490.000đ | Sao: 5 ()
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.460.000 | Sao: 5 ()
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh lá | Giá: 4.020.000 | Sao: 5 ()
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/128GB | Specs: 4 GB 128 GB | Màu: Bạc | Giá: 4.020.000 | Sao: 5 ()
+   [TGDD #92] + Điện thoại Samsung Galaxy A08 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh Dương | Giá: 4.020.000 | Sao: 5 ()
+   [TGDD #93] + Điện thoại Masstel IZI T6 T127 | Specs: Mặc định | Màu: Đen | Giá: 250.000 | Sao: 5 (1 đánh giá)
+   [TGDD #93] + Điện thoại Masstel IZI T6 T127 | Specs: Mặc định | Màu: Xanh lá | Giá: 250.000 | Sao: 5 (1 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.000.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 3.030.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/64GB | Specs: 64 GB | Màu: Xanh lá | Giá: 2.990.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/64GB | Specs: 64 GB | Màu: Cam | Giá: 2.810.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh Dương | Giá: 3.250.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 2.850.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh lá | Giá: 3.380.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #95] + Điện thoại Xiaomi Redmi A7 Pro 4GB/128GB | Specs: 4 GB 128 GB | Màu: Cam | Giá: 3.140.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #96] + HONOR Play 10 3GB/64GB | Specs: 3GB/64GB | Màu: Đen | Giá: 2.350.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #96] + HONOR Play 10 3GB/64GB | Specs: 3GB/64GB | Màu: Xanh lá | Giá: 2.620.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #96] + HONOR Play 10 4GB/128GB | Specs: 4GB/128GB | Màu: Đen | Giá: 2.970.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #96] + HONOR Play 10 4GB/128GB | Specs: 4GB/128GB | Màu: Xanh lá | Giá: 3.000.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím | Giá: 7.510.000đ | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh ngọc | Giá: 6.210.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 6.210.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Tím | Giá: 6.520.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Xanh ngọc | Giá: 6.560.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 6GB/256GB | Specs: 6 GB 6GB/256GB | Màu: Đen | Giá: 6.560.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 7.000.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh ngọc | Giá: 6.970.000 | Sao: 4.9 ()
+   [TGDD #97] + Điện thoại Xiaomi Redmi Note 17 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 6.930.000 | Sao: 4.9 ()
+   [TGDD #98] + Điện thoại Masstel Fami 50 4G | Specs: Mặc định | Màu: Xanh lá | Giá: 230.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #98] + Điện thoại Masstel Fami 50 4G | Specs: Mặc định | Màu: Đen | Giá: 230.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #98] + Điện thoại Masstel Fami 50 4G | Specs: Mặc định | Màu: Xanh Dương | Giá: 230.000 | Sao: 4.9 (10 đánh giá)
+   [TGDD #99] + Điện thoại Masstel IZI 10S | Specs: Mặc định | Màu: Đen | Giá: 330.000 | Sao: 4.9 ()
+   [TGDD #99] + Điện thoại Masstel IZI 10S | Specs: Mặc định | Màu: Xanh Dương | Giá: 330.000 | Sao: 4.9 ()
+   [TGDD #99] + Điện thoại Masstel IZI 10S | Specs: Mặc định | Màu: Đen - Đỏ | Giá: 330.000 | Sao: 4.9 ()
+   [TGDD #100] + Điện thoại Xiaomi Redmi A7 3GB/64GB | Specs: 3 GB 64 GB | Màu: Đen | Giá: 3.310.000đ | Sao: 5 ()
+   [TGDD #100] + Điện thoại Xiaomi Redmi A7 3GB/64GB | Specs: 3 GB 64 GB | Màu: Tím | Giá: 3.310.000đ | Sao: 5 ()
+   [TGDD #100] + Điện thoại Xiaomi Redmi A7 3GB/64GB | Specs: 3 GB 64 GB | Màu: Xanh Dương | Giá: 2.660.000 | Sao: 5 ()
+   [TGDD #101] + Điện thoại realme Note 80 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 2.620.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #101] + Điện thoại realme Note 80 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 2.610.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Đen | Giá: 11.670.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Trắng | Giá: 11.670.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 12GB/256GB | Specs: 12 GB 12GB/256GB | Màu: Tím | Giá: 11.670.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 10.980.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Trắng | Giá: 10.980.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Tím | Giá: 9.350.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/512GB | Specs: 8 GB 8GB/512GB | Màu: Đen | Giá: 12.640.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/512GB | Specs: 8 GB 8GB/512GB | Màu: Trắng | Giá: 12.640.000 | Sao: 4.9 ()
+   [TGDD #102] + Điện thoại Xiaomi Redmi Note 17 Pro Max 8GB/512GB | Specs: 8 GB 8GB/512GB | Màu: Tím | Giá: 15.630.000đ | Sao: 4.9 ()
+   [TGDD #103] + Điện thoại Samsung Galaxy A26 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh lá | Giá: 5.360.000 | Sao: 4.9 (46 đánh giá)
+   [TGDD #103] + Điện thoại Samsung Galaxy A26 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Đen | Giá: 5.300.000 | Sao: 4.9 (46 đánh giá)
+   [TGDD #103] + Điện thoại Samsung Galaxy A26 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Hồng | Giá: 4.540.000 | Sao: 4.9 (46 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xám | Giá: 13.350.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh Dương | Giá: 13.620.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/128GB | Specs: 8 GB 8GB/128GB | Màu: Xanh lá | Giá: 13.410.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xám | Giá: 15.450.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh Dương | Giá: 15.450.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #104] + Điện thoại Samsung Galaxy S26 FE 5G 8GB/256GB | Specs: 8 GB 8GB/256GB | Màu: Xanh lá | Giá: 15.450.000 | Sao: 4.9 (1 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Tím nhạt | Giá: 3.290.000đ | Sao: 4.9 (45 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh lá | Giá: 3.290.000đ | Sao: 4.9 (45 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Đen | Giá: 2.590.000 | Sao: 4.9 (45 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Tím nhạt | Giá: 3.790.000đ | Sao: 4.9 (45 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Xanh lá | Giá: 3.790.000đ | Sao: 4.9 (45 đánh giá)
+   [TGDD #105] + Điện thoại Samsung Galaxy A07 6GB/128GB | Specs: 6 GB 6GB/128GB | Màu: Đen | Giá: 3.790.000đ | Sao: 4.9 (45 đánh giá)
+   [TGDD #106] + Điện thoại Nokia HMD 105 4G | Specs: Mặc định | Màu: Xanh mint | Giá: 410.000 | Sao: 4.9 (32 đánh giá)
+   [TGDD #106] + Điện thoại Nokia HMD 105 4G | Specs: Mặc định | Màu: Hồng | Giá: 300.000 | Sao: 4.9 (32 đánh giá)
+   [TGDD #106] + Điện thoại Nokia HMD 105 4G | Specs: Mặc định | Màu: Đen | Giá: 410.000 | Sao: 4.9 (32 đánh giá)
+   [TGDD #107] + Điện thoại Nokia 220 4G | Specs: Mặc định | Màu: Cam | Giá: 590.000 | Sao: 4.9 (55 đánh giá)
+   [TGDD #107] + Điện thoại Nokia 220 4G | Specs: Mặc định | Màu: Đen | Giá: 600.000 | Sao: 4.9 (55 đánh giá)
+   [TGDD #108] + Điện thoại Nokia 110 4G Pro | Specs: Mặc định | Màu: Tím | Giá: 450.000 | Sao: 4.9 (35 đánh giá)
+   [TGDD #108] + Điện thoại Nokia 110 4G Pro | Specs: Mặc định | Màu: Xanh | Giá: 440.000 | Sao: 4.9 (35 đánh giá)
+   [TGDD #109] + Điện thoại OPPO A6 Pro 8GB/256GB | Specs: 8 GB 256 GB | Màu: Xanh Dương | Giá: 5.790.000 | Sao: 4.9 (20 đánh giá)
+   [TGDD #109] + Điện thoại OPPO A6 Pro 8GB/256GB | Specs: 8 GB 256 GB | Màu: Hồng | Giá: 5.860.000 | Sao: 4.9 (20 đánh giá)
+   [TGDD #109] + Điện thoại OPPO A6 Pro 8GB/256GB | Specs: 8 GB 256 GB | Màu: Titan xanh | Giá: 5.790.000 | Sao: 4.9 (20 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Cam | Giá: 4.210.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Xanh Dương | Giá: 4.310.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/128GB | Specs: 4 GB 4GB/128GB | Màu: Đen | Giá: 4.310.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Cam | Giá: 4.640.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Xanh Dương | Giá: 4.640.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #110] + Điện thoại Xiaomi Redmi 17 5G 4GB/256GB | Specs: 4 GB 4GB/256GB | Màu: Đen | Giá: 3.970.000 | Sao: 4.9 (4 đánh giá)
+   [TGDD #111] + vivo Y05e 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Đen | Giá: 3.190.000 | Sao: 5 ()
+   [TGDD #111] + vivo Y05e 4GB/64GB | Specs: 4 GB 4GB/64GB | Màu: Xanh | Giá: 3.210.000 | Sao: 5 ()
+   [TGDD #112] + Điện thoại Masstel IZI 10 4G Type-C | Specs: Mặc định | Màu: Đen | Giá: 250.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #112] + Điện thoại Masstel IZI 10 4G Type-C | Specs: Mặc định | Màu: Xanh Dương | Giá: 260.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #112] + Điện thoại Masstel IZI 10 4G Type-C | Specs: Mặc định | Màu: Đen - Đỏ | Giá: 260.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #113] + Điện thoại Motorola G06 POWER 4GB/64GB | Specs: 64 GB | Màu: Nâu | Giá: 2.550.000 | Sao: 4.9 (29 đánh giá)
+   [TGDD #113] + Điện thoại Motorola G06 POWER 4GB/64GB | Specs: 64 GB | Màu: Xanh Dương | Giá: 3.590.000đ | Sao: 4.9 (29 đánh giá)
+   [TGDD #113] + Điện thoại Motorola G06 POWER 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh Dương | Giá: 2.840.000 | Sao: 4.9 (29 đánh giá)
+   [TGDD #113] + Điện thoại Motorola G06 POWER 4GB/128GB | Specs: 4 GB 128 GB | Màu: Nâu nhạt | Giá: 2.420.000 | Sao: 4.9 (29 đánh giá)
+   [TGDD #114] + Điện thoại Mobell M239 4G | Specs: Mặc định | Màu: Đen | Giá: 170.000 | Sao: 4.9 (177 đánh giá)
+   [TGDD #114] + Điện thoại Mobell M239 4G | Specs: Mặc định | Màu: Đỏ | Giá: 170.000 | Sao: 4.9 (177 đánh giá)
+   [TGDD #114] + Điện thoại Mobell M239 4G | Specs: Mặc định | Màu: Xanh Dương | Giá: 170.000 | Sao: 4.9 (177 đánh giá)
+   [TGDD #116] + Điện thoại Vivo Y11d 4GB/128GB | Specs: 4 GB | Màu: Đen | Giá: 4.220.000 | Sao: 5 ()
+   [TGDD #116] + Điện thoại Vivo Y11d 4GB/128GB | Specs: 4 GB | Màu: Bạc | Giá: 3.660.000 | Sao: 5 ()
+   [TGDD #116] + Điện thoại Vivo Y11d 6GB/128GB | Specs: 6 GB | Màu: Đen | Giá: 4.790.000 | Sao: 5 ()
+   [TGDD #116] + Điện thoại Vivo Y11d 6GB/128GB | Specs: 6 GB | Màu: Bạc | Giá: 4.160.000 | Sao: 5 ()
+   [TGDD #117] + Điện thoại HONOR X5c Plus 4GB/64GB | Specs: 64 GB | Màu: Xanh | Giá: 2.420.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #117] + Điện thoại HONOR X5c Plus 4GB/64GB | Specs: 64 GB | Màu: Đen | Giá: 2.440.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #117] + Điện thoại HONOR X5c Plus 4GB/128GB | Specs: 4 GB 128 GB | Màu: Xanh | Giá: 2.300.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #117] + Điện thoại HONOR X5c Plus 4GB/128GB | Specs: 4 GB 128 GB | Màu: Đen | Giá: 3.150.000 | Sao: 4.9 (2 đánh giá)
+   [TGDD #118] + Điện thoại Mobell F309 4G | Specs: Mặc định | Màu: Xanh Dương | Giá: 746.182đ | Sao: 4.9 (65 đánh giá)
+   [TGDD #118] + Điện thoại Mobell F309 4G | Specs: Mặc định | Màu: Vàng | Giá: 270.000 | Sao: 4.9 (65 đánh giá)
+   [TGDD #118] + Điện thoại Mobell F309 4G | Specs: Mặc định | Màu: Đỏ | Giá: 750.000đ | Sao: 4.9 (65 đánh giá)
+   [TGDD #118] + Điện thoại Mobell F309 4G | Specs: Mặc định | Màu: Đen | Giá: 270.000 | Sao: 4.9 (65 đánh giá)
+   [TGDD #119] + Điện thoại OPPO Reno15 Pro 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh dương nhạt | Giá: 12.880.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #119] + Điện thoại OPPO Reno15 Pro 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Nâu | Giá: 11.360.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #119] + Điện thoại OPPO Reno15 Pro 5G 12GB/512GB | Specs: 512 GB | Màu: Xanh dương nhạt | Giá: 12.720.000 | Sao: 4.9 (7 đánh giá)
+   [TGDD #119] + Điện thoại OPPO Reno15 Pro 5G 12GB/512GB | Specs: 512 GB | Màu: Nâu | Giá: 19.590.000đ | Sao: 4.9 (7 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xanh Dương | Giá: 25.990.000đ | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Xám | Giá: 25.990.000đ | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Trắng - Bạc | Giá: 23.820.000 | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/256GB | Specs: 12 GB 256 GB | Màu: Đen | Giá: 25.990.000đ | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/512GB | Specs: 512 GB | Màu: Xanh Dương | Giá: 22.190.000 | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/512GB | Specs: 512 GB | Màu: Xám | Giá: 29.710.000đ | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/512GB | Specs: 512 GB | Màu: Trắng - Bạc | Giá: 29.710.000đ | Sao: 4.9 (42 đánh giá)
+   [TGDD #120] + Điện thoại Samsung Galaxy S25 Ultra 5G 12GB/512GB | Specs: 512 GB | Màu: Đen | Giá: 29.710.000đ | Sao: 4.9 (42 đánh giá)
+
+[TGDD] Hoàn tất: 558 bản ghi
+
+[CellphoneS] 1. Đang lấy danh sách link sản phẩm từ: https://cellphones.com.vn/mobile.html
+   -> Đã bấm 'Xem thêm' danh sách lần 1/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 2/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 3/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 4/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 5/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 6/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 7/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 8/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 9/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 10/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 11/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 12/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 13/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 14/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 15/15...
+[CellphoneS] Tìm thấy 89 mẫu điện thoại gốc. Bắt đầu quét chiều sâu (Dung lượng x Màu sắc)...
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: S26 12GB 256GB | Màu: Xanh Sky Blue | Giá: 20.500.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: S26 12GB 256GB | Màu: Trắng Classic | Giá: 20.500.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: S26 12GB 256GB | Màu: Đen Classic | Giá: 20.500.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: S26 12GB 256GB | Màu: Tím Cobalt | Giá: 20.500.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: S26 Plus 12GB 256GB | Màu: Tím Cobalt | Giá: 24.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: S26 Plus 12GB 256GB | Màu: Đen Classic | Giá: 24.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: S26 Plus 12GB 256GB | Màu: Xanh Sky Blue | Giá: 24.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: S26 Plus 12GB 256GB | Màu: Trắng Classic | Giá: 24.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: S26 12GB 512GB | Màu: Đen Classic | Giá: 26.000.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: S26 12GB 512GB | Màu: Tím Cobalt | Giá: 26.000.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: S26 12GB 512GB | Màu: Xanh Sky Blue | Giá: 26.000.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: S26 12GB 512GB | Màu: Trắng Classic | Giá: 26.000.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: S26 Plus 12GB 512GB | Màu: Xanh Sky Blue | Giá: 28.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: S26 Plus 12GB 512GB | Màu: Đen Classic | Giá: 28.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: S26 Plus 12GB 512GB | Màu: Tím Cobalt | Giá: 28.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: S26 Plus 12GB 512GB | Màu: Trắng Classic | Giá: 28.200.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: S26 Ultra 12GB 256GB | Màu: Đen Classic | Giá: 30.600.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: S26 Ultra 12GB 256GB | Màu: Tím Cobalt | Giá: 30.600.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: S26 Ultra 12GB 256GB | Màu: Trắng Classic | Giá: 30.600.000₫
+   [CellphoneS #1] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: S26 Ultra 12GB 256GB | Màu: Xanh Sky Blue | Giá: 30.600.000₫
+   [CellphoneS #2] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: A37 | Màu: Xanh | Giá: 9.700.000₫
+   [CellphoneS #2] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: A37 | Màu: Tím | Giá: 9.700.000₫
+   [CellphoneS #2] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: A37 | Màu: Đen | Giá: 9.700.000₫
+   [CellphoneS #2] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: A37 | Màu: Trắng | Giá: 9.700.000₫
+   [CellphoneS #2] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: A57 | Màu: Đen | Giá: 11.000.000₫
+   [CellphoneS #2] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: A57 | Màu: Xám | Giá: 11.000.000₫
+   [CellphoneS #2] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: A57 | Màu: Xanh dương | Giá: 11.000.000₫
+   [CellphoneS #2] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: A57 | Màu: Tím | Giá: 11.000.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 256GB | Dung lượng: S25 256GB | Màu: Xanh navy | Giá: 17.490.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 256GB | Dung lượng: S25 256GB | Màu: Xám bạc | Giá: 17.490.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 256GB | Dung lượng: S25 256GB | Màu: Xanh da trời | Giá: 17.490.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 256GB | Dung lượng: S25 256GB | Màu: Xanh lá | Giá: 17.490.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 256GB | Dung lượng: S25 Plus 256GB | Màu: Xanh lá | Giá: 19.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 256GB | Dung lượng: S25 Plus 256GB | Màu: Xanh da trời | Giá: 19.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 256GB | Dung lượng: S25 Plus 256GB | Màu: Xám bạc | Giá: 19.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 256GB | Dung lượng: S25 Plus 256GB | Màu: Xanh navy | Giá: 19.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 512GB | Dung lượng: S25 512GB | Màu: Xanh lá | Giá: 20.090.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 512GB | Dung lượng: S25 512GB | Màu: Xanh da trời | Giá: 20.090.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 512GB | Dung lượng: S25 512GB | Màu: Xanh navy | Giá: 20.090.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 512GB | Dung lượng: S25 512GB | Màu: Xám bạc | Giá: 20.090.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 512GB | Dung lượng: S25 Plus 512GB | Màu: Xanh navy | Giá: 21.590.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 512GB | Dung lượng: S25 Plus 512GB | Màu: Xám bạc | Giá: 21.590.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 512GB | Dung lượng: S25 Plus 512GB | Màu: Xanh da trời | Giá: 21.590.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Plus 512GB | Dung lượng: S25 Plus 512GB | Màu: Xanh lá | Giá: 21.590.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Ultra 12GB 256GB | Dung lượng: S25 Ultra 256GB | Màu: Trắng/bạc | Giá: 25.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Ultra 12GB 256GB | Dung lượng: S25 Ultra 256GB | Màu: Xanh dương | Giá: 25.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Ultra 12GB 256GB | Dung lượng: S25 Ultra 256GB | Màu: Xám | Giá: 25.990.000₫
+   [CellphoneS #3] + Samsung Galaxy S25 Ultra 12GB 256GB | Dung lượng: S25 Ultra 256GB | Màu: Đen | Giá: 25.990.000₫
+   [CellphoneS #6] + Xiaomi POCO F8 Pro 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Bạc | Giá: 15.990.000₫
+   [CellphoneS #6] + Xiaomi POCO F8 Pro 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Đen | Giá: 15.990.000₫
+   [CellphoneS #6] + Xiaomi POCO F8 Pro 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Xanh dương | Giá: 15.990.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 6GB 128GB | Dung lượng: Note 14 | Màu: Xanh lá | Giá: 4.690.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 6GB 128GB | Dung lượng: Note 14 | Màu: Đen | Giá: 4.690.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 6GB 128GB | Dung lượng: Note 14 | Màu: Tím | Giá: 4.690.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 5G 8GB 256GB | Dung lượng: Note 14 5G | Màu: Tím | Giá: 6.490.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 5G 8GB 256GB | Dung lượng: Note 14 5G | Màu: Đen | Giá: 6.490.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 5G 8GB 256GB | Dung lượng: Note 14 5G | Màu: Xanh lá | Giá: 6.490.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB | Dung lượng: Note14 Pro Plus 5G | Màu: Vàng (Chỉ có tại CPS) | Giá: 8.190.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB | Dung lượng: Note14 Pro Plus 5G | Màu: Đen | Giá: 8.190.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB | Dung lượng: Note14 Pro Plus 5G | Màu: Tím | Giá: 8.190.000₫
+   [CellphoneS #7] + Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB | Dung lượng: Note14 Pro Plus 5G | Màu: Xanh dương | Giá: 8.190.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 8GB 128GB | Dung lượng: A17 8GB 128GB | Màu: Xám | Giá: 5.490.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 8GB 128GB | Dung lượng: A17 8GB 128GB | Màu: Đen | Giá: 5.490.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 8GB 128GB | Dung lượng: A17 8GB 128GB | Màu: Xanh | Giá: 5.490.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: A17 5G 8GB 128GB | Màu: Xanh navy | Giá: 7.300.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: A17 5G 8GB 128GB | Màu: Xám khói | Giá: 7.300.000₫
+   [CellphoneS #8] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: A17 5G 8GB 128GB | Màu: Đen titan | Giá: 7.300.000₫
+   [CellphoneS #9] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: Mặc định | Màu: Hồng | Giá: 7.800.000₫
+   [CellphoneS #9] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: Mặc định | Màu: Đen | Giá: 7.800.000₫
+   [CellphoneS #9] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: Mặc định | Màu: Xanh dương | Giá: 7.800.000₫
+   [CellphoneS #10] + HONOR 600S 5G 6GB 128GB | Dung lượng: HONOR 600S 5G | Màu: Đen | Giá: 9.280.000₫
+   [CellphoneS #10] + HONOR 600S 5G 6GB 128GB | Dung lượng: HONOR 600S 5G | Màu: Tím | Giá: 9.280.000₫
+   [CellphoneS #10] + HONOR 600S 5G 6GB 128GB | Dung lượng: HONOR 600S 5G | Màu: Gold | Giá: 9.280.000₫
+   [CellphoneS #10] + HONOR 600 5G 8GB 256GB | Dung lượng: HONOR 600 5G | Màu: Cam | Giá: 16.430.000₫
+   [CellphoneS #10] + HONOR 600 5G 8GB 256GB | Dung lượng: HONOR 600 5G | Màu: Vàng Trắng | Giá: 16.430.000₫
+   [CellphoneS #10] + HONOR 600 5G 8GB 256GB | Dung lượng: HONOR 600 5G | Màu: Đen | Giá: 16.430.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 4GB 128GB | Dung lượng: A07 | Màu: Tím bạc | Giá: 3.990.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 4GB 128GB | Dung lượng: A07 | Màu: Xanh lục bảo | Giá: 3.990.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 4GB 128GB | Dung lượng: A07 | Màu: Đen huyền | Giá: 3.990.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 8GB 256GB | Dung lượng: A07 | Màu: Đen huyền | Giá: 4.290.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 8GB 256GB | Dung lượng: A07 | Màu: Tím bạc | Giá: 4.290.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 8GB 256GB | Dung lượng: A07 | Màu: Xanh lục bảo | Giá: 4.290.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: A07 5G | Màu: Đen | Giá: 4.700.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: A07 5G | Màu: Xanh ngọc bích | Giá: 4.700.000₫
+   [CellphoneS #11] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: A07 5G | Màu: Tím | Giá: 4.700.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Đen | Giá: 16.290.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Trắng | Giá: 16.290.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Xanh dương | Giá: 16.290.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Đen | Giá: 17.490.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Trắng | Giá: 17.490.000₫
+   [CellphoneS #12] + POCO X8 Pro Max 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Xanh dương | Giá: 17.490.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Bạc | Giá: 7.970.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Tím | Giá: 7.970.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Titan | Giá: 7.970.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 256GB | Dung lượng: 8GB 256GB | Màu: Tím | Giá: 9.390.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 256GB | Dung lượng: 8GB 256GB | Màu: Titan | Giá: 9.390.000₫
+   [CellphoneS #13] + Tecno Pova Curve 2 5G 8GB 256GB | Dung lượng: 8GB 256GB | Màu: Bạc | Giá: 9.390.000₫
+   [CellphoneS #14] + Xiaomi 17T 5G 12GB 512GB | Dung lượng: 17T 5G | Màu: Xanh dương | Giá: 15.670.000₫
+   [CellphoneS #14] + Xiaomi 17T 5G 12GB 512GB | Dung lượng: 17T 5G | Màu: Đen | Giá: 15.670.000₫
+   [CellphoneS #14] + Xiaomi 17T 5G 12GB 512GB | Dung lượng: 17T 5G | Màu: Tím | Giá: 15.670.000₫
+   [CellphoneS #14] + Xiaomi 17T Pro 5G 12GB 512GB | Dung lượng: 17T Pro 5G | Màu: Xanh Đậm | Giá: 20.490.000₫
+   [CellphoneS #14] + Xiaomi 17T Pro 5G 12GB 512GB | Dung lượng: 17T Pro 5G | Màu: Đen | Giá: 20.490.000₫
+   [CellphoneS #14] + Xiaomi 17T Pro 12GB 1TB | Dung lượng: 17T Pro | Màu: Đen | Giá: 22.490.000₫
+   [CellphoneS #14] + Xiaomi 17T Pro 12GB 1TB | Dung lượng: 17T Pro | Màu: Tím | Giá: 22.490.000₫
+   [CellphoneS #14] + Xiaomi 17T Pro 12GB 1TB | Dung lượng: 17T Pro | Màu: Xanh Đậm | Giá: 22.490.000₫
+   [CellphoneS #15] + OPPO Find X8 16GB 512GB | Dung lượng: Mặc định | Màu: Đen | Giá: 17.990.000₫
+   [CellphoneS #15] + OPPO Find X8 16GB 512GB | Dung lượng: Mặc định | Màu: Xám | Giá: 17.990.000₫
+   [CellphoneS #16] + OPPO Find N3 Flip 12GB 256GB | Dung lượng: Find N3 Flip | Màu: Vàng | Giá: 13.990.000₫
+   [CellphoneS #16] + OPPO Find N3 Flip 12GB 256GB | Dung lượng: Find N3 Flip | Màu: Đen | Giá: 13.990.000₫
+   [CellphoneS #16] + OPPO Find N3 16GB 512GB | Dung lượng: Find N3 | Màu: Vàng | Giá: 25.490.000₫
+   [CellphoneS #16] + OPPO Find N3 16GB 512GB | Dung lượng: Find N3 | Màu: Đen | Giá: 25.490.000₫
+   [CellphoneS #17] + TECNO Spark 50 4GB 128GB | Dung lượng: Mặc định | Màu: Xám | Giá: 4.490.000₫
+   [CellphoneS #17] + TECNO Spark 50 4GB 128GB | Dung lượng: Mặc định | Màu: Đen | Giá: 4.490.000₫
+   [CellphoneS #18] + TECNO Spark Go 3 4GB 64GB | Dung lượng: Mặc định | Màu: Đen | Giá: 3.260.000₫
+   [CellphoneS #18] + TECNO Spark Go 3 4GB 64GB | Dung lượng: Mặc định | Màu: Xám | Giá: 3.260.000₫
+   [CellphoneS #18] + TECNO Spark Go 3 4GB 64GB | Dung lượng: Mặc định | Màu: Xanh | Giá: 3.260.000₫
+   [CellphoneS #19] + iPhone 18 Pro 256GB | Dung lượng: 256GB | Màu: Băng Thanh | Giá: 38.990.000₫
+   [CellphoneS #19] + iPhone 18 Pro 256GB | Dung lượng: 256GB | Màu: Đen | Giá: 38.690.000₫
+   [CellphoneS #19] + iPhone 18 Pro 256GB | Dung lượng: 256GB | Màu: Bạc | Giá: 38.990.000₫
+   [CellphoneS #19] + iPhone 18 Pro 256GB | Dung lượng: 256GB | Màu: Đỏ Burgundy | Giá: 38.990.000₫
+   [CellphoneS #19] + iPhone 18 Pro 512GB | Dung lượng: 512GB | Màu: Đỏ Burgundy | Giá: 45.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 512GB | Dung lượng: 512GB | Màu: Bạc | Giá: 45.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 512GB | Dung lượng: 512GB | Màu: Đen | Giá: 45.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 512GB | Dung lượng: 512GB | Màu: Băng Thanh | Giá: 45.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 1TB | Dung lượng: 1TB | Màu: Bạc | Giá: 58.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 1TB | Dung lượng: 1TB | Màu: Đen | Giá: 57.990.000₫
+   [CellphoneS #19] + iPhone 18 Pro 1TB | Dung lượng: 1TB | Màu: Băng Thanh | Giá: 58.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 1TB | Dung lượng: 1TB | Màu: Đỏ Burgundy | Giá: 58.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 2TB | Dung lượng: 2TB | Màu: Đỏ Burgundy | Giá: 77.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 2TB | Dung lượng: 2TB | Màu: Bạc | Giá: 77.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 2TB | Dung lượng: 2TB | Màu: Đen | Giá: 77.490.000₫
+   [CellphoneS #19] + iPhone 18 Pro 2TB | Dung lượng: 2TB | Màu: Băng Thanh | Giá: 77.490.000₫
+   [CellphoneS #20] + iPhone 17 Pro 256GB | Chính hãng | Dung lượng: 256GB | Màu: Xanh Đậm | Giá: 31.990.000₫
+   [CellphoneS #20] + iPhone 17 Pro 256GB | Chính hãng | Dung lượng: 256GB | Màu: Cam Vũ Trụ | Giá: 31.990.000₫
+   [CellphoneS #20] + iPhone 17 Pro 256GB | Chính hãng | Dung lượng: 256GB | Màu: Bạc | Giá: 31.990.000₫
+   [CellphoneS #20] + iPhone 17 Pro 512GB | Chính hãng | Dung lượng: 512GB | Màu: Xanh Đậm | Giá: 38.490.000₫
+   [CellphoneS #20] + iPhone 17 Pro 512GB | Chính hãng | Dung lượng: 512GB | Màu: Cam Vũ Trụ | Giá: 38.490.000₫
+   [CellphoneS #20] + iPhone 17 Pro 512GB | Chính hãng | Dung lượng: 512GB | Màu: Bạc | Giá: 38.490.000₫
+   [CellphoneS #20] + iPhone 17 Pro 1TB | Chính hãng | Dung lượng: 1TB | Màu: Cam Vũ Trụ | Giá: 44.790.000₫
+   [CellphoneS #20] + iPhone 17 Pro 1TB | Chính hãng | Dung lượng: 1TB | Màu: Bạc | Giá: 44.790.000₫
+   [CellphoneS #20] + iPhone 17 Pro 1TB | Chính hãng | Dung lượng: 1TB | Màu: Xanh Đậm | Giá: 44.690.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 256GB | Dung lượng: 256GB | Màu: Đỏ Burgundy | Giá: 41.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 256GB | Dung lượng: 256GB | Màu: Băng Thanh | Giá: 41.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 256GB | Dung lượng: 256GB | Màu: Đen | Giá: 41.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 256GB | Dung lượng: 256GB | Màu: Bạc | Giá: 41.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 512GB | Dung lượng: 512GB | Màu: Đen | Giá: 48.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 512GB | Dung lượng: 512GB | Màu: Đỏ Burgundy | Giá: 48.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 512GB | Dung lượng: 512GB | Màu: Băng Thanh | Giá: 48.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 512GB | Dung lượng: 512GB | Màu: Bạc | Giá: 48.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 1TB | Dung lượng: 1TB | Màu: Bạc | Giá: 61.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 1TB | Dung lượng: 1TB | Màu: Đen | Giá: 61.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 1TB | Dung lượng: 1TB | Màu: Băng Thanh | Giá: 61.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 1TB | Dung lượng: 1TB | Màu: Đỏ Burgundy | Giá: 61.490.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 2TB | Dung lượng: 2TB | Màu: Đỏ Burgundy | Giá: 80.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 2TB | Dung lượng: 2TB | Màu: Băng Thanh | Giá: 80.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 2TB | Dung lượng: 2TB | Màu: Đen | Giá: 80.990.000₫
+   [CellphoneS #21] + iPhone 18 Pro Max 2TB | Dung lượng: 2TB | Màu: Bạc | Giá: 80.990.000₫
+   [CellphoneS #25] + iPhone 17 256GB | Chính hãng | Dung lượng: 256GB | Màu: Đen | Giá: 28.690.000₫
+   [CellphoneS #25] + iPhone 17 256GB | Chính hãng | Dung lượng: 256GB | Màu: Xanh Lá Xô Thơm | Giá: 28.490.000₫
+   [CellphoneS #25] + iPhone 17 256GB | Chính hãng | Dung lượng: 256GB | Màu: Xanh Lam Khói | Giá: 28.690.000₫
+   [CellphoneS #25] + iPhone 17 256GB | Chính hãng | Dung lượng: 256GB | Màu: Tím Oải Hương | Giá: 28.690.000₫
+   [CellphoneS #25] + iPhone 17 256GB | Chính hãng | Dung lượng: 256GB | Màu: Trắng | Giá: 28.690.000₫
+   [CellphoneS #25] + iPhone 17 512GB | Chính hãng | Dung lượng: 512GB | Màu: Xanh Lam Khói | Giá: 33.990.000₫
+   [CellphoneS #25] + iPhone 17 512GB | Chính hãng | Dung lượng: 512GB | Màu: Tím Oải Hương | Giá: 33.990.000₫
+   [CellphoneS #25] + iPhone 17 512GB | Chính hãng | Dung lượng: 512GB | Màu: Trắng | Giá: 33.990.000₫
+   [CellphoneS #25] + iPhone 17 512GB | Chính hãng | Dung lượng: 512GB | Màu: Đen | Giá: 33.990.000₫
+   [CellphoneS #25] + iPhone 17 512GB | Chính hãng | Dung lượng: 512GB | Màu: Xanh Lá Xô Thơm | Giá: 33.990.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Tím | Giá: 40.790.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Đen | Giá: 40.790.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Trắng | Giá: 40.790.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Trắng | Giá: 45.990.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Tím | Giá: 45.990.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Đen | Giá: 45.990.000₫
+   [CellphoneS #26] + Samsung Galaxy Z Fold8 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Đen | Giá: 54.590.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Đỏ | Giá: 24.490.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Đen | Giá: 24.490.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 16GB 512GB | Dung lượng: 16GB 512GB | Màu: Đen | Giá: 26.490.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 16GB 512GB | Dung lượng: 16GB 512GB | Màu: Đỏ | Giá: 26.490.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Đỏ | Giá: 29.490.000₫
+   [CellphoneS #28] + Xiaomi POCO F9 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Đen | Giá: 29.490.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Trắng | Giá: 45.990.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Đen | Giá: 45.990.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 12GB 256GB | Màu: Tím | Giá: 45.990.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Đen | Giá: 51.590.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Tím | Giá: 51.590.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 12GB 512GB | Màu: Trắng | Giá: 51.590.000₫
+   [CellphoneS #29] + Samsung Galaxy Z Fold8 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Đen | Giá: 60.590.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 17 4GB 128GB | Màu: Xanh dương | Giá: 6.050.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 17 4GB 128GB | Màu: Đen | Giá: 6.050.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 17 4GB 128GB | Màu: Tím | Giá: 6.050.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 17 5G 6GB 128GB | Màu: Tím | Giá: 7.510.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 17 5G 6GB 128GB | Màu: Xanh dương | Giá: 7.510.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 17 5G 6GB 128GB | Màu: Đen | Giá: 7.510.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 17 Pro 5G 6GB 256GB | Màu: Đen | Giá: 9.560.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 17 Pro 5G 6GB 256GB | Màu: Tím | Giá: 9.560.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 17 Pro 5G 6GB 256GB | Màu: Xanh dương | Giá: 9.560.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 17 Pro Max 5G 8GB 512GB | Màu: Tím | Giá: 15.630.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 17 Pro Max 5G 8GB 512GB | Màu: Đen | Giá: 15.630.000₫
+   [CellphoneS #34] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 17 Pro Max 5G 8GB 512GB | Màu: Trắng | Giá: 15.630.000₫
+   [CellphoneS #35] + iPhone Air 256GB | Chính hãng | Dung lượng: 256GB | Màu: Đen Không Gian | Giá: 23.890.000₫
+   [CellphoneS #35] + iPhone Air 256GB | Chính hãng | Dung lượng: 256GB | Màu: Trắng Mây | Giá: 23.890.000₫
+   [CellphoneS #35] + iPhone Air 256GB | Chính hãng | Dung lượng: 256GB | Màu: Vàng Nhạt | Giá: 23.390.000₫
+   [CellphoneS #35] + iPhone Air 256GB | Chính hãng | Dung lượng: 256GB | Màu: Xanh Da Trời | Giá: 23.890.000₫
+   [CellphoneS #35] + iPhone Air 512GB | Chính hãng | Dung lượng: 512GB | Màu: Đen Không Gian | Giá: 28.990.000₫
+   [CellphoneS #35] + iPhone Air 512GB | Chính hãng | Dung lượng: 512GB | Màu: Xanh Da Trời | Giá: 28.990.000₫
+   [CellphoneS #35] + iPhone Air 512GB | Chính hãng | Dung lượng: 512GB | Màu: Vàng Nhạt | Giá: 28.990.000₫
+   [CellphoneS #35] + iPhone Air 512GB | Chính hãng | Dung lượng: 512GB | Màu: Trắng Mây | Giá: 28.990.000₫
+   [CellphoneS #35] + iPhone Air 1TB | Chính hãng | Dung lượng: 1TB | Màu: Trắng Mây | Giá: 31.990.000₫
+   [CellphoneS #35] + iPhone Air 1TB | Chính hãng | Dung lượng: 1TB | Màu: Xanh Da Trời | Giá: 31.990.000₫
+   [CellphoneS #35] + iPhone Air 1TB | Chính hãng | Dung lượng: 1TB | Màu: Đen Không Gian | Giá: 31.990.000₫
+   [CellphoneS #35] + iPhone Air 1TB | Chính hãng | Dung lượng: 1TB | Màu: Vàng Nhạt | Giá: 31.990.000₫
+   [CellphoneS #38] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: Mặc định | Màu: Xanh lá | Giá: 15.710.000₫
+   [CellphoneS #38] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: Mặc định | Màu: Xám đen | Giá: 15.710.000₫
+   [CellphoneS #38] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: Mặc định | Màu: Xanh dương | Giá: 15.710.000₫
+   [CellphoneS #39] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: Mặc định | Màu: Tím nhạt | Giá: 15.370.000₫
+   [CellphoneS #39] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: Mặc định | Màu: Trắng | Giá: 15.370.000₫
+   [CellphoneS #39] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: Mặc định | Màu: Tím đen | Giá: 15.370.000₫
+   [CellphoneS #40] + Điện thoại iPhone 16 Pro Max 256GB | Dung lượng: 256GB | Màu: Titan Tự Nhiên | Giá: 30.990.000₫
+   [CellphoneS #40] + Điện thoại iPhone 16 Pro Max 256GB | Dung lượng: 256GB | Màu: Titan Đen | Giá: 30.990.000₫
+   [CellphoneS #40] + Điện thoại iPhone 16 Pro Max 256GB | Dung lượng: 256GB | Màu: Titan Trắng | Giá: 30.990.000₫
+   [CellphoneS #40] + Điện thoại iPhone 16 Pro Max 256GB | Dung lượng: 256GB | Màu: Titan Sa Mạc | Giá: 30.990.000₫
+   [CellphoneS #40] + iPhone 16 Pro Max 1TB | Chính hãng VN/A | Dung lượng: 1TB | Màu: Titan Sa Mạc | Giá: 42.990.000₫
+   [CellphoneS #40] + iPhone 16 Pro Max 1TB | Chính hãng VN/A | Dung lượng: 1TB | Màu: Titan Tự Nhiên | Giá: 42.990.000₫
+   [CellphoneS #40] + iPhone 16 Pro Max 1TB | Chính hãng VN/A | Dung lượng: 1TB | Màu: Titan Đen | Giá: 42.990.000₫
+   [CellphoneS #40] + iPhone 16 Pro Max 1TB | Chính hãng VN/A | Dung lượng: 1TB | Màu: Titan Trắng | Giá: 42.990.000₫
+   [CellphoneS #41] + Samsung Galaxy A18 6GB 128GB | Dung lượng: Mặc định | Màu: Bạc | Giá: 6.890.000₫
+   [CellphoneS #41] + Samsung Galaxy A18 6GB 128GB | Dung lượng: Mặc định | Màu: Xanh dương | Giá: 6.890.000₫
+   [CellphoneS #41] + Samsung Galaxy A18 6GB 128GB | Dung lượng: Mặc định | Màu: Đen | Giá: 6.890.000₫
+   [CellphoneS #43] + Nubia Neo 5 5G 8GB 128GB | Dung lượng: Neo 5 5G | Màu: Vàng | Giá: 6.190.000₫
+   [CellphoneS #43] + Nubia Neo 5 5G 8GB 128GB | Dung lượng: Neo 5 5G | Màu: Đen | Giá: 6.190.000₫
+   [CellphoneS #43] + Nubia Neo 5 5G 8GB 128GB | Dung lượng: Neo 5 5G | Màu: Bạc | Giá: 6.190.000₫
+   [CellphoneS #43] + Nubia Neo 5 5G 8GB 256GB | Dung lượng: Neo 5 5G | Màu: Bạc | Giá: 7.190.000₫
+   [CellphoneS #43] + Nubia Neo 5 5G 8GB 256GB | Dung lượng: Neo 5 5G | Màu: Đen | Giá: 7.190.000₫
+   [CellphoneS #43] + Nubia Neo 5 Max 5G 8GB 256GB | Dung lượng: Neo 5 Max 5G | Màu: Bạc | Giá: 8.790.000₫
+   [CellphoneS #43] + Nubia Neo 5 Max 5G 8GB 256GB | Dung lượng: Neo 5 Max 5G | Màu: Đen | Giá: 8.790.000₫
+   [CellphoneS #43] + Nubia Neo 5 GT 8GB 256GB | Dung lượng: Neo 5 GT | Màu: Bạc | Giá: 8.990.000₫
+   [CellphoneS #43] + Nubia Neo 5 GT 8GB 256GB | Dung lượng: Neo 5 GT | Màu: Đen | Giá: 8.990.000₫
+   [CellphoneS #43] + Nubia Neo 5 Max 5G 8GB 512GB | Dung lượng: Neo 5 Max 5G | Màu: Đen | Giá: 9.790.000₫
+   [CellphoneS #45] + iPhone Duo 256GB | Dung lượng: 256GB | Màu: Trời Đêm | Giá: 64.990.000₫
+   [CellphoneS #45] + iPhone Duo 256GB | Dung lượng: 256GB | Màu: Trắng Ánh Sao | Giá: 64.990.000₫
+   [CellphoneS #45] + iPhone Duo 512GB | Dung lượng: 512GB | Màu: Trắng Ánh Sao | Giá: 71.490.000₫
+   [CellphoneS #45] + iPhone Duo 512GB | Dung lượng: 512GB | Màu: Trời Đêm | Giá: 71.490.000₫
+   [CellphoneS #45] + iPhone Duo 1TB | Dung lượng: 1TB | Màu: Trắng Ánh Sao | Giá: 84.490.000₫
+   [CellphoneS #45] + iPhone Duo 1TB | Dung lượng: 1TB | Màu: Trời Đêm | Giá: 84.490.000₫
+   [CellphoneS #45] + iPhone Duo 2TB | Dung lượng: 2TB | Màu: Trắng Ánh Sao | Giá: 103.990.000₫
+   [CellphoneS #45] + iPhone Duo 2TB | Dung lượng: 2TB | Màu: Trời Đêm | Giá: 103.990.000₫
+   [CellphoneS #48] + Samsung Galaxy A08 4GB 64GB | Dung lượng: Mặc định | Màu: Xanh dương | Giá: 4.490.000₫
+   [CellphoneS #48] + Samsung Galaxy A08 4GB 64GB | Dung lượng: Mặc định | Màu: Xanh lá | Giá: 4.490.000₫
+   [CellphoneS #48] + Samsung Galaxy A08 4GB 64GB | Dung lượng: Mặc định | Màu: Bạc | Giá: 4.490.000₫
+   [CellphoneS #50] + iPhone 15 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh dương | Giá: 21.690.000₫
+   [CellphoneS #50] + iPhone 15 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đen | Giá: 21.490.000₫
+   [CellphoneS #50] + iPhone 15 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Hồng | Giá: 21.790.000₫
+   [CellphoneS #50] + iPhone 15 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Vàng | Giá: 21.990.000₫
+   [CellphoneS #50] + iPhone 15 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh lá | Giá: 21.990.000₫
+   [CellphoneS #50] + iPhone 15 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh dương | Giá: 24.990.000₫
+   [CellphoneS #50] + iPhone 15 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đen | Giá: 24.990.000₫
+   [CellphoneS #50] + iPhone 15 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Hồng | Giá: 24.990.000₫
+   [CellphoneS #50] + iPhone 15 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Vàng | Giá: 24.990.000₫
+   [CellphoneS #50] + iPhone 15 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh lá | Giá: 24.990.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Đen | Giá: 13.590.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Trắng | Giá: 13.590.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Xanh dương nhạt | Giá: 13.590.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 128GB | Dung lượng: 8GB 128GB | Màu: Xanh navy | Giá: 13.590.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 512GB | Dung lượng: 8GB 512GB | Màu: Trắng | Giá: 17.990.000₫
+   [CellphoneS #51] + Samsung Galaxy S25 FE 8GB 512GB | Dung lượng: 8GB 512GB | Màu: Xanh navy | Giá: 17.990.000₫
+   [CellphoneS #55] + OPPO A6 Pro 8GB 128GB | Dung lượng: A6 Pro 8GB 128GB | Màu: Xám | Giá: 8.290.000₫
+   [CellphoneS #55] + OPPO A6 Pro 8GB 128GB | Dung lượng: A6 Pro 8GB 128GB | Màu: Xanh dương | Giá: 8.290.000₫
+   [CellphoneS #55] + OPPO A6 Pro 8GB 128GB | Dung lượng: A6 Pro 8GB 128GB | Màu: Hồng | Giá: 8.290.000₫
+   [CellphoneS #55] + OPPO A6t Pro 8GB 128GB | Dung lượng: A6t Pro 8GB 128GB | Màu: Trắng | Giá: 10.470.000₫
+   [CellphoneS #55] + OPPO A6t Pro 8GB 128GB | Dung lượng: A6t Pro 8GB 128GB | Màu: Tím | Giá: 10.470.000₫
+   [CellphoneS #55] + OPPO A7 Pro 5G 6GB 256GB | Dung lượng: A7 Pro 5G | Màu: Titan | Giá: 13.700.000₫
+   [CellphoneS #55] + OPPO A7 Pro 5G 6GB 256GB | Dung lượng: A7 Pro 5G | Màu: Xanh dương | Giá: 13.700.000₫
+   [CellphoneS #58] + HONOR X9c 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Đen | Giá: 7.290.000₫
+   [CellphoneS #58] + HONOR X9c 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Tím | Giá: 7.290.000₫
+   [CellphoneS #59] + OPPO Find X9s 12GB 256GB | Dung lượng: Find X9s | Màu: Xám | Giá: 24.490.000₫
+   [CellphoneS #59] + OPPO Find X9s 12GB 256GB | Dung lượng: Find X9s | Màu: Tím | Giá: 24.490.000₫
+   [CellphoneS #59] + OPPO Find X9s 12GB 256GB | Dung lượng: Find X9s | Màu: Cam nhạt | Giá: 24.490.000₫
+   [CellphoneS #59] + OPPO Find X9 Ultra 12GB 512GB | Dung lượng: Find X9 Ultra | Màu: Nâu | Giá: 44.990.000₫
+   [CellphoneS #59] + OPPO Find X9 Ultra 12GB 512GB | Dung lượng: Find X9 Ultra | Màu: Cam | Giá: 44.990.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: Note 15 | Màu: Xanh dương | Giá: 5.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: Note 15 | Màu: Đen | Giá: 5.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: Note 15 | Màu: Tím | Giá: 5.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: Note 15 5G | Màu: Đen | Giá: 6.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: Note 15 5G | Màu: Xanh dương | Giá: 6.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: Note 15 5G | Màu: Tím | Giá: 6.490.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 15 Pro 12GB 256GB | Màu: Xanh dương | Giá: 8.190.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 15 Pro 12GB 256GB | Màu: Đen | Giá: 8.190.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 15 Pro 12GB 256GB | Màu: Xám | Giá: 8.190.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: Note 15 Pro 5G | Màu: Đen | Giá: 9.990.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: Note 15 Pro 5G | Màu: Tím | Giá: 9.990.000₫
+   [CellphoneS #60] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: Note 15 Pro 5G | Màu: Xám | Giá: 9.990.000₫
+   [CellphoneS #61] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Đen | Giá: 26.190.000₫
+   [CellphoneS #61] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Trắng | Giá: 26.190.000₫
+   [CellphoneS #61] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Hồng | Giá: 26.190.000₫
+   [CellphoneS #62] + iPhone 16 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Trắng | Giá: 22.190.000₫
+   [CellphoneS #62] + iPhone 16 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh Mòng Két | Giá: 22.190.000₫
+   [CellphoneS #62] + iPhone 16 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh Lưu Ly | Giá: 22.190.000₫
+   [CellphoneS #62] + iPhone 16 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Hồng | Giá: 22.190.000₫
+   [CellphoneS #62] + iPhone 16 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đen | Giá: 22.190.000₫
+   [CellphoneS #62] + iPhone 16 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Hồng | Giá: 24.990.000₫
+   [CellphoneS #62] + iPhone 16 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Trắng | Giá: 24.990.000₫
+   [CellphoneS #62] + iPhone 16 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh Mòng Két | Giá: 24.990.000₫
+   [CellphoneS #62] + iPhone 16 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đen | Giá: 24.990.000₫
+   [CellphoneS #62] + iPhone 16 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh Lưu Ly | Giá: 24.990.000₫
+   [CellphoneS #62] + iPhone 16 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Đen | Giá: 26.990.000₫
+   [CellphoneS #62] + iPhone 16 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Xanh Lưu Ly | Giá: 26.990.000₫
+   [CellphoneS #62] + iPhone 16 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Xanh Mòng Két | Giá: 26.990.000₫
+   [CellphoneS #62] + iPhone 16 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Hồng | Giá: 26.990.000₫
+   [CellphoneS #62] + iPhone 16 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Trắng | Giá: 26.990.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Hồng | Giá: 13.490.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đỏ | Giá: 13.490.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh lá | Giá: 13.490.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Trắng | Giá: 15.290.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đen | Giá: 15.290.000₫
+   [CellphoneS #64] + iPhone 13 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh dương | Giá: 13.490.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Trắng | Giá: 16.990.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh lá | Giá: 16.990.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đỏ | Giá: 16.990.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đen | Giá: 16.990.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh dương | Giá: 16.990.000₫
+   [CellphoneS #64] + iPhone 13 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Hồng | Giá: 16.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Hồng | Giá: 24.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh Lưu Ly | Giá: 24.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đen | Giá: 24.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh Mòng Két | Giá: 24.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 128GB | Chính hãng VN/A | Dung lượng: 128GB | Màu: Trắng | Giá: 24.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Hồng | Giá: 27.890.000₫
+   [CellphoneS #70] + iPhone 16 Plus 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Trắng | Giá: 27.890.000₫
+   [CellphoneS #70] + iPhone 16 Plus 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đen | Giá: 27.890.000₫
+   [CellphoneS #70] + iPhone 16 Plus 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh Mòng Két | Giá: 27.890.000₫
+   [CellphoneS #70] + iPhone 16 Plus 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh Lưu Ly | Giá: 27.890.000₫
+   [CellphoneS #70] + iPhone 16 Plus 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Hồng | Giá: 28.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Xanh Lưu Ly | Giá: 28.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Đen | Giá: 28.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Xanh Mòng Két | Giá: 28.990.000₫
+   [CellphoneS #70] + iPhone 16 Plus 512GB | Chính hãng VN/A | Dung lượng: 512GB | Màu: Trắng | Giá: 28.990.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: A7 3GB 64GB | Màu: Đen | Giá: 3.390.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: A7 3GB 64GB | Màu: Tím | Giá: 3.390.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: A7 3GB 64GB | Màu: Xanh dương | Giá: 3.390.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 Pro 4GB 128GB NFC | Dung lượng: A7 Pro 4GB 128GB | Màu: Xanh lá | Giá: 3.840.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 Pro 4GB 128GB NFC | Dung lượng: A7 Pro 4GB 128GB | Màu: Xanh dương | Giá: 3.840.000₫
+   [CellphoneS #71] + Xiaomi Redmi A7 Pro 4GB 128GB NFC | Dung lượng: A7 Pro 4GB 128GB | Màu: Đen | Giá: 3.840.000₫
+   [CellphoneS #73] + iPhone 17e 256GB | Chính hãng | Dung lượng: 256GB | Màu: Hồng | Giá: 20.990.000₫
+   [CellphoneS #73] + iPhone 17e 256GB | Chính hãng | Dung lượng: 256GB | Màu: Đen | Giá: 20.990.000₫
+   [CellphoneS #73] + iPhone 17e 256GB | Chính hãng | Dung lượng: 256GB | Màu: Trắng | Giá: 20.990.000₫
+   [CellphoneS #73] + iPhone 17e 512GB | Chính hãng | Dung lượng: 512GB | Màu: Hồng | Giá: 26.990.000₫
+   [CellphoneS #73] + iPhone 17e 512GB | Chính hãng | Dung lượng: 512GB | Màu: Trắng | Giá: 26.990.000₫
+   [CellphoneS #73] + iPhone 17e 512GB | Chính hãng | Dung lượng: 512GB | Màu: Đen | Giá: 26.990.000₫
+   [CellphoneS #74] + Sony Xperia 1 VIII 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Vàng | Giá: 36.990.000₫
+   [CellphoneS #74] + Sony Xperia 1 VIII 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Bạc | Giá: 36.990.000₫
+   [CellphoneS #74] + Sony Xperia 1 VIII 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Đỏ | Giá: 36.990.000₫
+   [CellphoneS #74] + Sony Xperia 1 VIII 5G 12GB 256GB | Dung lượng: Mặc định | Màu: Đen | Giá: 36.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 512GB | Dung lượng: 16GB 512GB | Màu: Đen | Giá: 30.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 512GB | Dung lượng: 16GB 512GB | Màu: Xanh lá | Giá: 30.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 512GB | Dung lượng: 16GB 512GB | Màu: Trắng | Giá: 30.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Xanh lá | Giá: 34.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Trắng | Giá: 34.990.000₫
+   [CellphoneS #75] + Xiaomi 17 Ultra 5G 16GB 1TB | Dung lượng: 16GB 1TB | Màu: Đen | Giá: 34.990.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Vàng | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đỏ | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Xanh | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Đen | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Trắng | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 256GB | Chính hãng VN/A | Dung lượng: 256GB | Màu: Tím | Giá: 16.290.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đỏ | Giá: 16.990.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Đen | Giá: 16.990.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Tím | Giá: 16.990.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Trắng | Giá: 16.990.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Vàng | Giá: 16.990.000₫
+   [CellphoneS #78] + iPhone 14 128GB  | Chính hãng VN/A | Dung lượng: 128GB | Màu: Xanh | Giá: 16.990.000₫
+   [CellphoneS #81] + Samsung Galaxy A36 5G 8GB 128GB | Dung lượng: A36 | Màu: Xanh | Giá: 7.490.000₫
+   [CellphoneS #81] + Samsung Galaxy A36 5G 8GB 128GB | Dung lượng: A36 | Màu: Tím | Giá: 7.490.000₫
+   [CellphoneS #81] + Samsung Galaxy A36 5G 8GB 128GB | Dung lượng: A36 | Màu: Đen | Giá: 7.490.000₫
+   [CellphoneS #81] + Samsung Galaxy A56 5G 8GB 128GB | Dung lượng: A56 | Màu: Hồng | Giá: 8.990.000₫
+   [CellphoneS #81] + Samsung Galaxy A56 5G 8GB 128GB | Dung lượng: A56 | Màu: Xám | Giá: 8.990.000₫
+   [CellphoneS #81] + Samsung Galaxy A56 5G 8GB 128GB | Dung lượng: A56 | Màu: Đen | Giá: 8.990.000₫
+   [CellphoneS #81] + Samsung Galaxy A56 5G 8GB 128GB | Dung lượng: A56 | Màu: Xanh | Giá: 8.990.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 5G 4GB 128GB | Dung lượng: 5G 4GB 128GB | Màu: Xanh dương | Giá: 5.090.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 5G 4GB 128GB | Dung lượng: 5G 4GB 128GB | Màu: Cam | Giá: 5.090.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 5G 4GB 128GB | Dung lượng: 5G 4GB 128GB | Màu: Đen | Giá: 5.090.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 6GB 256GB | Màu: Xanh lá | Giá: 5.990.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 6GB 256GB | Màu: Xanh dương | Giá: 5.990.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 6GB 256GB | Màu: Tím | Giá: 5.990.000₫
+   [CellphoneS #83] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 6GB 256GB | Màu: Đen | Giá: 5.990.000₫
+   [CellphoneS #86] + Sony Xperia 1 VII 12GB 256GB | Dung lượng: Mặc định | Màu: Xanh Rêu | Giá: 23.990.000₫
+   [CellphoneS #86] + Sony Xperia 1 VII 12GB 256GB | Dung lượng: Mặc định | Màu: Đen | Giá: 23.990.000₫
+   [CellphoneS #86] + Sony Xperia 1 VII 12GB 256GB | Dung lượng: Mặc định | Màu: Tím | Giá: 23.990.000₫
+   [CellphoneS #87] + Nothing Phone 2A 5G 8GB 128GB | Dung lượng: Phone 2A | Màu: Đen | Giá: 7.190.000₫
+   [CellphoneS #87] + Nothing Phone 2A 5G 8GB 128GB | Dung lượng: Phone 2A | Màu: Trắng | Giá: 7.190.000₫
+   [CellphoneS #87] + Nothing Phone 2A Plus 5G 12GB 256GB | Dung lượng: Phone 2A Plus | Màu: Đen | Giá: 7.990.000₫
+   [CellphoneS #87] + Nothing Phone 2A Plus 5G 12GB 256GB | Dung lượng: Phone 2A Plus | Màu: Ghi | Giá: 7.990.000₫
+   [CellphoneS #87] + Nothing Phone 2A 5G 12GB 256GB | Dung lượng: Phone 2A | Màu: Trắng | Giá: 8.490.000₫
+   [CellphoneS #87] + Nothing Phone 2A 5G 12GB 256GB | Dung lượng: Phone 2A | Màu: Đen | Giá: 8.490.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 256GB | Dung lượng: 256GB | Màu: Xám bóng | Giá: 38.590.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 256GB | Dung lượng: 256GB | Màu: Xanh bóng | Giá: 38.590.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 256GB | Dung lượng: 256GB | Màu: Đen tuyền | Giá: 38.590.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 512GB | Dung lượng: 512GB | Màu: Xám bóng | Giá: 39.990.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 512GB | Dung lượng: 512GB | Màu: Xanh bóng | Giá: 39.990.000₫
+   [CellphoneS #88] + Samsung Galaxy Z Fold7 12GB 512GB | Dung lượng: 512GB | Màu: Đen tuyền | Giá: 39.990.000₫
+
+[CellphoneS] Hoàn tất: 399 bản ghi
+
+[FPTShop] 1. Đang lấy danh sách link sản phẩm gốc từ: https://fptshop.com.vn/dien-thoai
+   -> Đã bấm 'Xem thêm' danh sách lần 1/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 2/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 3/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 4/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 5/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 6/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 7/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 8/15...
+   -> Đã bấm 'Xem thêm' danh sách lần 9/15...
+[FPTShop] Tìm thấy 108 mẫu điện thoại gốc:
+   (1) https://fptshop.com.vn/dien-thoai/iphone-duo
+   (2) https://fptshop.com.vn/dien-thoai/iphone-18-pro-max
+   (3) https://fptshop.com.vn/dien-thoai/iphone-18-pro
+   (4) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17
+   (5) https://fptshop.com.vn/dien-thoai/oppo-reno16-f
+   (6) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17-pro-max
+   (7) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra
+   (8) https://fptshop.com.vn/dien-thoai/oppo-find-x9-ultra
+   (9) https://fptshop.com.vn/dien-thoai/oppo-find-x9s
+   (10) https://fptshop.com.vn/dien-thoai/iphone-17-pro-max
+   (11) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15
+   (12) https://fptshop.com.vn/dien-thoai/iphone-17
+   (13) https://fptshop.com.vn/dien-thoai/honor-x9d
+   (14) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-ultra
+   (15) https://fptshop.com.vn/dien-thoai/xiaomi-poco-x7
+   (16) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17
+   (17) https://fptshop.com.vn/dien-thoai/honor-x7d
+   (18) https://fptshop.com.vn/dien-thoai/iphone-17-pro
+   (19) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07
+   (20) https://fptshop.com.vn/dien-thoai/oppo-a7-pro
+   (21) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-a7
+   (22) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a27
+   (23) https://fptshop.com.vn/dien-thoai/oppo-a6t-pro
+   (24) https://fptshop.com.vn/dien-thoai/oppo-a6c
+   (25) https://fptshop.com.vn/dien-thoai/honor-600
+   (26) https://fptshop.com.vn/dien-thoai/tecno-spark-50
+   (27) https://fptshop.com.vn/dien-thoai/xiaomi-poco-m8-pro
+   (28) https://fptshop.com.vn/dien-thoai/oppo-a6t-6gb
+   (29) https://fptshop.com.vn/dien-thoai/honor-play-10
+   (30) https://fptshop.com.vn/dien-thoai/masstel-izi-t5-plus
+   (31) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a17-5g
+   (32) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-5g
+   (33) https://fptshop.com.vn/dien-thoai/viettel-sumo-t2-4g
+   (34) https://fptshop.com.vn/dien-thoai/oppo-a6
+   (35) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-fe
+   (36) https://fptshop.com.vn/dien-thoai/xiaomi-17t-pro
+   (37) https://fptshop.com.vn/dien-thoai/honor-600s-8gb
+   (38) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a57
+   (39) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17-5g
+   (40) https://fptshop.com.vn/dien-thoai/masstel-fami-60s-4g
+   (41) https://fptshop.com.vn/dien-thoai/xiaomi-15t-pro
+   (42) https://fptshop.com.vn/dien-thoai/honor-600-12gb
+   (43) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a37
+   (44) https://fptshop.com.vn/dien-thoai/xiaomi-poco-c81-pro
+   (45) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-17
+   (46) https://fptshop.com.vn/dien-thoai/iphone-16e
+   (47) https://fptshop.com.vn/dien-thoai/iphone-air
+   (48) https://fptshop.com.vn/dien-thoai/honor-play-10-4gb
+   (49) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-17-pro-5g
+   (50) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-15c
+   (51) https://fptshop.com.vn/dien-thoai/nokia-110-ds-pro-4g-2
+   (52) https://fptshop.com.vn/dien-thoai/oppo-find-n3
+   (53) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-fe
+   (54) https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8
+   (55) https://fptshop.com.vn/dien-thoai/iphone-17e
+   (56) https://fptshop.com.vn/dien-thoai/iphone-16
+   (57) https://fptshop.com.vn/dien-thoai/honor-x5c-plus
+   (58) https://fptshop.com.vn/dien-thoai/honor-x8d
+   (59) https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold8-ultra
+   (60) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-plus
+   (61) https://fptshop.com.vn/dien-thoai/inoi-244-modern-plus-4g
+   (62) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-pro
+   (63) https://fptshop.com.vn/dien-thoai/benco-v91-plus
+   (64) https://fptshop.com.vn/dien-thoai/oppo-reno15-5g
+   (65) https://fptshop.com.vn/dien-thoai/masstel-izi-16-4g
+   (66) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a26
+   (67) https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip8
+   (68) https://fptshop.com.vn/dien-thoai/nokia-hmd-105-4g
+   (69) https://fptshop.com.vn/dien-thoai/nokia-105-ds-pro-4g
+   (70) https://fptshop.com.vn/dien-thoai/tecno-pova-curve-2
+   (71) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a08
+   (72) https://fptshop.com.vn/dien-thoai/benco-v90-plus
+   (73) https://fptshop.com.vn/dien-thoai/oppo-find-n6
+   (74) https://fptshop.com.vn/dien-thoai/honor-magic-v5
+   (75) https://fptshop.com.vn/dien-thoai/nokia-220-4g
+   (76) https://fptshop.com.vn/dien-thoai/honor-x7d-5g
+   (77) https://fptshop.com.vn/dien-thoai/itel-p55-plus-nfc
+   (78) https://fptshop.com.vn/dien-thoai/oppo-a6-pro
+   (79) https://fptshop.com.vn/dien-thoai/xiaomi-17-ultra
+   (80) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26
+   (81) https://fptshop.com.vn/dien-thoai/oppo-a5i-pro
+   (82) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-5g
+   (83) https://fptshop.com.vn/dien-thoai/honor-x6c
+   (84) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s25-edge
+   (85) https://fptshop.com.vn/dien-thoai/mobell-m139-4g
+   (86) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-15c-8gb
+   (87) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s24-fe
+   (88) https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip7
+   (89) https://fptshop.com.vn/dien-thoai/oppo-reno14-f
+   (90) https://fptshop.com.vn/dien-thoai/samsung-galaxy-s26-ultra-16gb
+   (91) https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-15-pro-5g
+   (92) https://fptshop.com.vn/dien-thoai/itel-it8010-4g
+   (93) https://fptshop.com.vn/dien-thoai/inoi-240-modern-4g
+   (94) https://fptshop.com.vn/dien-thoai/honor-x9d-12gb
+   (95) https://fptshop.com.vn/dien-thoai/oppo-find-x10-pro-max
+   (96) https://fptshop.com.vn/dien-thoai/oppo-find-x10
+   (97) https://fptshop.com.vn/dien-thoai/samsung-galaxy-a07-8gb
+   (98) https://fptshop.com.vn/dien-thoai/oppo-reno13-f-5g
+   (99) https://fptshop.com.vn/dien-thoai/iphone-16-plus
+   (100) https://fptshop.com.vn/dien-thoai/oppo-reno14
+   (101) https://fptshop.com.vn/dien-thoai/nothing-phone-4a
+   (102) https://fptshop.com.vn/dien-thoai/nothing-phone-4a-pro
+   (103) https://fptshop.com.vn/dien-thoai/xiaomi-poco-f8-pro
+   (104) https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-trifold
+   (105) https://fptshop.com.vn/dien-thoai/nothing-phone-4b
+   (106) https://fptshop.com.vn/dien-thoai/nothing-phone-4a-12gb
+   (107) https://fptshop.com.vn/dien-thoai/tecno-spark-40-8gb
+   (108) https://fptshop.com.vn/dien-thoai/samsung-galaxy-xcover7-pro
+   [FPTShop #1] + iPhone Duo 256GB | Dung lượng: 256 GB | Màu: Trời Đêm | Giá: 64.990.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 256GB | Dung lượng: 256 GB | Màu: Trắng Ánh Sao | Giá: 64.990.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 512GB | Dung lượng: 512 GB | Màu: Trắng Ánh Sao | Giá: 71.490.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 512GB | Dung lượng: 512 GB | Màu: Trời Đêm | Giá: 71.490.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 1TB | Dung lượng: 1 TB | Màu: Trắng Ánh Sao | Giá: 84.490.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 1TB | Dung lượng: 1 TB | Màu: Trời Đêm | Giá: 84.490.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 2TB | Dung lượng: 2 TB | Màu: Trắng Ánh Sao | Giá: 103.990.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #1] + iPhone Duo 2TB | Dung lượng: 2 TB | Màu: Trời Đêm | Giá: 103.990.000đ | Sao: 5 ((74 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 256GB | Dung lượng: 256 GB | Màu: Đỏ Burgundy | Giá: 41.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 41.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 256GB | Dung lượng: 256 GB | Màu: Băng Thanh | Giá: 41.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: 41.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 48.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 512GB | Dung lượng: 512 GB | Màu: Đỏ Burgundy | Giá: 48.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 512GB | Dung lượng: 512 GB | Màu: Băng Thanh | Giá: 48.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 48.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 1TB | Dung lượng: 1 TB | Màu: Đen | Giá: 61.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 1TB | Dung lượng: 1 TB | Màu: Băng Thanh | Giá: 61.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 1TB | Dung lượng: 1 TB | Màu: Bạc | Giá: 61.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 1TB | Dung lượng: 1 TB | Màu: Đỏ Burgundy | Giá: 61.490.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 2TB | Dung lượng: 2 TB | Màu: Đỏ Burgundy | Giá: 80.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 2TB | Dung lượng: 2 TB | Màu: Đen | Giá: 80.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 2TB | Dung lượng: 2 TB | Màu: Băng Thanh | Giá: 80.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #2] + iPhone 18 Pro Max 2TB | Dung lượng: 2 TB | Màu: Bạc | Giá: 80.990.000đ | Sao: 5 ((1738 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 256GB | Dung lượng: 256 GB | Màu: Đỏ Burgundy | Giá: 38.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 256GB | Dung lượng: 256 GB | Màu: Băng Thanh | Giá: 38.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 38.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: 38.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 512GB | Dung lượng: 512 GB | Màu: Băng Thanh | Giá: 45.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 45.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 512GB | Dung lượng: 512 GB | Màu: Đỏ Burgundy | Giá: 45.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 45.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 1TB | Dung lượng: 1 TB | Màu: Băng Thanh | Giá: 58.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 1TB | Dung lượng: 1 TB | Màu: Đen | Giá: 58.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 1TB | Dung lượng: 1 TB | Màu: Đỏ Burgundy | Giá: 58.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 1TB | Dung lượng: 1 TB | Màu: Bạc | Giá: 58.490.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 2TB | Dung lượng: 2 TB | Màu: Đen | Giá: 76.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 2TB | Dung lượng: 2 TB | Màu: Bạc | Giá: 76.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 2TB | Dung lượng: 2 TB | Màu: Băng Thanh | Giá: 76.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #3] + iPhone 18 Pro 2TB | Dung lượng: 2 TB | Màu: Đỏ Burgundy | Giá: 76.990.000đ | Sao: 5 ((212 đánh giá))
+   [FPTShop #4] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 5.990.000đ | Sao: 5 ((345 đánh giá))
+   [FPTShop #4] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 5.990.000đ | Sao: 5 ((345 đánh giá))
+   [FPTShop #4] + Xiaomi Redmi Note 17 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 5.990.000đ | Sao: 5 ((345 đánh giá))
+   [FPTShop #5] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Tím Nhạt | Giá: 15.690.000đ | Sao: 5 ((465 đánh giá))
+   [FPTShop #5] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 15.690.000đ | Sao: 5 ((465 đánh giá))
+   [FPTShop #5] + OPPO Reno16 F 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Tím Đen | Giá: 15.690.000đ | Sao: 5 ((465 đánh giá))
+   [FPTShop #6] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 15.590.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #6] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 15.590.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #6] + Xiaomi Redmi Note 17 Pro Max 5G 8GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 15.590.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 27% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 27% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 27% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 27% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh | Giá: 19% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 19% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 19% | Sao: 5 ((744 đánh giá))
+   [FPTShop #7] + Samsung Galaxy S26 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 19% | Sao: 5 ((744 đánh giá))
+   [FPTShop #8] + Oppo Find X9 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Cam | Giá: 45.990.000đ | Sao: 5 ((21 đánh giá))
+   [FPTShop #8] + Oppo Find X9 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Nâu | Giá: 45.990.000đ | Sao: 5 ((21 đánh giá))
+   [FPTShop #9] + Oppo Find X9s 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Cam | Giá: 24.990.000đ | Sao: 5 ((102 đánh giá))
+   [FPTShop #9] + Oppo Find X9s 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 24.990.000đ | Sao: 5 ((102 đánh giá))
+   [FPTShop #9] + Oppo Find X9s 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xám | Giá: 24.990.000đ | Sao: 5 ((102 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 256GB | Dung lượng: 256 GB | Màu: Cam Vũ Trụ | Giá: 34.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 256GB | Dung lượng: 256 GB | Màu: Xanh Đậm | Giá: 34.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: Khuyến mãi 1 | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 512GB | Dung lượng: 512 GB | Màu: Cam Vũ Trụ | Giá: 41.490.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 512GB | Dung lượng: 512 GB | Màu: Xanh Đậm | Giá: 41.490.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 1TB | Dung lượng: 1 TB | Màu: Xanh Đậm | Giá: 47.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 1TB | Dung lượng: 1 TB | Màu: Cam Vũ Trụ | Giá: 47.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 1TB | Dung lượng: 1 TB | Màu: Bạc | Giá: 47.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 2TB | Dung lượng: 2 TB | Màu: Bạc | Giá: 60.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 2TB | Dung lượng: 2 TB | Màu: Xanh Đậm | Giá: 60.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #10] + iPhone 17 Pro Max 2TB | Dung lượng: 2 TB | Màu: Cam Vũ Trụ | Giá: 60.990.000đ | Sao: 5 ((4076 đánh giá))
+   [FPTShop #11] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 4.990.000đ | Sao: 5 ((855 đánh giá))
+   [FPTShop #11] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: 128 GB | Màu: Tím khói | Giá: 4.990.000đ | Sao: 5 ((855 đánh giá))
+   [FPTShop #11] + Xiaomi Redmi Note 15 6GB 128GB | Dung lượng: 128 GB | Màu: Xanh băng | Giá: 4.990.000đ | Sao: 5 ((855 đánh giá))
+   [FPTShop #12] + iPhone 17 256GB | Dung lượng: 256 GB | Màu: Tím Oải Hương | Giá: 28.490.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 28.490.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 28.490.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 256GB | Dung lượng: 256 GB | Màu: Xanh Lam Khói | Giá: 28.490.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 256GB | Dung lượng: 256 GB | Màu: Xanh Lá Xô Thơm | Giá: 28.490.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 512GB | Dung lượng: 512 GB | Màu: Tím Oải Hương | Giá: 33.990.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 33.990.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 512GB | Dung lượng: 512 GB | Màu: Xanh Lá Xô Thơm | Giá: 33.990.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 512GB | Dung lượng: 512 GB | Màu: Xanh Lam Khói | Giá: 33.990.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #12] + iPhone 17 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 33.990.000đ | Sao: 5 ((1302 đánh giá))
+   [FPTShop #13] + Honor X9d 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 11.240.000đ | Sao: 5 ((1212 đánh giá))
+   [FPTShop #13] + Honor X9d 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 11.240.000đ | Sao: 5 ((1212 đánh giá))
+   [FPTShop #13] + Honor X9d 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Đỏ nâu | Giá: 11.240.000đ | Sao: 5 ((1212 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 25.990.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 25.990.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: 25.990.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xám | Giá: 25.990.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh dương | Giá: 28.810.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xám | Giá: 28.810.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 28.810.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 28.810.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 1TB | Dung lượng: 1 TB | Màu: Xanh dương | Giá: 43.980.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 1TB | Dung lượng: 1 TB | Màu: Bạc | Giá: 43.980.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 1TB | Dung lượng: 1 TB | Màu: Đen | Giá: 43.980.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #14] + Samsung Galaxy S25 Ultra 5G 12GB 1TB | Dung lượng: 1 TB | Màu: Xám | Giá: 43.980.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #15] + Xiaomi Poco X7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh lá | Giá: 7.990.000đ | Sao: 5 ((401 đánh giá))
+   [FPTShop #15] + Xiaomi Poco X7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 7.990.000đ | Sao: 5 ((401 đánh giá))
+   [FPTShop #15] + Xiaomi Poco X7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 7.990.000đ | Sao: 5 ((401 đánh giá))
+   [FPTShop #16] + Samsung Galaxy A17 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh Nhạt | Giá: 31% | Sao: 5 ((1950 đánh giá))
+   [FPTShop #16] + Samsung Galaxy A17 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 31% | Sao: 5 ((1950 đánh giá))
+   [FPTShop #16] + Samsung Galaxy A17 8GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 31% | Sao: 5 ((1950 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 6.350.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 128GB | Dung lượng: 128 GB | Màu: Vàng | Giá: 6.350.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 6.350.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 6.540.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 6.540.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #17] + Honor X7d 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 6.540.000đ | Sao: 5 ((1912 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 256GB | Dung lượng: 256 GB | Màu: Xanh Đậm | Giá: 31.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 256GB | Dung lượng: 256 GB | Màu: Cam Vũ Trụ | Giá: 31.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: 31.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 512GB | Dung lượng: 512 GB | Màu: Xanh Đậm | Giá: 38.490.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 512GB | Dung lượng: 512 GB | Màu: Cam Vũ Trụ | Giá: 38.490.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 38.490.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 1TB | Dung lượng: 1 TB | Màu: Xanh Đậm | Giá: 44.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 1TB | Dung lượng: 1 TB | Màu: Cam Vũ Trụ | Giá: 44.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #18] + iPhone 17 Pro 1TB | Dung lượng: 1 TB | Màu: Bạc | Giá: 44.990.000đ | Sao: 5 ((573 đánh giá))
+   [FPTShop #19] + Samsung Galaxy A07 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 4.190.000đ | Sao: 5 ((759 đánh giá))
+   [FPTShop #19] + Samsung Galaxy A07 4GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 4.190.000đ | Sao: 5 ((759 đánh giá))
+   [FPTShop #19] + Samsung Galaxy A07 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 4.190.000đ | Sao: 5 ((759 đánh giá))
+   [FPTShop #20] + OPPO A7 Pro 5G 6GB 256GB | Dung lượng: 256 GB | Màu: Titan | Giá: 13.990.000đ | Sao: 5 ((89 đánh giá))
+   [FPTShop #20] + OPPO A7 Pro 5G 6GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 13.990.000đ | Sao: 5 ((89 đánh giá))
+   [FPTShop #21] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: 64 GB | Màu: Đen | Giá: 3.290.000đ | Sao: 5 ((284 đánh giá))
+   [FPTShop #21] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: 64 GB | Màu: Xanh | Giá: 3.290.000đ | Sao: 5 ((284 đánh giá))
+   [FPTShop #21] + Xiaomi Redmi A7 3GB 64GB | Dung lượng: 64 GB | Màu: Tím | Giá: 3.290.000đ | Sao: 5 ((284 đánh giá))
+   [FPTShop #22] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 18% | Sao: 5 ((650 đánh giá))
+   [FPTShop #22] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 18% | Sao: 5 ((650 đánh giá))
+   [FPTShop #22] + Samsung Galaxy A27 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Hồng | Giá: 18% | Sao: 5 ((650 đánh giá))
+   [FPTShop #23] + Oppo A6T Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 9% | Sao: 5 ((259 đánh giá))
+   [FPTShop #23] + Oppo A6T Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 9% | Sao: 5 ((259 đánh giá))
+   [FPTShop #24] + Oppo A6C 4GB 64GB | Dung lượng: 64 GB | Màu: Nâu | Giá: 4.690.000đ | Sao: 5 ((1360 đánh giá))
+   [FPTShop #24] + Oppo A6C 4GB 64GB | Dung lượng: 64 GB | Màu: Tím | Giá: 4.690.000đ | Sao: 5 ((1360 đánh giá))
+   [FPTShop #24] + Oppo A6C 4GB 128GB | Dung lượng: 128 GB | Màu: Nâu | Giá: 5.690.000đ | Sao: 5 ((1360 đánh giá))
+   [FPTShop #24] + Oppo A6C 4GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 5.690.000đ | Sao: 5 ((1360 đánh giá))
+   [FPTShop #25] + Honor 600 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Cam | Giá: 16.430.000đ | Sao: 5 ((144 đánh giá))
+   [FPTShop #25] + Honor 600 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 16.430.000đ | Sao: 5 ((144 đánh giá))
+   [FPTShop #25] + Honor 600 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 16.430.000đ | Sao: 5 ((144 đánh giá))
+   [FPTShop #26] + Tecno Spark 50 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 4.490.000đ | Sao: 5 ((42 đánh giá))
+   [FPTShop #26] + Tecno Spark 50 4GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 4.490.000đ | Sao: 5 ((42 đánh giá))
+   [FPTShop #27] + Xiaomi Poco M8 Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Bạc | Giá: 28% | Sao: 5 ((139 đánh giá))
+   [FPTShop #27] + Xiaomi Poco M8 Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 28% | Sao: 5 ((139 đánh giá))
+   [FPTShop #27] + Xiaomi Poco M8 Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh lá | Giá: 28% | Sao: 5 ((139 đánh giá))
+   [FPTShop #28] + OPPO A6T 6GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 7% | Sao: 5 ((239 đánh giá))
+   [FPTShop #28] + OPPO A6T 6GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 7% | Sao: 5 ((239 đánh giá))
+   [FPTShop #29] + Honor Play 10 3GB 64GB | Dung lượng: 64 GB | Màu: Đen | Giá: 3.200.000đ | Sao: 5 ((97 đánh giá))
+   [FPTShop #29] + Honor Play 10 3GB 64GB | Dung lượng: 64 GB | Màu: Xanh | Giá: 3.200.000đ | Sao: 5 ((97 đánh giá))
+   [FPTShop #30] + Masstel Izi T5 Plus 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 600.000đ | Sao: 5 ((123 đánh giá))
+   [FPTShop #30] + Masstel Izi T5 Plus 4G | Dung lượng: Mặc định | Màu: Đen Đỏ | Giá: 600.000đ | Sao: 5 ((123 đánh giá))
+   [FPTShop #30] + Masstel Izi T5 Plus 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 600.000đ | Sao: 5 ((123 đánh giá))
+   [FPTShop #31] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 20% | Sao: 5 ((1968 đánh giá))
+   [FPTShop #31] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 20% | Sao: 5 ((1968 đánh giá))
+   [FPTShop #31] + Samsung Galaxy A17 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 20% | Sao: 5 ((1968 đánh giá))
+   [FPTShop #32] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 5.590.000đ | Sao: 5 ((270 đánh giá))
+   [FPTShop #32] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 5.590.000đ | Sao: 5 ((270 đánh giá))
+   [FPTShop #32] + Samsung Galaxy A07 5G 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 5.590.000đ | Sao: 5 ((270 đánh giá))
+   [FPTShop #33] + Viettel Sumo T2 4G | Dung lượng: 128 MB | Màu: Đen | Giá: 550.000đ | Sao: 4.7 ((25 đánh giá))
+   [FPTShop #33] + Viettel Sumo T2 4G | Dung lượng: 128 MB | Màu: Xanh | Giá: 550.000đ | Sao: 4.7 ((25 đánh giá))
+   [FPTShop #34] + OPPO A6 8GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 11.490.000đ | Sao: 5 ((56 đánh giá))
+   [FPTShop #34] + OPPO A6 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 11.490.000đ | Sao: 5 ((56 đánh giá))
+   [FPTShop #34] + OPPO A6 8GB 256GB | Dung lượng: 256 GB | Màu: Hồng | Giá: 11.490.000đ | Sao: 5 ((56 đánh giá))
+   [FPTShop #35] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh dương | Giá: 21% | Sao: 5 ((242 đánh giá))
+   [FPTShop #35] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 21% | Sao: 5 ((242 đánh giá))
+   [FPTShop #35] + Samsung Galaxy S26 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh lá | Giá: 21% | Sao: 5 ((242 đánh giá))
+   [FPTShop #36] + Xiaomi 17T Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh | Giá: 20.490.000đ | Sao: 5 ((118 đánh giá))
+   [FPTShop #36] + Xiaomi 17T Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 20.490.000đ | Sao: 5 ((118 đánh giá))
+   [FPTShop #37] + Honor 600s 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 10.750.000đ | Sao: 5 ((148 đánh giá))
+   [FPTShop #37] + Honor 600s 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 10.750.000đ | Sao: 5 ((148 đánh giá))
+   [FPTShop #37] + Honor 600s 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 10.750.000đ | Sao: 5 ((148 đánh giá))
+   [FPTShop #38] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 21% | Sao: 5 ((910 đánh giá))
+   [FPTShop #38] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh Dương Đậm | Giá: 21% | Sao: 5 ((910 đánh giá))
+   [FPTShop #38] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh Dương Nhạt | Giá: 21% | Sao: 5 ((910 đánh giá))
+   [FPTShop #38] + Samsung Galaxy A57 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 21% | Sao: 5 ((910 đánh giá))
+   [FPTShop #39] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 7.490.000đ | Sao: 5 ((104 đánh giá))
+   [FPTShop #39] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 7.490.000đ | Sao: 5 ((104 đánh giá))
+   [FPTShop #39] + Xiaomi Redmi Note 17 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 7.490.000đ | Sao: 5 ((104 đánh giá))
+   [FPTShop #40] + Masstel Fami 60S 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 800.000đ | Sao: 5 ((114 đánh giá))
+   [FPTShop #40] + Masstel Fami 60S 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 800.000đ | Sao: 5 ((114 đánh giá))
+   [FPTShop #41] + Xiaomi 15T Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Vàng | Giá: 18% | Sao: 5 ((123 đánh giá))
+   [FPTShop #41] + Xiaomi 15T Pro 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xám | Giá: 18% | Sao: 5 ((123 đánh giá))
+   [FPTShop #42] + Honor 600 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 16.930.000đ | Sao: 5 ((222 đánh giá))
+   [FPTShop #42] + Honor 600 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 16.930.000đ | Sao: 5 ((222 đánh giá))
+   [FPTShop #42] + Honor 600 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Cam | Giá: 16.930.000đ | Sao: 5 ((222 đánh giá))
+   [FPTShop #43] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh lá | Giá: 20% | Sao: 5 ((210 đánh giá))
+   [FPTShop #43] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 20% | Sao: 5 ((210 đánh giá))
+   [FPTShop #43] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 20% | Sao: 5 ((210 đánh giá))
+   [FPTShop #43] + Samsung Galaxy A37 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 20% | Sao: 5 ((210 đánh giá))
+   [FPTShop #44] + Xiaomi POCO C81 Pro 4GB 128GB | Dung lượng: 128 GB | Màu: Vàng | Giá: 3.890.000đ | Sao: 5 ((29 đánh giá))
+   [FPTShop #44] + Xiaomi POCO C81 Pro 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 3.890.000đ | Sao: 5 ((29 đánh giá))
+   [FPTShop #44] + Xiaomi POCO C81 Pro 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 3.890.000đ | Sao: 5 ((29 đánh giá))
+   [FPTShop #45] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 5.790.000đ | Sao: 5 ((119 đánh giá))
+   [FPTShop #45] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 5.790.000đ | Sao: 5 ((119 đánh giá))
+   [FPTShop #45] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 256 GB | Màu: Xanh lá | Giá: 5.790.000đ | Sao: 5 ((119 đánh giá))
+   [FPTShop #45] + Xiaomi Redmi 17 6GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 5.790.000đ | Sao: 5 ((119 đánh giá))
+   [FPTShop #46] + iPhone 16e 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 18.990.000đ | Sao: 5 ((86 đánh giá))
+   [FPTShop #46] + iPhone 16e 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 18.990.000đ | Sao: 5 ((86 đánh giá))
+   [FPTShop #47] + iPhone Air 256GB | Dung lượng: 256 GB | Màu: Xanh Da Trời | Giá: 23.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 256GB | Dung lượng: 256 GB | Màu: Đen Không Gian | Giá: 23.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 256GB | Dung lượng: 256 GB | Màu: Trắng Mây | Giá: 23.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 256GB | Dung lượng: 256 GB | Màu: Vàng Nhạt | Giá: 22.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 512GB | Dung lượng: 512 GB | Màu: Xanh Da Trời | Giá: 29.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 512GB | Dung lượng: 512 GB | Màu: Vàng Nhạt | Giá: 29.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 512GB | Dung lượng: 512 GB | Màu: Đen Không Gian | Giá: 29.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 512GB | Dung lượng: 512 GB | Màu: Trắng Mây | Giá: 29.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 1TB | Dung lượng: 1 TB | Màu: Đen Không Gian | Giá: 33.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 1TB | Dung lượng: 1 TB | Màu: Trắng Mây | Giá: 33.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 1TB | Dung lượng: 1 TB | Màu: Vàng Nhạt | Giá: 33.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #47] + iPhone Air 1TB | Dung lượng: 1 TB | Màu: Xanh Da Trời | Giá: 33.990.000đ | Sao: 5 ((278 đánh giá))
+   [FPTShop #48] + Honor Play 10 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 3.650.000đ | Sao: 5 ((116 đánh giá))
+   [FPTShop #48] + Honor Play 10 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 3.650.000đ | Sao: 5 ((116 đánh giá))
+   [FPTShop #49] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 9.490.000đ | Sao: 5 ((138 đánh giá))
+   [FPTShop #49] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 9.490.000đ | Sao: 5 ((138 đánh giá))
+   [FPTShop #49] + Xiaomi Redmi Note 17 Pro 5G 6GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 9.490.000đ | Sao: 5 ((138 đánh giá))
+   [FPTShop #50] + Xiaomi Redmi 15C 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh lá | Giá: 3.790.000đ | Sao: 5 ((93 đánh giá))
+   [FPTShop #50] + Xiaomi Redmi 15C 4GB 128GB (NFC) | Dung lượng: 128 GB | Màu: Đen | Giá: 3.790.000đ | Sao: 5 ((93 đánh giá))
+   [FPTShop #50] + Xiaomi Redmi 15C 4GB 128GB (NFC) | Dung lượng: 128 GB | Màu: Cam | Giá: 3.790.000đ | Sao: 5 ((93 đánh giá))
+   [FPTShop #50] + Xiaomi Redmi 15C 4GB 128GB (NFC) | Dung lượng: 128 GB | Màu: Xanh lam | Giá: 3.790.000đ | Sao: 5 ((93 đánh giá))
+   [FPTShop #51] + Nokia 110 DS Pro 4G | Dung lượng: Mặc định | Màu: Tím | Giá: 850.000đ | Sao: 4.6 ((33 đánh giá))
+   [FPTShop #51] + Nokia 110 DS Pro 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 850.000đ | Sao: 4.6 ((33 đánh giá))
+   [FPTShop #52] + OPPO Find N3 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 26.990.000đ | Sao: 5 ((18 đánh giá))
+   [FPTShop #52] + OPPO Find N3 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Vàng | Giá: 26.990.000đ | Sao: 5 ((18 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh Navy | Giá: 25% | Sao: 5 ((963 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 25% | Sao: 5 ((963 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh Icy | Giá: 25% | Sao: 5 ((963 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 25% | Sao: 5 ((963 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 512GB | Dung lượng: 512 GB | Màu: Xanh Navy | Giá: 18.990.000đ | Sao: 5 ((963 đánh giá))
+   [FPTShop #53] + Samsung Galaxy S25 FE 5G 8GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 18.990.000đ | Sao: 5 ((963 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 16% | Sao: 5 ((189 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 16% | Sao: 5 ((189 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 16% | Sao: 5 ((189 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 15% | Sao: 5 ((189 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 15% | Sao: 5 ((189 đánh giá))
+   [FPTShop #54] + Samsung Galaxy Z Fold8 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 15% | Sao: 5 ((189 đánh giá))
+   [FPTShop #55] + iPhone 17e 256GB | Dung lượng: 256 GB | Màu: Hồng Phai | Giá: 20.990.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #55] + iPhone 17e 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 20.990.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #55] + iPhone 17e 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 20.990.000đ | Sao: 5 ((112 đánh giá))
+   [FPTShop #55] + iPhone 17e 512GB | Dung lượng: 512 GB | Màu: Hồng Phai | Giá: 12% | Sao: 5 ((112 đánh giá))
+   [FPTShop #55] + iPhone 17e 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 12% | Sao: 5 ((112 đánh giá))
+   [FPTShop #55] + iPhone 17e 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 12% | Sao: 5 ((112 đánh giá))
+   [FPTShop #56] + iPhone 16 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 24.490.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 128GB | Dung lượng: 128 GB | Màu: Hồng | Giá: 24.490.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 128GB | Dung lượng: 128 GB | Màu: Xanh Mòng Két | Giá: 24.490.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 24.490.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 128GB | Dung lượng: 128 GB | Màu: Xanh Lưu Ly | Giá: 24.490.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 256GB | Dung lượng: 256 GB | Màu: Xanh Lưu Ly | Giá: 6% | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 512GB | Dung lượng: 512 GB | Màu: Xanh Lưu Ly | Giá: 27.990.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 512GB | Dung lượng: 512 GB | Màu: Hồng | Giá: 23% | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 512GB | Dung lượng: 512 GB | Màu: Xanh Mòng Két | Giá: 27.990.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #56] + iPhone 16 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 27.990.000đ | Sao: 5 ((177 đánh giá))
+   [FPTShop #57] + Honor X5c Plus 4GB 64GB | Dung lượng: 64 GB | Màu: Xanh | Giá: 3.610.000đ | Sao: 5 ((408 đánh giá))
+   [FPTShop #57] + Honor X5c Plus 4GB 64GB | Dung lượng: 64 GB | Màu: Đen | Giá: 3.610.000đ | Sao: 5 ((408 đánh giá))
+   [FPTShop #57] + Honor X5c Plus 4GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 3.910.000đ | Sao: 5 ((408 đánh giá))
+   [FPTShop #57] + Honor X5c Plus 4GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 3.910.000đ | Sao: 5 ((408 đánh giá))
+   [FPTShop #58] + Honor X8d 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 7.320.000đ | Sao: 5 ((276 đánh giá))
+   [FPTShop #58] + Honor X8d 8GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 7.320.000đ | Sao: 5 ((276 đánh giá))
+   [FPTShop #58] + Honor X8d 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 7.320.000đ | Sao: 5 ((276 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 15% | Sao: 5 ((135 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 15% | Sao: 5 ((135 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 15% | Sao: 5 ((135 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 14% | Sao: 5 ((135 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 14% | Sao: 5 ((135 đánh giá))
+   [FPTShop #59] + Samsung Galaxy Z Fold8 Ultra 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 14% | Sao: 5 ((135 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 31% | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 31% | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 31% | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 31% | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 28.490.000đ | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 28.490.000đ | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 28.490.000đ | Sao: 5 ((184 đánh giá))
+   [FPTShop #60] + Samsung Galaxy S26 Plus 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh | Giá: 28.490.000đ | Sao: 5 ((184 đánh giá))
+   [FPTShop #61] + Inoi 244 Modern Plus 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 500.000đ | Sao: 4.4 ((16 đánh giá))
+   [FPTShop #61] + Inoi 244 Modern Plus 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 500.000đ | Sao: 4.4 ((16 đánh giá))
+   [FPTShop #62] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 256 GB | Màu: Xám Titan | Giá: 7.490.000đ | Sao: 5 ((137 đánh giá))
+   [FPTShop #62] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 7.490.000đ | Sao: 5 ((137 đánh giá))
+   [FPTShop #62] + Xiaomi Redmi Note 15 Pro 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh băng | Giá: 7.490.000đ | Sao: 5 ((137 đánh giá))
+   [FPTShop #63] + Benco V91 Plus 6GB 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 3.190.000đ | Sao: 4.5 ((22 đánh giá))
+   [FPTShop #63] + Benco V91 Plus 6GB 128GB | Dung lượng: 128 GB | Màu: Trắng Bình Minh | Giá: 3.190.000đ | Sao: 4.5 ((22 đánh giá))
+   [FPTShop #64] + OPPO Reno15 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 16.490.000đ | Sao: 5 ((104 đánh giá))
+   [FPTShop #64] + OPPO Reno15 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 16.490.000đ | Sao: 5 ((104 đánh giá))
+   [FPTShop #65] + Masstel Izi 16 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 390.000đ | Sao: 4.4 ((18 đánh giá))
+   [FPTShop #65] + Masstel Izi 16 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 390.000đ | Sao: 4.4 ((18 đánh giá))
+   [FPTShop #66] + Samsung Galaxy A26 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 7.100.000đ | Sao: 5 ((86 đánh giá))
+   [FPTShop #66] + Samsung Galaxy A26 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 7.100.000đ | Sao: 5 ((86 đánh giá))
+   [FPTShop #66] + Samsung Galaxy A26 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Hồng | Giá: 7.100.000đ | Sao: 5 ((86 đánh giá))
+   [FPTShop #67] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 22% | Sao: 4.9 ((42 đánh giá))
+   [FPTShop #67] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 22% | Sao: 4.9 ((42 đánh giá))
+   [FPTShop #67] + Samsung Galaxy Z Flip8 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Hồng | Giá: 22% | Sao: 4.9 ((42 đánh giá))
+   [FPTShop #68] + Nokia HMD 105 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 750.000đ | Sao: 4.9 ((124 đánh giá))
+   [FPTShop #68] + Nokia HMD 105 4G | Dung lượng: Mặc định | Màu: Hồng | Giá: 750.000đ | Sao: 4.9 ((124 đánh giá))
+   [FPTShop #68] + Nokia HMD 105 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 750.000đ | Sao: 4.9 ((124 đánh giá))
+   [FPTShop #69] + Nokia 105 DS Pro 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 780.000đ | Sao: 5 ((202 đánh giá))
+   [FPTShop #69] + Nokia 105 DS Pro 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 780.000đ | Sao: 5 ((202 đánh giá))
+   [FPTShop #70] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Bạc | Giá: 7.970.000đ | Sao: 4.9 ((18 đánh giá))
+   [FPTShop #70] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 7.970.000đ | Sao: 4.9 ((18 đánh giá))
+   [FPTShop #70] + Tecno Pova Curve 2 5G 8GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 7.970.000đ | Sao: 4.9 ((18 đánh giá))
+   [FPTShop #71] + Samsung Galaxy A08 4GB 64GB | Dung lượng: 64 GB | Màu: Xanh dương | Giá: 4.490.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #71] + Samsung Galaxy A08 4GB 64GB | Dung lượng: 64 GB | Màu: Xanh lá | Giá: 4.490.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #71] + Samsung Galaxy A08 4GB 64GB | Dung lượng: 64 GB | Màu: Bạc | Giá: 4.490.000đ | Sao: 5 ((211 đánh giá))
+   [FPTShop #72] + Benco V90 Plus 4GB 64GB | Dung lượng: 64 GB | Màu: Bạc Xanh | Giá: 8% | Sao: 5 ((318 đánh giá))
+   [FPTShop #72] + Benco V90 Plus 4GB 64GB | Dung lượng: 64 GB | Màu: Xám | Giá: 8% | Sao: 5 ((318 đánh giá))
+   [FPTShop #73] + OPPO Find N6 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Titan | Giá: 64.990.000đ | Sao: 5 ((16 đánh giá))
+   [FPTShop #73] + OPPO Find N6 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Cam | Giá: 64.990.000đ | Sao: 5 ((16 đánh giá))
+   [FPTShop #74] + Honor Magic V5 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Vàng | Giá: 33.990.000đ | Sao: 5 ((79 đánh giá))
+   [FPTShop #74] Không chọn được màu thứ 2, bỏ qua
+   [FPTShop #74] + Honor Magic V5 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Đỏ | Giá: 33.990.000đ | Sao: 5 ((79 đánh giá))
+   [FPTShop #74] + Honor Magic V5 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 33.990.000đ | Sao: 5 ((79 đánh giá))
+   [FPTShop #75] + Nokia 220 4G | Dung lượng: Mặc định | Màu: Cam | Giá: 1.100.000đ | Sao: 4.9 ((40 đánh giá))
+   [FPTShop #75] Không chọn được màu thứ 2, bỏ qua
+   [FPTShop #76] + Honor X7d 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 7.330.000đ | Sao: 5 ((36 đánh giá))
+   [FPTShop #77] + Itel P55 Plus NFC 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 3.490.000đ | Sao: 5 ((1 đánh giá))
+   [FPTShop #77] + Itel P55 Plus NFC 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 3.490.000đ | Sao: 5 ((1 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Xanh dương | Giá: 6% | Sao: 5 ((159 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Xám Titan | Giá: 6% | Sao: 5 ((159 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Hồng | Giá: 6% | Sao: 5 ((159 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 10% | Sao: 5 ((159 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 256GB | Dung lượng: 256 GB | Màu: Xám Titan | Giá: 10% | Sao: 5 ((159 đánh giá))
+   [FPTShop #78] + OPPO A6 Pro 8GB 256GB | Dung lượng: 256 GB | Màu: Hồng | Giá: 10% | Sao: 5 ((159 đánh giá))
+   [FPTShop #79] + Xiaomi 17 Ultra 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Xanh lá | Giá: 25% | Sao: 5 ((64 đánh giá))
+   [FPTShop #79] + Xiaomi 17 Ultra 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 25% | Sao: 5 ((64 đánh giá))
+   [FPTShop #79] + Xiaomi 17 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Xanh lá | Giá: 39.990.000đ | Sao: 5 ((64 đánh giá))
+   [FPTShop #79] + Xiaomi 17 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Trắng | Giá: 39.990.000đ | Sao: 5 ((64 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 33% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 33% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 33% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 33% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 29% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Tím | Giá: 29% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 29% | Sao: 5 ((165 đánh giá))
+   [FPTShop #80] + Samsung Galaxy S26 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh | Giá: 29% | Sao: 5 ((165 đánh giá))
+   [FPTShop #81] + OPPO A5i Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Tím | Giá: 6.290.000đ | Sao: 5 ((139 đánh giá))
+   [FPTShop #81] + OPPO A5i Pro 8GB 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 6.290.000đ | Sao: 5 ((139 đánh giá))
+   [FPTShop #82] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 6.190.000đ | Sao: 5 ((209 đánh giá))
+   [FPTShop #82] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Xanh băng | Giá: 6.190.000đ | Sao: 5 ((209 đánh giá))
+   [FPTShop #82] + Xiaomi Redmi Note 15 5G 6GB 128GB | Dung lượng: 128 GB | Màu: Tím khói | Giá: 6.190.000đ | Sao: 5 ((209 đánh giá))
+   [FPTShop #83] + Honor X6c 6GB 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 4.390.000đ | Sao: 5 ((1078 đánh giá))
+   [FPTShop #83] + Honor X6c 6GB 128GB | Dung lượng: 128 GB | Màu: Xanh | Giá: 4.390.000đ | Sao: 5 ((1078 đánh giá))
+   [FPTShop #84] + Samsung Galaxy S25 Edge 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Bạc | Giá: 20.450.000đ | Sao: 4.9 ((11 đánh giá))
+   [FPTShop #84] + Samsung Galaxy S25 Edge 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 20.450.000đ | Sao: 4.9 ((11 đánh giá))
+   [FPTShop #84] + Samsung Galaxy S25 Edge 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 20.450.000đ | Sao: 4.9 ((11 đánh giá))
+   [FPTShop #85] + Mobell M139 4G | Dung lượng: Mặc định | Màu: Đen | Giá: 390.000đ | Sao: 4.6 ((21 đánh giá))
+   [FPTShop #85] + Mobell M139 4G | Dung lượng: Mặc định | Màu: Đỏ | Giá: 390.000đ | Sao: 4.6 ((21 đánh giá))
+   [FPTShop #86] + Xiaomi Redmi 15C 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh lam | Giá: 4.790.000đ | Sao: 5 ((64 đánh giá))
+   [FPTShop #86] + Xiaomi Redmi 15C 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 4.790.000đ | Sao: 5 ((64 đánh giá))
+   [FPTShop #87] + Samsung Galaxy S24 FE 5G 128GB | Dung lượng: 128 GB | Màu: Xanh biển | Giá: 12.490.000đ | Sao: 4.5 ((26 đánh giá))
+   [FPTShop #87] + Samsung Galaxy S24 FE 5G 128GB | Dung lượng: 128 GB | Màu: Xanh lá | Giá: 12.490.000đ | Sao: 4.5 ((26 đánh giá))
+   [FPTShop #87] + Samsung Galaxy S24 FE 5G 128GB | Dung lượng: 128 GB | Màu: Xám | Giá: 12.490.000đ | Sao: 4.5 ((26 đánh giá))
+   [FPTShop #87] + Samsung Galaxy S24 FE 5G 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 12.490.000đ | Sao: 4.5 ((26 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh Navy | Giá: 25.490.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đỏ San Hô | Giá: 25.490.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen Tuyền | Giá: 25.490.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen Tuyền | Giá: 29.990.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đỏ San Hô | Giá: 29.990.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #88] + Samsung Galaxy Z Flip7 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Xanh Navy | Giá: 29.990.000đ | Sao: 5 ((68 đánh giá))
+   [FPTShop #89] + OPPO Reno14 F 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh lá | Giá: 9.800.000đ | Sao: 5 ((65 đánh giá))
+   [FPTShop #89] + OPPO Reno14 F 5G 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh dương | Giá: 9.800.000đ | Sao: 5 ((65 đánh giá))
+   [FPTShop #90] + Samsung Galaxy S26 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Xanh | Giá: 41.990.000đ | Sao: 4.9 ((36 đánh giá))
+   [FPTShop #90] + Samsung Galaxy S26 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Đen | Giá: 41.990.000đ | Sao: 4.9 ((36 đánh giá))
+   [FPTShop #90] + Samsung Galaxy S26 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Tím | Giá: 41.990.000đ | Sao: 4.9 ((36 đánh giá))
+   [FPTShop #90] + Samsung Galaxy S26 Ultra 5G 16GB 1TB | Dung lượng: 1 TB | Màu: Trắng | Giá: 41.990.000đ | Sao: 4.9 ((36 đánh giá))
+   [FPTShop #91] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 9.090.000đ | Sao: 5 ((107 đánh giá))
+   [FPTShop #91] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím khói | Giá: 9.090.000đ | Sao: 5 ((107 đánh giá))
+   [FPTShop #91] + Xiaomi Redmi Note 15 Pro 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xám Titan | Giá: 9.090.000đ | Sao: 5 ((107 đánh giá))
+   [FPTShop #92] + Itel IT8010 4G | Dung lượng: Mặc định | Màu: Xanh biển | Giá: 349.000đ | Sao: 4.4 ((15 đánh giá))
+   [FPTShop #92] + Itel IT8010 4G | Dung lượng: Mặc định | Màu: Xanh Đen | Giá: 349.000đ | Sao: 4.4 ((15 đánh giá))
+   [FPTShop #92] + Itel IT8010 4G | Dung lượng: Mặc định | Màu: Xanh lá | Giá: 349.000đ | Sao: 4.4 ((15 đánh giá))
+   [FPTShop #93] + Inoi 240 Modern 4G | Dung lượng: Mặc định | Màu: Xanh | Giá: 390.000đ | Sao: 4.5 ((21 đánh giá))
+   [FPTShop #94] + Honor X9d 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 12.490.000đ | Sao: 5 ((129 đánh giá))
+   [FPTShop #94] + Honor X9d 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Đỏ nâu | Giá: 12.490.000đ | Sao: 5 ((129 đánh giá))
+   [FPTShop #94] + Honor X9d 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Vàng | Giá: 12.490.000đ | Sao: 5 ((129 đánh giá))
+   [FPTShop #94] + Honor X9d 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Vàng | Giá: 13.200.000đ | Sao: 5 ((129 đánh giá))
+   [FPTShop #94] + Honor X9d 5G 12GB 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 13.200.000đ | Sao: 5 ((129 đánh giá))
+   [FPTShop #95] + Oppo Find X10 Pro Max 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Trắng | Giá: 49.990.000đ | Sao:  ()
+   [FPTShop #95] + Oppo Find X10 Pro Max 5G 16GB 512GB | Dung lượng: 512 GB | Màu: Titan | Giá: 49.990.000đ | Sao:  ()
+   [FPTShop #96] + Oppo Find X10 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xám Titan | Giá: 34.990.000đ | Sao:  ()
+   [FPTShop #96] + Oppo Find X10 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh Nhạt | Giá: 34.990.000đ | Sao:  ()
+   [FPTShop #96] + Oppo Find X10 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Cam nhạt | Giá: 34.990.000đ | Sao:  ()
+   [FPTShop #97] + Samsung Galaxy A07 8GB 256GB | Dung lượng: 256 GB | Màu: Xanh lá | Giá: 4.690.000đ | Sao: 5 ((180 đánh giá))
+   [FPTShop #97] + Samsung Galaxy A07 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 4.690.000đ | Sao: 5 ((180 đánh giá))
+   [FPTShop #97] + Samsung Galaxy A07 8GB 256GB | Dung lượng: 256 GB | Màu: Tím Nhạt | Giá: 4.690.000đ | Sao: 5 ((180 đánh giá))
+   [FPTShop #98] + OPPO Reno13 F 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Tím | Giá: 9.990.000đ | Sao: 5 ((18 đánh giá))
+   [FPTShop #98] + OPPO Reno13 F 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xám | Giá: 9.990.000đ | Sao: 5 ((18 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 128GB | Dung lượng: 128 GB | Màu: Xanh Mòng Két | Giá: 26.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 128GB | Dung lượng: 128 GB | Màu: Hồng | Giá: 26.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 128GB | Dung lượng: 128 GB | Màu: Đen | Giá: 26.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 128GB | Dung lượng: 128 GB | Màu: Trắng | Giá: 26.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 128GB | Dung lượng: 128 GB | Màu: Xanh Lưu Ly | Giá: 26.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 29.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 256GB | Dung lượng: 256 GB | Màu: Hồng | Giá: 29.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: 29.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 256GB | Dung lượng: 256 GB | Màu: Xanh Lưu Ly | Giá: 29.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 512GB | Dung lượng: 512 GB | Màu: Xanh Lưu Ly | Giá: 28.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 512GB | Dung lượng: 512 GB | Màu: Xanh Mòng Két | Giá: 28.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #99] + iPhone 16 Plus 512GB | Dung lượng: 512 GB | Màu: Đen | Giá: 28.990.000đ | Sao: 5 ((256 đánh giá))
+   [FPTShop #100] + OPPO Reno14 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Trắng | Giá: 14.990.000đ | Sao: 5 ((10 đánh giá))
+   [FPTShop #100] + OPPO Reno14 5G 12GB 256GB | Dung lượng: 256 GB | Màu: Xanh | Giá: 14.990.000đ | Sao: 5 ((10 đánh giá))
+   [FPTShop #106] Không chọn được màu thứ 2, bỏ qua
+   [FPTShop #106] Không chọn được màu thứ 3, bỏ qua
+   [FPTShop #106] Không chọn được màu thứ 4, bỏ qua
+   [FPTShop #107] + Tecno Spark 40 8GB 256GB | Dung lượng: 256 GB | Màu: Đen | Giá: Khuyến mãi 1 | Sao: 5 ((1 đánh giá))
+   [FPTShop #107] + Tecno Spark 40 8GB 256GB | Dung lượng: 256 GB | Màu:  | Giá: Khuyến mãi 1 | Sao: 5 ((1 đánh giá))
+   [FPTShop #107] + Tecno Spark 40 8GB 256GB | Dung lượng: 256 GB | Màu:  | Giá: Khuyến mãi 1 | Sao: 5 ((1 đánh giá))
+   [FPTShop #107] + Tecno Spark 40 8GB 256GB | Dung lượng: 256 GB | Màu: Xám | Giá: Khuyến mãi 1 | Sao: 5 ((1 đánh giá))
+
+[FPTShop] Hoàn tất: 401 bản ghi
+
+Tổng số phiên bản sản phẩm thu thập trực tiếp: 1358
+
+[1/3] Đã xuất 1358 bản ghi DỮ LIỆU THÔ ra: C:\Users\tubt\Documents\BIGDATA_PRJ\crawl\..\dataset\products_raw.csv
+[2/3] Đã xuất 1239 bản ghi DỮ LIỆU SẠCH ra: C:\Users\tubt\Documents\BIGDATA_PRJ\crawl\..\dataset\products_cleaned.csv
+[3/3] Đã nạp thành công 1239 bản ghi thực tế vào MySQL (Bảng products)!
+EXIT=0
