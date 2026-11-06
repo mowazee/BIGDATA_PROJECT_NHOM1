@@ -1,0 +1,15 @@
+Apple	So_SP:316 | SP_Co_Danh_Gia:251 | Sao_TB:4.93 | Sao_TB_Trong_So:4.99 | Tong_Luot_DG:91771
+Benco	So_SP:2 | SP_Co_Danh_Gia:2 | Sao_TB:4.5 | Sao_TB_Trong_So:4.5 | Tong_Luot_DG:44
+HONOR	So_SP:42 | SP_Co_Danh_Gia:37 | Sao_TB:4.97 | Sao_TB_Trong_So:5.0 | Tong_Luot_DG:17988
+Itel	So_SP:2 | SP_Co_Danh_Gia:1 | Sao_TB:5.0 | Sao_TB_Trong_So:5.0 | Tong_Luot_DG:1
+Masstel	So_SP:8 | SP_Co_Danh_Gia:7 | Sao_TB:4.97 | Sao_TB_Trong_So:4.95 | Tong_Luot_DG:708
+Motorola	So_SP:28 | SP_Co_Danh_Gia:28 | Sao_TB:4.9 | Sao_TB_Trong_So:4.9 | Tong_Luot_DG:303
+Nokia	So_SP:9 | SP_Co_Danh_Gia:9 | Sao_TB:4.86 | Sao_TB_Trong_So:4.92 | Tong_Luot_DG:922
+Nubia	So_SP:28 | SP_Co_Danh_Gia:22 | Sao_TB:4.96 | Sao_TB_Trong_So:4.95 | Tong_Luot_DG:17
+OPPO	So_SP:83 | SP_Co_Danh_Gia:71 | Sao_TB:4.94 | Sao_TB_Trong_So:5.0 | Tong_Luot_DG:8493
+Other	So_SP:12 | SP_Co_Danh_Gia:12 | Sao_TB:4.83 | Sao_TB_Trong_So:4.4 | Tong_Luot_DG:32
+Realme	So_SP:35 | SP_Co_Danh_Gia:35 | Sao_TB:4.92 | Sao_TB_Trong_So:4.9 | Tong_Luot_DG:99
+Samsung	So_SP:195 | SP_Co_Danh_Gia:133 | Sao_TB:4.92 | Sao_TB_Trong_So:4.97 | Tong_Luot_DG:7327
+Tecno	So_SP:27 | SP_Co_Danh_Gia:18 | Sao_TB:4.94 | Sao_TB_Trong_So:4.94 | Tong_Luot_DG:149
+Vivo	So_SP:21 | SP_Co_Danh_Gia:21 | Sao_TB:4.9 | Sao_TB_Trong_So:4.9 | Tong_Luot_DG:184
+Xiaomi	So_SP:172 | SP_Co_Danh_Gia:150 | Sao_TB:4.95 | Sao_TB_Trong_So:4.99 | Tong_Luot_DG:14340

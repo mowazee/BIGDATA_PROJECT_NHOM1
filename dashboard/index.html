@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Phone Market Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Thị trường điện thoại – TGDĐ · CellphoneS · FPT Shop</h1>
+      <p>Kết quả 8 bài toán MapReduce (Hadoop Streaming trên YARN) – Nhóm 1, môn Big Data</p>
+      <div class="meta" id="meta"></div>
+    </div>
+    <button class="btn" id="themeBtn" type="button">Giao diện tối</button>
+  </header>
+
+  <div class="filters" role="group" aria-label="Lọc theo sàn">
+    <span class="label">Lọc theo sàn:</span>
+    <div id="sourceChips" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+    <span class="muted" style="font-size:12px">Áp dụng cho các biểu đồ có tách theo sàn và bảng tra cứu</span>
+  </div>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="grid">
+    <article class="card two-third">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR1</span>Số sản phẩm theo hãng và sàn</h2>
+        <p class="sub">Cột chồng – mỗi đoạn màu là một sàn</p>
+      </div><div class="card-tools"><button class="btn" data-table="mr1">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr1"></div><div class="table-wrap hidden" id="t-mr1"></div>
+    </article>
+
+    <article class="card third">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR4</span>Phân khúc giá</h2>
+        <p class="sub">Số sản phẩm trong từng khoảng giá bán</p>
+      </div><div class="card-tools"><button class="btn" data-table="mr4">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr4"></div><div class="table-wrap hidden" id="t-mr4"></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR2</span>Khoảng giá theo hãng</h2>
+        <p class="sub">Thanh: thấp nhất → cao nhất · Chấm: giá trung bình</p>
+      </div><div class="card-tools"><button class="btn" data-table="mr2">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr2"></div><div class="table-wrap hidden" id="t-mr2"></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR3</span>Mức giảm giá theo sàn</h2>
+        <p class="sub" id="mr3-sub">% giảm trung bình</p>
+      </div><div class="card-tools">
+        <select id="mr3-metric" aria-label="Chỉ số MR3">
+          <option value="avg_discount">% giảm trung bình (mọi SP)</option>
+          <option value="avg_discount_discounted">% giảm TB (chỉ SP đang giảm)</option>
+          <option value="discounted_pct">Tỷ lệ SP đang giảm giá</option>
+        </select>
+        <button class="btn" data-table="mr3">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr3"></div><div class="table-wrap hidden" id="t-mr3"></div>
+    </article>
+
+    <article class="card wide">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR5</span>So sánh giá cùng một mẫu máy giữa các sàn</h2>
+        <p class="sub">Mỗi hàng là một mẫu máy (cùng dung lượng), chấm màu là giá bán thấp nhất trên từng sàn – xếp theo chênh lệch</p>
+      </div><div class="card-tools">
+        <select id="mr5-n" aria-label="Số mẫu máy">
+          <option value="15">Top 15 chênh lệch</option>
+          <option value="30">Top 30 chênh lệch</option>
+          <option value="1000">Tất cả</option>
+        </select>
+        <button class="btn" data-table="mr5">Xem bảng</button></div></div>
+      <div class="chart" id="c-mr5" style="height:520px"></div><div class="table-wrap hidden" id="t-mr5"></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR6</span>Giá trung bình theo cấu hình RAM × ROM</h2>
+        <p class="sub">Ô càng đậm giá càng cao · số trong ô là số sản phẩm</p>
+      </div><div class="card-tools"><button class="btn" data-table="mr6">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr6"></div><div class="table-wrap hidden" id="t-mr6"></div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR7</span>Điểm đánh giá và lượt đánh giá theo hãng</h2>
+        <p class="sub">Trục ngang dạng log (lượt đánh giá) · kích thước chấm: số sản phẩm</p>
+      </div><div class="card-tools"><button class="btn" data-table="mr7">Xem bảng</button></div></div>
+      <div class="chart tall" id="c-mr7"></div><div class="table-wrap hidden" id="t-mr7"></div>
+    </article>
+
+    <article class="card wide">
+      <div class="card-head"><div>
+        <h2><span class="tag">MR8</span>Top 5 sản phẩm giảm giá nhiều nhất theo hãng</h2>
+        <p class="sub">Số tiền giảm = giá gốc − giá bán (mỗi mẫu máy giữ 1 màu giảm nhiều nhất)</p>
+      </div><div class="card-tools">
+        <select id="mr8-brand" aria-label="Chọn hãng"></select>
+        <button class="btn" data-table="mr8">Xem bảng</button></div></div>
+      <div class="chart" id="c-mr8" style="height:300px"></div><div class="table-wrap hidden" id="t-mr8"></div>
+    </article>
+
+    <article class="card wide">
+      <div class="card-head"><div>
+        <h2>Tra cứu sản phẩm</h2>
+        <p class="sub">Dữ liệu sạch (products_cleaned.csv) – bấm tiêu đề cột để sắp xếp</p>
+      </div></div>
+      <div class="explorer-tools">
+        <input type="search" id="q" placeholder="Tìm theo tên máy, ví dụ: iPhone 17, Galaxy S26…">
+        <select id="fBrand"><option value="">Tất cả hãng</option></select>
+        <select id="fSeg">
+          <option value="">Mọi mức giá</option>
+          <option value="0-7000000">Dưới 7 triệu</option>
+          <option value="7000000-15000000">7–15 triệu</option>
+          <option value="15000000-25000000">15–25 triệu</option>
+          <option value="25000000-1000000000">Trên 25 triệu</option>
+        </select>
+        <span class="muted" id="countInfo" style="align-self:center"></span>
+      </div>
+      <div class="table-wrap" id="explorer"></div>
+    </article>
+  </section>
+
+  <footer>Nguồn: crawl Selenium → MySQL → Sqoop → HDFS → MapReduce (8 bài) · Dashboard tạo bởi dashboard/build_data.py</footer>
+</div>
+
+<!-- ECharts 5.5.0 (CDN cdnjs) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js"></script>
+<script src="data/dashboard_data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

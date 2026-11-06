@@ -1,0 +1,3 @@
+CellphoneS	So_SP:366 | Dang_Giam_Gia:307 (83.9%) | Giam_TB:12.43% | Giam_TB_SP_Co_Giam:14.82%
+FPTShop	So_SP:225 | Dang_Giam_Gia:139 (61.8%) | Giam_TB:7.07% | Giam_TB_SP_Co_Giam:11.44%
+TGDD	So_SP:389 | Dang_Giam_Gia:295 (75.8%) | Giam_TB:22.44% | Giam_TB_SP_Co_Giam:29.59%

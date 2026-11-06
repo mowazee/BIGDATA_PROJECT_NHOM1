@@ -23,8 +23,18 @@ services:
     volumes:
       - ./shared_data:/shared_data
       - ./mapreduce_code:/mapreduce_code
+      # Sqoop 1.4.7 (kèm mysql-connector) lưu trên máy -> không mất khi tạo lại container
+      - ./tools/sqoop:/opt/sqoop
     environment:
       - CLUSTER_NAME=bigdata_ecommerce
+      # Job MapReduce gửi từ namenode chạy trên YARN -> hiện ở http://localhost:8088
+      - MAPRED_CONF_mapreduce_framework_name=yarn
+      - MAPRED_CONF_yarn_app_mapreduce_am_env=HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1
+      - MAPRED_CONF_mapreduce_map_env=HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1
+      - MAPRED_CONF_mapreduce_reduce_env=HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1
+      # Biến môi trường cho Sqoop (thay cho việc sửa ~/.bashrc trong container)
+      - SQOOP_HOME=/opt/sqoop
+      - PATH=/opt/hadoop-3.2.1/bin/:/opt/sqoop/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
     env_file:
       - ./hadoop.env
 
@@ -86,6 +96,12 @@ services:
     environment:
       HIVE_CORE_CONF_javax_jdo_option_ConnectionURL: "jdbc:postgresql://hive-metastore/metastore"
       SERVICE_PRECONDITION: "hive-metastore:9083"
+      # Truy vấn Hive (GROUP BY, JOIN, INSERT...) chạy MapReduce trên YARN -> hiện ở http://localhost:8088
+      # (mặc định không khai báo nên Hive chạy LocalJobRunner ngay trong container hive-server)
+      MAPRED_CONF_mapreduce_framework_name: "yarn"
+      MAPRED_CONF_yarn_app_mapreduce_am_env: "HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1"
+      MAPRED_CONF_mapreduce_map_env: "HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1"
+      MAPRED_CONF_mapreduce_reduce_env: "HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1"
     depends_on:
       - hive-metastore
     ports:
@@ -110,6 +126,10 @@ services:
     container_name: hue
     ports:
       - "8888:8888"
+    volumes:
+      # Cấu hình Hue dùng MySQL (mysql-db) thay vì SQLite -> hết lỗi "database is locked"
+      - ./hue_conf/z-hue-overrides.ini:/usr/share/hue/desktop/conf/z-hue-overrides.ini
     depends_on:
       - namenode
       - hive-server
+      - mysql-db
