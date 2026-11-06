@@ -6,7 +6,12 @@
       "user": "anonymous",
       "dateUpdated": "2026-11-06 09:17:17.221",
       "progress": 0,
-      "config": {},
+      "config": {
+        "colWidth": 12.0,
+        "editorHide": true,
+        "tableHide": false,
+        "title": true
+      },
       "settings": {
         "params": {},
         "forms": {}
@@ -34,13 +39,38 @@
       "title": "So san pham theo san",
       "text": "%hive\nSELECT source, COUNT(*) AS so_san_pham FROM products_hive GROUP BY source",
       "user": "anonymous",
-      "dateUpdated": "2026-11-06 09:17:17.267",
+      "dateUpdated": "2026-11-06 11:49:29.165",
       "progress": 0,
       "config": {
+        "colWidth": 12.0,
+        "editorHide": false,
+        "tableHide": false,
+        "title": true,
         "results": {
           "0": {
             "graph": {
-              "mode": "multiBarChart"
+              "mode": "multiBarChart",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [
+                {
+                  "name": "source",
+                  "index": 0.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "so_san_pham",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "setting": {
+                "multiBarChart": {}
+              },
+              "commonSetting": {}
             }
           }
         }
@@ -64,8 +94,8 @@
       "jobName": "paragraph_1793956637231_2016987991",
       "id": "paragraph_1793956637231_2016987991",
       "dateCreated": "2026-11-06 09:17:17.231",
-      "dateStarted": "2026-11-06 10:43:31.575",
-      "dateFinished": "2026-11-06 10:48:38.868",
+      "dateStarted": "2026-11-06 11:49:32.409",
+      "dateFinished": "2026-11-06 11:51:42.879",
       "status": "FINISHED"
     },
     {
@@ -75,10 +105,35 @@
       "dateUpdated": "2026-11-06 09:17:17.282",
       "progress": 0,
       "config": {
+        "colWidth": 12.0,
+        "editorHide": false,
+        "tableHide": false,
+        "title": true,
         "results": {
           "0": {
             "graph": {
-              "mode": "pieChart"
+              "mode": "pieChart",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [
+                {
+                  "name": "phan_khuc",
+                  "index": 0.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "so_luong",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "setting": {
+                "pieChart": {}
+              },
+              "commonSetting": {}
             }
           }
         }
@@ -110,16 +165,49 @@
       "title": "Gia ban trung binh theo hang (trieu dong)",
       "text": "%hive\nSELECT brand, ROUND(AVG(sale_price)/1000000, 2) AS gia_tb_trieu FROM products_hive GROUP BY brand ORDER BY gia_tb_trieu DESC",
       "user": "anonymous",
-      "dateUpdated": "2026-11-06 11:02:55.907",
+      "dateUpdated": "2026-11-06 12:29:58.037",
       "progress": 0,
       "config": {
+        "tableHide": false,
+        "editorSetting": {},
+        "colWidth": 12.0,
+        "editorHide": false,
+        "fontSize": 9.0,
+        "title": true,
         "results": {
           "0": {
             "graph": {
-              "mode": "multiBarChart"
+              "mode": "multiBarChart",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [
+                {
+                  "name": "brand",
+                  "index": 0.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "gia_tb_trieu",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "setting": {
+                "multiBarChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
+                }
+              },
+              "commonSetting": {}
             }
           }
-        }
+        },
+        "enabled": true
       },
       "settings": {
         "params": {},
@@ -151,10 +239,41 @@
       "dateUpdated": "2026-11-06 11:07:16.098",
       "progress": 0,
       "config": {
+        "colWidth": 12.0,
+        "editorHide": false,
+        "tableHide": false,
+        "title": true,
         "results": {
           "0": {
             "graph": {
-              "mode": "lineChart"
+              "mode": "lineChart",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [
+                {
+                  "name": "storage_gb",
+                  "index": 0.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [
+                {
+                  "name": "source",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "values": [
+                {
+                  "name": "gia_tb_trieu",
+                  "index": 2.0,
+                  "aggr": "sum"
+                }
+              ],
+              "setting": {
+                "lineChart": {}
+              },
+              "commonSetting": {}
             }
           }
         }
@@ -189,10 +308,21 @@
       "dateUpdated": "2026-11-06 10:59:05.426",
       "progress": 0,
       "config": {
+        "colWidth": 12.0,
+        "editorHide": false,
+        "tableHide": false,
+        "title": true,
         "results": {
           "0": {
             "graph": {
-              "mode": "table"
+              "mode": "table",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [],
+              "groups": [],
+              "values": [],
+              "setting": {},
+              "commonSetting": {}
             }
           }
         }
@@ -227,10 +357,35 @@
       "dateUpdated": "2026-11-06 09:17:17.300",
       "progress": 0,
       "config": {
+        "colWidth": 12.0,
+        "editorHide": false,
+        "tableHide": false,
+        "title": true,
         "results": {
-          "0": {
+          "1": {
             "graph": {
-              "mode": "multiBarChart"
+              "mode": "multiBarChart",
+              "height": 320.0,
+              "optionOpen": false,
+              "keys": [
+                {
+                  "name": "source",
+                  "index": 0.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "so_tin_nhan",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "setting": {
+                "multiBarChart": {}
+              },
+              "commonSetting": {}
             }
           }
         }
@@ -274,7 +429,6 @@
     "isZeppelinNotebookCronEnable": false
   },
   "info": {
-    "inIsolatedMode": false,
-    "isRunning": false
+    "inIsolatedMode": false
   }
 }

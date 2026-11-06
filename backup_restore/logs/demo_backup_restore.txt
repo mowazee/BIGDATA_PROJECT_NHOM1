@@ -1,22 +1,22 @@
 ##### 1. SAO LUU
 === [1/3] Sao lưu MySQL (ecommerce_db) ===
-    -> shared_data/backups/20261106_131329/ecommerce_db.sql (161660 bytes)
+    -> shared_data/backups/20261106_200518/ecommerce_db.sql (205537 bytes)
 === [2/3] Sao lưu HDFS ra máy (hdfs dfs -get) ===
-    -> 980 dong du lieu, 8 thu muc ket qua MR
+    -> 1239 dong du lieu, 8 thu muc ket qua MR
 === [3/3] Tạo HDFS snapshot ===
-Created snapshot /user/hadoop/hive/warehouse/products/.snapshot/snap_20261106_131329
-    -> /user/hadoop/hive/warehouse/products/.snapshot/snap_20261106_131329
-HOAN TAT. Ma ban sao luu: 20261106_131329
-Khoi phuc bang:  bash backup_restore/restore.sh 20261106_131329
+Created snapshot /user/hadoop/hive/warehouse/products/.snapshot/snap_20261106_200518
+    -> /user/hadoop/hive/warehouse/products/.snapshot/snap_20261106_200518
+HOAN TAT. Ma ban sao luu: 20261106_200518
+Khoi phuc bang:  bash backup_restore/restore.sh 20261106_200518
 
 ##### 2. GIA LAP MAT DU LIEU
-MySQL sau khi xoa TGDD: 591 dong
+MySQL sau khi xoa TGDD: 704 dong
 HDFS sau khi xoa: 0 dong
 
 ##### 3. PHUC HOI
-Khoi phuc tu ban sao luu: 20261106_131329
+Khoi phuc tu ban sao luu: 20261106_200518
 === [1/2] Phục hồi MySQL ===
-    -> ecommerce_db.products: 980 dong
+    -> ecommerce_db.products: 1239 dong
 === [2/2] Phục hồi HDFS ===
-    -> HDFS /user/hadoop/hive/warehouse/products: 980 dong
+    -> HDFS /user/hadoop/hive/warehouse/products: 1239 dong
 HOAN TAT.

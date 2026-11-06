@@ -59,7 +59,10 @@ NB=$(curl -s -X POST "$Z/api/notebook" -H 'Content-Type: application/json' -d "{
 NB_ID=$(echo "$NB" | sed 's/.*"body":"\([^"]*\)".*/\1/')
 echo "    -> notebook id: $NB_ID"
 
-echo "=== [3/3] Chay toan bo notebook (moi truy van la 1 job tren YARN, co the mat vai phut) ==="
-curl -s -X POST "$Z/api/notebook/job/$NB_ID?blocking=true" >/dev/null || true
-curl -s "$Z/api/notebook/job/$NB_ID" | grep -o '"status":"[A-Z]*"' | sort | uniq -c
+echo "=== [3/3] Chay lan luot tung doan (moi truy van la 1 job tren YARN, 1-4 phut/doan) ==="
+for PID in $(curl -s "$Z/api/notebook/$NB_ID" | grep -o '"id":"paragraph_[^"]*"' | sed 's/"id":"\([^"]*\)"/\1/'); do
+  curl -s -m 600 -X POST "$Z/api/notebook/run/$NB_ID/$PID" | grep -o '"code":"[A-Z]*"' | head -1
+done
+# Đặt trục X/Y cho từng biểu đồ (thiếu bước này Zeppelin chỉ hiện câu truy vấn, không vẽ biểu đồ)
+"${PYTHON:-python}" "$(dirname "$0")/config_charts.py" "$Z"
 echo "Mo notebook: $Z/#/notebook/$NB_ID"
