@@ -1,26 +1,26 @@
 === [1/5] Tạo topic products_stream (3 partition) ===
 Created topic products_stream.
-Topic: products_stream	TopicId: vrzj_WDXR9ipLRPAhJvE_w	PartitionCount: 3	ReplicationFactor: 1	Configs: 
+Topic: products_stream	TopicId: 8ZqprfHLQyKyYhnhKepWzw	PartitionCount: 3	ReplicationFactor: 1	Configs: 
 	Topic: products_stream	Partition: 0	Leader: 1	Replicas: 1	Isr: 1
 	Topic: products_stream	Partition: 1	Leader: 1	Replicas: 1	Isr: 1
 	Topic: products_stream	Partition: 2	Leader: 1	Replicas: 1	Isr: 1
 === [2/5] Producer: phát dữ liệu sản phẩm vào Kafka ===
-Da gui 1239 tin nhan vao topic 'products_stream': {'TGDD': 535, 'CellphoneS': 399, 'FPTShop': 305}
+Da gui 1144 tin nhan vao topic 'products_stream': {'TGDD': 444, 'CellphoneS': 395, 'FPTShop': 305}
 === [3/5] Số tin nhắn trong từng partition ===
 products_stream:0:305
-products_stream:1:934
+products_stream:1:839
 products_stream:2:0
 === [4/5] Consumer: đọc toàn bộ topic -> kafka/consumed_products.jsonl ===
-    -> 1239 tin nhắn
+    -> 1144 tin nhắn
 === [5/5] Ghi vào HDFS /user/root/kafka_stream và tạo bảng Hive ===
-2026-11-06 08:53:21,053 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2026-11-07 10:04:44,557 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
 Found 1 items
--rw-r--r--   3 root supergroup     469935 2026-11-06 08:53 /user/root/kafka_stream/products.jsonl
+-rw-r--r--   3 root supergroup     432985 2026-11-07 10:04 /user/root/kafka_stream/products.jsonl
 +-------------+---------+-----------+
 |   source    | so_tin  |  gia_tb   |
 +-------------+---------+-----------+
-| CellphoneS  | 399     | 23907167  |
+| CellphoneS  | 395     | 23853417  |
 | FPTShop     | 305     | 24202327  |
-| TGDD        | 535     | 14298142  |
+| TGDD        | 444     | 15281815  |
 +-------------+---------+-----------+
 HOAN TAT.

@@ -1,0 +1,196 @@
+Apple|iphone 15|128GB|Hồng	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:300.000 | CellphoneS=21.790.000, TGDD=21.490.000
+Apple|iphone 15|256GB|Hồng	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, TGDD=24.490.000
+Apple|iphone 15|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, TGDD=24.490.000
+Apple|iphone 15|256GB|Đen	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, TGDD=24.490.000
+Apple|iphone 16 plus|128GB|Hồng	Re_Nhat:CellphoneS/TGDD | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=24.990.000, FPTShop=26.990.000, TGDD=24.990.000
+Apple|iphone 16 plus|128GB|Trắng	Re_Nhat:CellphoneS/TGDD | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=24.990.000, FPTShop=26.990.000, TGDD=24.990.000
+Apple|iphone 16 plus|128GB|Xanh	Re_Nhat:CellphoneS/TGDD | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=24.990.000, FPTShop=26.990.000, TGDD=24.990.000
+Apple|iphone 16 plus|128GB|Đen	Re_Nhat:CellphoneS/TGDD | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=24.990.000, FPTShop=26.990.000, TGDD=24.990.000
+Apple|iphone 16 plus|256GB|Hồng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.100.000 | CellphoneS=27.890.000, FPTShop=29.990.000, TGDD=27.990.000
+Apple|iphone 16 plus|256GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.100.000 | CellphoneS=27.890.000, FPTShop=29.990.000, TGDD=27.990.000
+Apple|iphone 16 plus|256GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.100.000 | CellphoneS=27.890.000, FPTShop=29.990.000, TGDD=27.990.000
+Apple|iphone 16 plus|256GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.100.000 | CellphoneS=27.890.000, FPTShop=29.990.000, TGDD=27.990.000
+Apple|iphone 16 plus|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=28.990.000, FPTShop=28.990.000
+Apple|iphone 16 plus|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=28.990.000, FPTShop=28.990.000
+Apple|iphone 16|128GB|Hồng	Re_Nhat:FPTShop/TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, FPTShop=24.490.000, TGDD=24.490.000
+Apple|iphone 16|128GB|Trắng	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, FPTShop=24.490.000
+Apple|iphone 16|128GB|Xanh	Re_Nhat:FPTShop/TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, FPTShop=24.490.000, TGDD=24.490.000
+Apple|iphone 16|128GB|Đen	Re_Nhat:FPTShop/TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=24.990.000, FPTShop=24.490.000, TGDD=24.490.000
+Apple|iphone 16|512GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=26.990.000, FPTShop=27.990.000
+Apple|iphone 16|512GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=26.990.000, FPTShop=27.990.000
+Apple|iphone 17 pro max|1024GB|Bạc	Bang_Gia | Chenh_Lech:0 | FPTShop=47.990.000, TGDD=47.990.000
+Apple|iphone 17 pro max|1024GB|Cam	Bang_Gia | Chenh_Lech:0 | FPTShop=47.990.000, TGDD=47.990.000
+Apple|iphone 17 pro max|1024GB|Xanh	Bang_Gia | Chenh_Lech:0 | FPTShop=47.990.000, TGDD=47.990.000
+Apple|iphone 17 pro max|2048GB|Bạc	Bang_Gia | Chenh_Lech:0 | FPTShop=60.990.000, TGDD=60.990.000
+Apple|iphone 17 pro max|2048GB|Cam	Bang_Gia | Chenh_Lech:0 | FPTShop=60.990.000, TGDD=60.990.000
+Apple|iphone 17 pro max|2048GB|Xanh	Bang_Gia | Chenh_Lech:0 | FPTShop=60.990.000, TGDD=60.990.000
+Apple|iphone 17 pro max|256GB|Cam	Bang_Gia | Chenh_Lech:0 | FPTShop=34.990.000, TGDD=34.990.000
+Apple|iphone 17 pro max|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:FPTShop | Chenh_Lech:2.890.000 | FPTShop=34.990.000, TGDD=32.100.000
+Apple|iphone 17 pro max|512GB|Cam	Bang_Gia | Chenh_Lech:0 | FPTShop=41.490.000, TGDD=41.490.000
+Apple|iphone 17 pro max|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | FPTShop=41.490.000, TGDD=41.490.000
+Apple|iphone 17 pro|1024GB|Bạc	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop/TGDD | Chenh_Lech:200.000 | CellphoneS=44.790.000, FPTShop=44.990.000, TGDD=44.990.000
+Apple|iphone 17 pro|1024GB|Cam	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop/TGDD | Chenh_Lech:200.000 | CellphoneS=44.790.000, FPTShop=44.990.000, TGDD=44.990.000
+Apple|iphone 17 pro|1024GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop/TGDD | Chenh_Lech:300.000 | CellphoneS=44.690.000, FPTShop=44.990.000, TGDD=44.990.000
+Apple|iphone 17 pro|256GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=31.990.000, FPTShop=31.990.000, TGDD=31.990.000
+Apple|iphone 17 pro|256GB|Cam	Bang_Gia | Chenh_Lech:0 | CellphoneS=31.990.000, FPTShop=31.990.000, TGDD=31.990.000
+Apple|iphone 17 pro|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS/FPTShop | Chenh_Lech:2.690.000 | CellphoneS=31.990.000, FPTShop=31.990.000, TGDD=29.300.000
+Apple|iphone 17 pro|512GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.490.000, FPTShop=38.490.000, TGDD=38.490.000
+Apple|iphone 17 pro|512GB|Cam	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.490.000, FPTShop=38.490.000
+Apple|iphone 17 pro|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.490.000, FPTShop=38.490.000, TGDD=38.490.000
+Apple|iphone 17e|256GB|Hồng	Re_Nhat:CellphoneS/FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=20.990.000, FPTShop=20.990.000, TGDD=21.990.000
+Apple|iphone 17e|256GB|Trắng	Re_Nhat:CellphoneS/FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=20.990.000, FPTShop=20.990.000, TGDD=21.990.000
+Apple|iphone 17e|256GB|Đen	Re_Nhat:CellphoneS/FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=20.990.000, FPTShop=20.990.000, TGDD=21.990.000
+Apple|iphone 17e|512GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=26.990.000, TGDD=26.990.000
+Apple|iphone 17e|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=26.990.000, TGDD=26.990.000
+Apple|iphone 17|256GB|Trắng	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=28.690.000, FPTShop=28.490.000
+Apple|iphone 17|256GB|Tím	Re_Nhat:FPTShop/TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=28.690.000, FPTShop=28.490.000, TGDD=28.490.000
+Apple|iphone 17|256GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=28.690.000, FPTShop=28.490.000
+Apple|iphone 17|256GB|Xanh lá	Bang_Gia | Chenh_Lech:0 | CellphoneS=28.490.000, FPTShop=28.490.000
+Apple|iphone 17|256GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=28.690.000, FPTShop=28.490.000
+Apple|iphone 17|512GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=33.990.000, FPTShop=33.990.000, TGDD=33.990.000
+Apple|iphone 17|512GB|Tím	Bang_Gia | Chenh_Lech:0 | CellphoneS=33.990.000, FPTShop=33.990.000, TGDD=33.990.000
+Apple|iphone 17|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=33.990.000, FPTShop=33.990.000, TGDD=33.990.000
+Apple|iphone 17|512GB|Xanh lá	Bang_Gia | Chenh_Lech:0 | CellphoneS=33.990.000, FPTShop=33.990.000, TGDD=33.990.000
+Apple|iphone 17|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=33.990.000, FPTShop=33.990.000, TGDD=33.990.000
+Apple|iphone 18 pro max|1024GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=61.490.000, FPTShop=61.490.000, TGDD=61.490.000
+Apple|iphone 18 pro max|1024GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=61.490.000, FPTShop=61.490.000, TGDD=61.490.000
+Apple|iphone 18 pro max|1024GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=61.490.000, FPTShop=61.490.000, TGDD=61.490.000
+Apple|iphone 18 pro max|1024GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=61.490.000, FPTShop=61.490.000, TGDD=61.490.000
+Apple|iphone 18 pro max|2048GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=80.990.000, FPTShop=80.990.000, TGDD=80.990.000
+Apple|iphone 18 pro max|2048GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=80.990.000, FPTShop=80.990.000, TGDD=80.990.000
+Apple|iphone 18 pro max|2048GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=80.990.000, FPTShop=80.990.000, TGDD=80.990.000
+Apple|iphone 18 pro max|2048GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=80.990.000, FPTShop=80.990.000, TGDD=80.990.000
+Apple|iphone 18 pro max|256GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=41.990.000, FPTShop=41.990.000, TGDD=41.990.000
+Apple|iphone 18 pro max|256GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=41.990.000, FPTShop=41.990.000, TGDD=41.990.000
+Apple|iphone 18 pro max|256GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=41.990.000, FPTShop=41.990.000, TGDD=41.990.000
+Apple|iphone 18 pro max|256GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=41.990.000, FPTShop=41.990.000, TGDD=41.990.000
+Apple|iphone 18 pro max|512GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=48.490.000, FPTShop=48.490.000, TGDD=48.490.000
+Apple|iphone 18 pro max|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=48.490.000, FPTShop=48.490.000, TGDD=48.490.000
+Apple|iphone 18 pro max|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=48.490.000, FPTShop=48.490.000, TGDD=48.490.000
+Apple|iphone 18 pro max|512GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=48.490.000, FPTShop=48.490.000, TGDD=48.490.000
+Apple|iphone 18 pro|1024GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=58.490.000, FPTShop=58.490.000, TGDD=58.490.000
+Apple|iphone 18 pro|1024GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=58.490.000, FPTShop=58.490.000, TGDD=58.490.000
+Apple|iphone 18 pro|1024GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop/TGDD | Chenh_Lech:500.000 | CellphoneS=57.990.000, FPTShop=58.490.000, TGDD=58.490.000
+Apple|iphone 18 pro|1024GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=58.490.000, FPTShop=58.490.000, TGDD=58.490.000
+Apple|iphone 18 pro|2048GB|Bạc	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=77.490.000, FPTShop=76.990.000, TGDD=77.990.000
+Apple|iphone 18 pro|2048GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=77.490.000, FPTShop=76.990.000, TGDD=77.990.000
+Apple|iphone 18 pro|2048GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=77.490.000, FPTShop=76.990.000, TGDD=77.990.000
+Apple|iphone 18 pro|2048GB|Đỏ	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.000.000 | CellphoneS=77.490.000, FPTShop=76.990.000, TGDD=77.990.000
+Apple|iphone 18 pro|256GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.990.000, FPTShop=38.990.000, TGDD=38.990.000
+Apple|iphone 18 pro|256GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.990.000, FPTShop=38.990.000, TGDD=38.990.000
+Apple|iphone 18 pro|256GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop/TGDD | Chenh_Lech:300.000 | CellphoneS=38.690.000, FPTShop=38.990.000, TGDD=38.990.000
+Apple|iphone 18 pro|256GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.990.000, FPTShop=38.990.000, TGDD=38.990.000
+Apple|iphone 18 pro|512GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=45.490.000, FPTShop=45.490.000, TGDD=45.490.000
+Apple|iphone 18 pro|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=45.490.000, FPTShop=45.490.000, TGDD=45.490.000
+Apple|iphone 18 pro|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=45.490.000, FPTShop=45.490.000, TGDD=45.490.000
+Apple|iphone 18 pro|512GB|Đỏ	Bang_Gia | Chenh_Lech:0 | CellphoneS=45.490.000, FPTShop=45.490.000, TGDD=45.490.000
+Apple|iphone air|1024GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=31.990.000, FPTShop=33.990.000
+Apple|iphone air|1024GB|Vàng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=31.990.000, FPTShop=33.990.000
+Apple|iphone air|1024GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=31.990.000, FPTShop=33.990.000
+Apple|iphone air|1024GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:2.000.000 | CellphoneS=31.990.000, FPTShop=33.990.000
+Apple|iphone air|256GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:100.000 | CellphoneS=23.890.000, FPTShop=23.990.000
+Apple|iphone air|256GB|Vàng	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:400.000 | CellphoneS=23.390.000, FPTShop=22.990.000
+Apple|iphone air|256GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:100.000 | CellphoneS=23.890.000, FPTShop=23.990.000
+Apple|iphone air|256GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:100.000 | CellphoneS=23.890.000, FPTShop=23.990.000
+Apple|iphone air|512GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=28.990.000, FPTShop=29.990.000
+Apple|iphone air|512GB|Vàng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=28.990.000, FPTShop=29.990.000
+Apple|iphone air|512GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=28.990.000, FPTShop=29.990.000
+Apple|iphone air|512GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=28.990.000, FPTShop=29.990.000
+Apple|iphone duo|1024GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=84.490.000, FPTShop=84.490.000
+Apple|iphone duo|1024GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=84.490.000, FPTShop=84.490.000
+Apple|iphone duo|2048GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=103.990.000, FPTShop=103.990.000
+Apple|iphone duo|2048GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=103.990.000, FPTShop=103.990.000
+Apple|iphone duo|256GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=64.990.000, FPTShop=64.990.000
+Apple|iphone duo|256GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=64.990.000, FPTShop=64.990.000
+Apple|iphone duo|512GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=71.490.000, FPTShop=71.490.000
+Apple|iphone duo|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=71.490.000, FPTShop=71.490.000
+HONOR|honor 600|256GB|Cam	Bang_Gia | Chenh_Lech:0 | CellphoneS=16.430.000, FPTShop=16.430.000
+HONOR|honor 600|256GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=16.430.000, FPTShop=16.430.000
+HONOR|honor x9d|256GB|Đen	Bang_Gia | Chenh_Lech:0 | FPTShop=11.240.000, TGDD=11.240.000
+OPPO|oppo a6c|64GB|Nâu	Bang_Gia | Chenh_Lech:0 | FPTShop=4.690.000, TGDD=4.690.000
+OPPO|oppo a6|256GB|Vàng	Bang_Gia | Chenh_Lech:0 | FPTShop=11.490.000, TGDD=11.490.000
+OPPO|oppo a6|256GB|Xanh	Bang_Gia | Chenh_Lech:0 | FPTShop=11.490.000, TGDD=11.490.000
+OPPO|oppo a7 pro|256GB|Titan	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=13.700.000, FPTShop=13.990.000
+OPPO|oppo a7 pro|256GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=13.700.000, FPTShop=13.990.000
+OPPO|oppo find n3|512GB|Vàng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.500.000 | CellphoneS=25.490.000, FPTShop=26.990.000
+OPPO|oppo find n3|512GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.500.000 | CellphoneS=25.490.000, FPTShop=26.990.000
+OPPO|oppo find x9 ultra|512GB|Cam	Re_Nhat:CellphoneS | Dat_Nhat:TGDD | Chenh_Lech:5.000.000 | CellphoneS=44.990.000, FPTShop=45.990.000, TGDD=49.990.000
+OPPO|oppo find x9 ultra|512GB|Nâu	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=44.990.000, FPTShop=45.990.000
+OPPO|oppo find x9s|256GB|Cam	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:500.000 | CellphoneS=24.490.000, FPTShop=24.990.000
+OPPO|oppo find x9s|256GB|Tím	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:500.000 | CellphoneS=24.490.000, FPTShop=24.990.000
+OPPO|oppo find x9s|256GB|Xám	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:500.000 | CellphoneS=24.490.000, FPTShop=24.990.000
+OPPO|oppo reno16 f|256GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:320.000 | CellphoneS=15.370.000, FPTShop=15.690.000
+OPPO|oppo reno16 f|256GB|Tím	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:320.000 | CellphoneS=15.370.000, FPTShop=15.690.000
+OPPO|oppo reno16 f|256GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:320.000 | CellphoneS=15.370.000, FPTShop=15.690.000
+Samsung|samsung galaxy a07|128GB|Tím	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:910.000 | CellphoneS=4.700.000, FPTShop=4.190.000, TGDD=3.790.000
+Samsung|samsung galaxy a07|128GB|Xanh lá	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=3.990.000, TGDD=3.790.000
+Samsung|samsung galaxy a07|128GB|Đen	Re_Nhat:TGDD | Dat_Nhat:FPTShop | Chenh_Lech:590.000 | CellphoneS=3.990.000, FPTShop=4.190.000, TGDD=3.600.000
+Samsung|samsung galaxy a07|256GB|Xanh lá	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:400.000 | CellphoneS=4.290.000, FPTShop=4.690.000
+Samsung|samsung galaxy a07|256GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:400.000 | CellphoneS=4.290.000, FPTShop=4.690.000
+Samsung|samsung galaxy a08|64GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=4.490.000, FPTShop=4.490.000, TGDD=4.490.000
+Samsung|samsung galaxy a08|64GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=4.490.000, FPTShop=4.490.000
+Samsung|samsung galaxy a08|64GB|Xanh lá	Bang_Gia | Chenh_Lech:0 | CellphoneS=4.490.000, FPTShop=4.490.000, TGDD=4.490.000
+Samsung|samsung galaxy a17|128GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=5.490.000, TGDD=5.490.000
+Samsung|samsung galaxy a17|128GB|Xám	Bang_Gia | Chenh_Lech:0 | CellphoneS=5.490.000, TGDD=5.490.000
+Samsung|samsung galaxy a17|128GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=5.490.000, TGDD=5.490.000
+Samsung|samsung galaxy a18|128GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=6.890.000, TGDD=6.890.000
+Samsung|samsung galaxy a18|128GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=6.890.000, TGDD=6.890.000
+Samsung|samsung galaxy a27|128GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=7.800.000, TGDD=7.600.000
+Samsung|samsung galaxy a37|128GB|Trắng	Bang_Gia | Chenh_Lech:0 | CellphoneS=9.700.000, TGDD=9.700.000
+Samsung|samsung galaxy a57|128GB|Tím	Bang_Gia | Chenh_Lech:0 | CellphoneS=11.000.000, TGDD=11.000.000
+Samsung|samsung galaxy a57|128GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=11.000.000, TGDD=11.000.000
+Samsung|samsung galaxy s25 fe|128GB|Trắng	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=13.590.000, TGDD=13.390.000
+Samsung|samsung galaxy s25 fe|128GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=13.590.000, TGDD=13.390.000
+Samsung|samsung galaxy s25 fe|512GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=17.990.000, FPTShop=18.990.000
+Samsung|samsung galaxy s25 fe|512GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:1.000.000 | CellphoneS=17.990.000, FPTShop=18.990.000
+Samsung|samsung galaxy s25 ultra|256GB|Trắng	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:2.170.000 | CellphoneS=25.990.000, TGDD=23.820.000
+Samsung|samsung galaxy s25 ultra|256GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=25.990.000, FPTShop=25.990.000, TGDD=25.990.000
+Samsung|samsung galaxy s25 ultra|256GB|Xám	Bang_Gia | Chenh_Lech:0 | CellphoneS=25.990.000, FPTShop=25.990.000, TGDD=25.990.000
+Samsung|samsung galaxy s25 ultra|256GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=25.990.000, FPTShop=25.990.000, TGDD=25.990.000
+Samsung|samsung galaxy s25 ultra|512GB|Xám	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:900.000 | FPTShop=28.810.000, TGDD=29.710.000
+Samsung|samsung galaxy s25 ultra|512GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:900.000 | FPTShop=28.810.000, TGDD=29.710.000
+Samsung|samsung galaxy s25|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:700.000 | CellphoneS=17.490.000, TGDD=16.790.000
+Samsung|samsung galaxy s25|256GB|Xanh lá	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:700.000 | CellphoneS=17.490.000, TGDD=16.790.000
+Samsung|samsung galaxy s26 plus|512GB|Trắng	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=28.200.000, FPTShop=28.490.000
+Samsung|samsung galaxy s26 plus|512GB|Tím	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=28.200.000, FPTShop=28.490.000
+Samsung|samsung galaxy s26 plus|512GB|Xanh	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=28.200.000, FPTShop=28.490.000
+Samsung|samsung galaxy s26 plus|512GB|Đen	Re_Nhat:CellphoneS | Dat_Nhat:FPTShop | Chenh_Lech:290.000 | CellphoneS=28.200.000, FPTShop=28.490.000
+Samsung|samsung galaxy s26 ultra|1024GB|Trắng	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:2.600.000 | FPTShop=41.990.000, TGDD=44.590.000
+Samsung|samsung galaxy s26 ultra|1024GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:2.600.000 | FPTShop=41.990.000, TGDD=44.590.000
+Samsung|samsung galaxy s26 ultra|1024GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:2.600.000 | FPTShop=41.990.000, TGDD=44.590.000
+Samsung|samsung galaxy s26 ultra|1024GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:2.600.000 | FPTShop=41.990.000, TGDD=44.590.000
+Samsung|samsung galaxy z fold7|256GB|Xám	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.590.000, TGDD=38.590.000
+Samsung|samsung galaxy z fold7|256GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=38.590.000, TGDD=38.590.000
+Tecno|tecno pova curve 2|128GB|Bạc	Bang_Gia | Chenh_Lech:0 | CellphoneS=7.970.000, FPTShop=7.970.000
+Tecno|tecno pova curve 2|128GB|Tím	Bang_Gia | Chenh_Lech:0 | CellphoneS=7.970.000, FPTShop=7.970.000
+Tecno|tecno spark 50|128GB|Xám	Bang_Gia | Chenh_Lech:0 | CellphoneS=4.490.000, FPTShop=4.490.000
+Tecno|tecno spark 50|128GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=4.490.000, FPTShop=4.490.000
+Tecno|tecno spark go 3|64GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=3.260.000, TGDD=3.260.000
+Tecno|tecno spark go 3|64GB|Xám	Bang_Gia | Chenh_Lech:0 | CellphoneS=3.260.000, TGDD=3.260.000
+Tecno|tecno spark go 3|64GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=3.260.000, TGDD=3.260.000
+Xiaomi|xiaomi 17t pro|512GB|Xanh	Bang_Gia | Chenh_Lech:0 | CellphoneS=20.490.000, FPTShop=20.490.000
+Xiaomi|xiaomi 17t pro|512GB|Đen	Bang_Gia | Chenh_Lech:0 | CellphoneS=20.490.000, FPTShop=20.490.000
+Xiaomi|xiaomi 17t|512GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:1.150.000 | CellphoneS=15.670.000, TGDD=14.520.000
+Xiaomi|xiaomi redmi 17|256GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=5.990.000, FPTShop=5.790.000
+Xiaomi|xiaomi redmi 17|256GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=5.990.000, FPTShop=5.790.000
+Xiaomi|xiaomi redmi 17|256GB|Xanh lá	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=5.990.000, FPTShop=5.790.000
+Xiaomi|xiaomi redmi 17|256GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:200.000 | CellphoneS=5.990.000, FPTShop=5.790.000
+Xiaomi|xiaomi redmi a7|64GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:100.000 | CellphoneS=3.390.000, FPTShop=3.290.000, TGDD=3.310.000
+Xiaomi|xiaomi redmi a7|64GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:100.000 | CellphoneS=3.390.000, FPTShop=3.290.000
+Xiaomi|xiaomi redmi a7|64GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:100.000 | CellphoneS=3.390.000, FPTShop=3.290.000, TGDD=3.310.000
+Xiaomi|xiaomi redmi note 15 pro|256GB|Titan	Re_Nhat:TGDD | Dat_Nhat:FPTShop | Chenh_Lech:580.000 | FPTShop=7.490.000, TGDD=6.910.000
+Xiaomi|xiaomi redmi note 15 pro|256GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:900.000 | CellphoneS=9.990.000, FPTShop=9.090.000, TGDD=9.160.000
+Xiaomi|xiaomi redmi note 15 pro|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:710.000 | CellphoneS=8.190.000, FPTShop=7.490.000, TGDD=7.480.000
+Xiaomi|xiaomi redmi note 15 pro|256GB|Đen	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:1.280.000 | CellphoneS=8.190.000, FPTShop=7.490.000, TGDD=6.910.000
+Xiaomi|xiaomi redmi note 15|128GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=5.490.000, FPTShop=4.990.000
+Xiaomi|xiaomi redmi note 15|128GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=5.490.000, FPTShop=4.990.000
+Xiaomi|xiaomi redmi note 15|128GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:500.000 | CellphoneS=5.490.000, FPTShop=4.990.000
+Xiaomi|xiaomi redmi note 17 pro max|512GB|Trắng	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:40.000 | CellphoneS=15.630.000, FPTShop=15.590.000
+Xiaomi|xiaomi redmi note 17 pro max|512GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS/TGDD | Chenh_Lech:40.000 | CellphoneS=15.630.000, FPTShop=15.590.000, TGDD=15.630.000
+Xiaomi|xiaomi redmi note 17 pro max|512GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:40.000 | CellphoneS=15.630.000, FPTShop=15.590.000
+Xiaomi|xiaomi redmi note 17 pro|256GB|Tím	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:980.000 | CellphoneS=9.560.000, FPTShop=9.490.000, TGDD=8.580.000
+Xiaomi|xiaomi redmi note 17 pro|256GB|Xanh	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:980.000 | CellphoneS=9.560.000, FPTShop=9.490.000, TGDD=8.580.000
+Xiaomi|xiaomi redmi note 17 pro|256GB|Đen	Re_Nhat:TGDD | Dat_Nhat:CellphoneS | Chenh_Lech:980.000 | CellphoneS=9.560.000, FPTShop=9.490.000, TGDD=8.580.000
+Xiaomi|xiaomi redmi note 17|128GB|Tím	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:1.520.000 | CellphoneS=6.050.000, FPTShop=5.990.000, TGDD=7.510.000
+Xiaomi|xiaomi redmi note 17|128GB|Xanh	Re_Nhat:FPTShop | Dat_Nhat:CellphoneS | Chenh_Lech:60.000 | CellphoneS=6.050.000, FPTShop=5.990.000
+Xiaomi|xiaomi redmi note 17|128GB|Đen	Re_Nhat:FPTShop | Dat_Nhat:TGDD | Chenh_Lech:220.000 | CellphoneS=6.050.000, FPTShop=5.990.000, TGDD=6.210.000

@@ -1,4 +1,4 @@
-1_Gia_Re_(<7Tr)	367
-2_Tam_Trung_(7-15Tr)	289
-3_Can_Cao_Cap_(15-25Tr)	208
-4_Cao_Cap_(>25Tr)	375
+1_Gia_Re_(<7Tr)	317
+2_Tam_Trung_(7-15Tr)	263
+3_Can_Cao_Cap_(15-25Tr)	197
+4_Cao_Cap_(>25Tr)	367
