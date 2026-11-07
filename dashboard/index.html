@@ -66,9 +66,13 @@
 
     <article class="card wide">
       <div class="card-head"><div>
-        <h2><span class="tag">MR5</span>So sánh giá cùng một mẫu máy giữa các sàn</h2>
-        <p class="sub">Mỗi hàng là một mẫu máy (cùng dung lượng), chấm màu là giá bán thấp nhất trên từng sàn – xếp theo chênh lệch</p>
+        <h2><span class="tag" id="mr5-tag">MR5</span>So sánh giá cùng một mẫu máy giữa các sàn</h2>
+        <p class="sub" id="mr5-sub">Mỗi hàng là một mẫu máy (cùng dung lượng), chấm màu là giá bán thấp nhất trên từng sàn – xếp theo chênh lệch</p>
       </div><div class="card-tools">
+        <select id="mr5-mode" aria-label="Cách so sánh">
+          <option value="mr5">Theo mẫu máy</option>
+          <option value="mr9">Theo mẫu máy + màu sắc</option>
+        </select>
         <select id="mr5-n" aria-label="Số mẫu máy">
           <option value="15">Top 15 chênh lệch</option>
           <option value="30">Top 30 chênh lệch</option>

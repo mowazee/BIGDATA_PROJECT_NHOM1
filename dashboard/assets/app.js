@@ -200,8 +200,14 @@
   // ------------------------------------------------------------------ MR5 (dumbbell)
   function renderMR5(t) {
     const n = +document.getElementById("mr5-n").value;
+    // MR9 = cùng mẫu máy + cùng màu: tránh 1 màu giá bất thường làm phóng đại chênh lệch của cả mẫu máy
+    const byColor = document.getElementById("mr5-mode").value === "mr9" && (D.mr9 || []).length;
+    document.getElementById("mr5-tag").textContent = byColor ? "MR9" : "MR5";
+    document.getElementById("mr5-sub").textContent = byColor
+      ? "Mỗi hàng là một mẫu máy cùng dung lượng VÀ cùng màu (màu đã quy về nhóm cơ bản), chấm màu là giá bán trên từng sàn"
+      : "Mỗi hàng là một mẫu máy (cùng dung lượng), chấm màu là giá bán thấp nhất trên từng sàn – xếp theo chênh lệch";
     const srcs = SOURCES.filter((s) => active.has(s));
-    const rows = D.mr5
+    const rows = (byColor ? D.mr9 : D.mr5)
       .map((r) => {
         const prices = {};
         srcs.forEach((s) => { if (r.prices[s]) prices[s] = r.prices[s]; });
@@ -414,6 +420,7 @@
     ["q", "fBrand", "fSeg"].forEach((id) => document.getElementById(id).addEventListener("input", renderExplorer));
     document.getElementById("mr3-metric").addEventListener("change", () => renderMR3(theme()));
     document.getElementById("mr5-n").addEventListener("change", () => renderMR5(theme()));
+    document.getElementById("mr5-mode").addEventListener("change", () => renderMR5(theme()));
 
     // Nút "Xem bảng" – phương án thay thế biểu đồ (đọc số chính xác, hỗ trợ người khó phân biệt màu)
     document.querySelectorAll("[data-table]").forEach((btn) => btn.addEventListener("click", () => {

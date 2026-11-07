@@ -105,10 +105,12 @@ def mr4():   # Phân khúc giá
             for k, v in sorted(read_mr(4))]
 
 
-def mr5():   # So sánh giá cùng máy giữa các sàn
+def mr5(n=5):   # So sánh giá cùng máy giữa các sàn (MR9: thêm cùng màu – khóa có phần "|màu")
     out = []
-    for k, v in read_mr(5):
-        brand, model, rom = (k.split("|") + ["", "", ""])[:3]
+    if not os.path.exists(os.path.join(RESULTS_DIR, "MR{}.txt".format(n))):
+        return out
+    for k, v in read_mr(n):
+        brand, model, rom, color = (k.split("|") + ["", "", "", ""])[:4]
         detail = v.split(" | ")[-1]
         prices = {}
         for item in detail.split(", "):
@@ -119,7 +121,8 @@ def mr5():   # So sánh giá cùng máy giữa các sàn
             continue
         rom_gb = int(re.sub(r"\D", "", rom) or 0)
         rom_lbl = "{}TB".format(rom_gb // 1024) if rom_gb >= 1024 else "{}GB".format(rom_gb)
-        out.append({"brand": brand, "model": "{} {}".format(model.title().replace("Iphone", "iPhone"), rom_lbl),
+        label = "{} {}".format(model.title().replace("Iphone", "iPhone"), rom_lbl) + (" · " + color if color else "")
+        out.append({"brand": brand, "model": label, "color": color,
                     "prices": prices, "diff": max(prices.values()) - min(prices.values()),
                     "same_price": v.startswith("Bang_Gia")})
     out.sort(key=lambda r: -r["diff"])
@@ -176,7 +179,7 @@ if __name__ == "__main__":
     data = {
         "generated_at": datetime.now().strftime("%d/%m/%Y %H:%M"),
         "mr1": mr1(), "mr2": mr2(), "mr3": mr3(), "mr4": mr4(),
-        "mr5": mr5(), "mr6": mr6(), "mr7": mr7(), "mr8": mr8(),
+        "mr5": mr5(), "mr6": mr6(), "mr7": mr7(), "mr8": mr8(), "mr9": mr5(9),
         "products_columns": ["source", "brand", "name", "ram", "rom", "original_price",
                              "sale_price", "discount_pct", "rating", "reviews"],
         "products": products(),
@@ -187,4 +190,5 @@ if __name__ == "__main__":
         f.write("window.DASHBOARD_DATA = ")
         json.dump(data, f, ensure_ascii=False)
         f.write(";\n")
-    print("Đã tạo {} ({} sản phẩm, MR5: {} mẫu máy)".format(OUT_PATH, len(data["products"]), len(data["mr5"])))
+    print("Đã tạo {} ({} sản phẩm, MR5: {} mẫu máy, MR9: {} mẫu máy + màu)".format(
+        OUT_PATH, len(data["products"]), len(data["mr5"]), len(data["mr9"])))

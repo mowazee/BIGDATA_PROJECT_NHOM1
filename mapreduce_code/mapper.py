@@ -71,6 +71,37 @@ def model_key(brand, clean_name, rom):
     return "{}|{}|{}GB".format(brand, name, rom)
 
 
+# Màu gốc: mỗi sàn đặt tên màu khác nhau ("Xanh Dương" / "Xanh dương nhạt" / "Xanh Navy", "Đen" / "Đen Không Gian")
+# -> quy về nhóm màu cơ bản để so sánh được cùng một màu giữa các sàn. Thứ tự kiểm tra quan trọng.
+COLOR_RULES = [
+    ("Xanh lá", ("xanh lá", "xanh lục", "xanh bạc hà", "xanh mint", "xanh ngọc", "xanh rêu", "lục bảo")),
+    ("Xanh", ("xanh", "navy", "băng thanh", "trời đêm", "lưu ly", "mòng két", "blue")),
+    ("Titan", ("titan", "titanium")),
+    ("Trắng", ("trắng", "white", "kem")),
+    ("Đen", ("đen", "black", "graphite")),
+    ("Bạc", ("bạc", "silver")),
+    ("Xám", ("xám", "ghi", "gray", "grey")),
+    ("Tím", ("tím", "purple", "lavender", "oải hương")),
+    ("Hồng", ("hồng", "pink")),
+    ("Vàng", ("vàng", "gold", "yellow")),
+    ("Cam", ("cam", "orange")),
+    ("Nâu", ("nâu", "brown")),
+    ("Đỏ", ("đỏ", "red", "burgundy")),
+]
+
+
+def base_color(clean_name):
+    """Lấy màu trong ngoặc cuối tên ("... (Xanh Dương nhạt)") và quy về nhóm màu cơ bản; không có màu -> ''."""
+    m = re.search(r"\(([^()]*)\)\s*$", clean_name)
+    if not m:
+        return ""
+    c = m.group(1).strip().lower()
+    for base, words in COLOR_RULES:
+        if any(c.startswith(w) or (" " + w) in (" " + c) for w in words):
+            return base
+    return c.title()
+
+
 def price_segment(p):
     if p < 7000000:
         return "1_Gia_Re_(<7Tr)"
@@ -131,5 +162,10 @@ for raw in stdin:
         saved = orig_p - sale_p
         if saved > 0:
             emit(brand, "{}:{} ({})".format(saved, c_name, src))
+
+    elif TASK == "MR9":  # So sánh giá cùng 1 máy, cùng ROM VÀ cùng màu giữa các sàn
+        color = base_color(c_name)
+        if color:
+            emit(model_key(brand, c_name, rom) + "|" + color, "{}:{}".format(src, sale_p))
 
 stdout.flush()

@@ -57,8 +57,8 @@ for key, group in groupby(read_pairs(), key=lambda kv: kv[0]):
             round(sum(discs) / len(discs), 2),
             round(sum(d for d in discs if d > 0) / n_disc, 2) if n_disc else 0))
 
-    elif TASK == "MR5":
-        # Giá thấp nhất của máy này trên từng sàn
+    elif TASK in ("MR5", "MR9"):
+        # MR5: theo mẫu máy + ROM; MR9: thêm cùng màu (khóa có thêm "|màu"). Giá thấp nhất của khóa trên từng sàn
         best = {}
         for item in vals:
             s, p = item.rsplit(":", 1)
